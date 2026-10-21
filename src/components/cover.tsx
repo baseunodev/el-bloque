@@ -1,12 +1,23 @@
 // Portada visual de cada nota. Si la nota no trae foto, se dibuja una placa con el color y el símbolo de la sección.
+import Image from "next/image";
 import type { Post } from "@/lib/content";
 import { sectionBySlug } from "@/lib/sections";
 
 export function Cover({ post, className = "", big = false }: { post: Post; className?: string; big?: boolean }) {
   const s = sectionBySlug(post.section)!;
   if (post.image) {
-    // eslint-disable-next-line @next/next/no-img-element
-    return <img src={post.image} alt="" className={`aspect-[16/9] w-full rounded-md object-cover ${className}`} loading={big ? "eager" : "lazy"} />;
+    return (
+      <div className={`relative aspect-[16/9] w-full overflow-hidden rounded-md bg-surface-2 ${className}`}>
+        <Image
+          src={post.image}
+          alt={post.imageAlt ?? ""}
+          fill
+          sizes={big ? "(min-width: 1024px) 800px, 100vw" : "(min-width: 1024px) 400px, (min-width: 640px) 50vw, 100vw"}
+          className="object-cover"
+          priority={big}
+        />
+      </div>
+    );
   }
   return (
     <div

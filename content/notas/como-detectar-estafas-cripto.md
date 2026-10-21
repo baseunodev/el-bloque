@@ -6,6 +6,10 @@ author: redaccion
 section: seguridad
 kicker: CUIDÁ TU PLATA
 coins: bitcoin, tether
+image: https://images.unsplash.com/photo-1555529902-5261145633bf?w=1600&q=75&auto=format&fit=crop
+imageAlt: Candado plateado
+imageCredit: Foto: Zaqy Al Fattah / Unsplash
+imageCreditUrl: https://unsplash.com/photos/silver-padlock-Lexcm-6FHRU
 ---
 
 Las estafas con criptomonedas tienen algo en común: **juegan con tu apuro y con tus ganas de ganar rápido**. Cambian los nombres y las plataformas, pero los trucos se repiten. Si reconocés estas señales, evitás la mayoría.

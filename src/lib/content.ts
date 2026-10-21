@@ -19,6 +19,9 @@ export type Post = {
   tags: string[];
   featured: boolean;
   image?: string;
+  imageAlt?: string;
+  imageCredit?: string; // "Foto: Nombre / Unsplash"
+  imageCreditUrl?: string;
   minutes: number;
   html: string;
 };
@@ -54,6 +57,9 @@ function load(file: string): Post {
     tags: list(data.tags),
     featured: data.featured === "true",
     image: data.image,
+    imageAlt: data.imageAlt,
+    imageCredit: data.imageCredit,
+    imageCreditUrl: data.imageCreditUrl,
     minutes: Math.max(1, Math.round(body.split(/\s+/).length / 220)),
     // {{mirador}} en el texto apunta al sitio de precios, así cambiar su dominio no obliga a editar notas.
     html: marked.parse(body.replaceAll("{{mirador}}", mirador.url), { async: false }) as string,
@@ -92,8 +98,8 @@ export function related(post: Post, limit = 4): Post[] {
 
 export const authors: Record<string, { name: string; role: string; bio: string }> = {
   redaccion: {
-    name: "Juan Pablo Centeno",
-    role: "Director",
-    bio: "Fundador y director de El Bloque. Sigue el mercado cripto y su impacto en la economía de América Latina.",
+    name: "Redacción El Bloque",
+    role: "Redacción",
+    bio: "Equipo de redacción de El Bloque. Sigue el mercado cripto y su impacto en la economía de América Latina.",
   },
 };

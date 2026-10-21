@@ -18,9 +18,15 @@ section: mercado              # mercado | regulacion | latam | seguridad | guias
 featured: true                # candidata a nota principal de portada (opcional)
 coins: bitcoin, ethereum      # ids de CoinGecko: muestran precios y enlazan al mirador
 tags: bitcoin, etf
+image: https://images.unsplash.com/photo-...?w=1600&q=75&auto=format&fit=crop   # foto libre (Unsplash)
+imageAlt: Qué se ve en la foto
+imageCredit: Foto: Nombre / Unsplash
+imageCreditUrl: https://unsplash.com/photos/...
 ---
 
-Cuerpo en Markdown. {{mirador}} se reemplaza por la URL del Mirador Cripto.
+Cuerpo en Markdown. {{mirador}} se reemplaza por la URL del Mirador Cripto. Cerrar con la fuente original: `*Fuente original: [Medio](url).*`
+
+Reglas: texto propio (nunca copiar la fuente), firma de la Redacción (`author: redaccion`), foto distinta en cada nota y sin fotos de prensa con copyright.
 ```
 
 Hacer push a `main` y Vercel publica.
@@ -33,7 +39,13 @@ Hacer push a `main` y Vercel publica.
 | `NEXT_PUBLIC_MIRADOR_URL` | URL del Mirador Cripto. Por defecto `https://mirador-cripto.vercel.app`. |
 | `COINGECKO_API_KEY` | Clave Demo de CoinGecko (opcional). |
 | `SUPABASE_URL`, `SUPABASE_PUBLISHABLE_KEY` | Opcionales: por defecto usa el proyecto `el-bloque` de Supabase. |
-| `NEXT_PUBLIC_ADSENSE_CLIENT`, `NEXT_PUBLIC_GA_ID` | AdSense y Google Analytics. |
+| `NEXT_PUBLIC_ADSENSE_CLIENT`, `NEXT_PUBLIC_GA_ID` | AdSense (`ca-pub-…`) y Google Analytics. |
+| `NEXT_PUBLIC_ADSENSE_SLOTS` | IDs de bloque de AdSense: `portada-top=123,nota-medio=456,default=789`. |
+
+## AdSense
+
+Espacios reservados: `portada-lateral`, `portada-top`, `portada-medio`, `portada-pie`, `seccion-<slug>`, `nota-medio` (tras el 2.º párrafo), `nota-final` y `nota-pie`.
+Mientras no haya ID se ve un recuadro "Publicidad" vacío. Al aprobar AdSense: cargar `NEXT_PUBLIC_ADSENSE_CLIENT` y `NEXT_PUBLIC_ADSENSE_SLOTS` en Vercel y volver a desplegar (el `ads.txt` se arma solo).
 
 ## Newsletter
 

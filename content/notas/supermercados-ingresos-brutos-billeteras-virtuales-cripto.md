@@ -7,6 +7,10 @@ author: redaccion
 section: latam
 coins: tether, bitcoin
 tags: argentina, impuestos, ingresos brutos, billeteras
+image: https://images.unsplash.com/photo-1604719312566-8912e9227c6a?w=1600&q=75&auto=format&fit=crop
+imageAlt: Góndola de supermercado
+imageCredit: Foto: Franki Chamaki / Unsplash
+imageCreditUrl: https://unsplash.com/photos/grocery-store-aisle-with-stocked-shelves-ivfp_yxZuYQ
 ---
 
 La **Asociación de Supermercados Unidos (ASU)** le pidió formalmente al Ministerio de Economía que conduce **Luis Caputo** que la Ciudad de Buenos Aires, Santa Fe y La Pampa se sumen "de inmediato" al **Sircupa**, el sistema que retiene Ingresos Brutos en las operaciones hechas con billeteras virtuales. Son las tres únicas jurisdicciones que todavía no están adentro, según [CriptoNoticias](https://www.criptonoticias.com/regulacion/reclamo-supermercados-argentina-criptomonedas/).

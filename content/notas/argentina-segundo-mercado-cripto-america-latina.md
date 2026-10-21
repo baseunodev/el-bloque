@@ -8,6 +8,10 @@ section: latam
 featured: true
 coins: tether, usd-coin, bitcoin
 tags: argentina, chainalysis, stablecoins, adopcion
+image: https://images.unsplash.com/photo-1589909202802-8f4aadce1849?w=1600&q=75&auto=format&fit=crop
+imageAlt: El Obelisco de Buenos Aires
+imageCredit: Foto: Nestor Barbitta / Unsplash
+imageCreditUrl: https://unsplash.com/photos/obelisco-de-buenos-aires-and-avenue-QhQ4WgX77G0
 ---
 
 Argentina movió **US$ 88.500 millones en criptomonedas** entre julio de 2025 y junio de 2026, un **15,3% más** que el año anterior. Con ese número es el **segundo mercado cripto de América Latina**, solo detrás de Brasil, según un informe de Chainalysis citado por [El Observador](https://www.elobservador.com/argentina/negocios/argentina-es-el-segundo-mercado-cripto-america-latina-detras-brasil-el-boom-los-dolares-digitales-n6060345) y [Bank Magazine](https://bankmagazine.com.ar/la-actividad-cripto-en-argentina/).

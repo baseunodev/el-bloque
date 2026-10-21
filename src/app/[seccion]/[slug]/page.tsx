@@ -68,7 +68,7 @@ export default async function Nota({ params }: Props) {
 
         <div className="mt-5 flex flex-wrap items-center justify-between gap-3 border-y border-border py-3">
           <div className="flex items-center gap-3 text-sm">
-            <span className="grid h-10 w-10 place-items-center rounded-full bg-ink font-serif text-lg font-bold text-white">{author.name[0]}</span>
+            <span className="grid h-10 w-10 place-items-center rounded-full bg-ink font-serif text-sm font-bold text-white">EB</span>
             <div>
               <p className="font-bold">{author.name}</p>
               <p className="text-xs text-muted">
@@ -80,7 +80,20 @@ export default async function Nota({ params }: Props) {
           <Share url={url} title={post.title} />
         </div>
 
-        <Cover post={post} big className="mt-6" />
+        <figure className="mt-6">
+          <Cover post={post} big />
+          {post.imageCredit && (
+            <figcaption className="mt-1.5 text-right text-xs text-muted">
+              {post.imageCreditUrl ? (
+                <a href={post.imageCreditUrl} target="_blank" rel="noopener nofollow" className="hover:underline">
+                  {post.imageCredit}
+                </a>
+              ) : (
+                post.imageCredit
+              )}
+            </figcaption>
+          )}
+        </figure>
 
         {coins.length > 0 && (
           <div className="mt-6 flex flex-wrap gap-2">
@@ -101,6 +114,8 @@ export default async function Nota({ params }: Props) {
           <AdSlot slot="nota-medio" minHeight={250} />
           <div dangerouslySetInnerHTML={{ __html: bottom }} />
         </div>
+
+        <AdSlot slot="nota-final" minHeight={250} />
 
         <div className="mt-10 rounded-lg border-2 border-fg p-5">
           <p className="headline text-2xl">¿Te sirvió? Recibí lo más importante cada mañana.</p>
@@ -150,11 +165,11 @@ export default async function Nota({ params }: Props) {
           datePublished: post.date,
           dateModified: post.updated ?? post.date,
           mainEntityOfPage: url,
-          image: [`${url}/opengraph-image`],
+          image: post.image ? [post.image, `${url}/opengraph-image`] : [`${url}/opengraph-image`],
           articleSection: s.name,
           keywords: post.tags.join(", "),
           inLanguage: "es",
-          author: { "@type": "Person", name: author.name, url: `${site.url}/sobre-nosotros` },
+          author: { "@type": "Organization", name: author.name, url: `${site.url}/sobre-nosotros` },
           publisher: { "@id": `${site.url}/#org` },
         }}
       />

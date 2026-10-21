@@ -17,7 +17,7 @@
 
 ## Quién escribe
 
-**Juan Pablo Centeno**, fundador y director. Responsable de todo lo que se publica en el sitio.
+Las notas las firma la **Redacción El Bloque**. Cada texto es propio: partimos de fuentes públicas, las chequeamos y las contamos con contexto latinoamericano. La fuente original va citada al pie de cada nota.
 
 ## Contacto
 

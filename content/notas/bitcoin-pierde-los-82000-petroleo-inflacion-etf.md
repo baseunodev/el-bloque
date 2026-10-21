@@ -8,6 +8,10 @@ section: mercado
 featured: true
 coins: bitcoin, ethereum
 tags: bitcoin, etf, fed, petroleo
+image: https://images.unsplash.com/photo-1516199423456-1f1e91b06f25?w=1600&q=75&auto=format&fit=crop
+imageAlt: Bombeador de petróleo al atardecer
+imageCredit: Foto: Zbynek Burival / Unsplash
+imageCreditUrl: https://unsplash.com/photos/oil-pump-jack-silhouette-against-red-sunset-GrmwVnVSSdU
 ---
 
 Bitcoin arrancó la semana a la baja y no encuentra piso firme. El martes 20 de octubre llegó a perforar los **US$ 82.000** y tocó la zona de los **US$ 81.200**, según datos de mercado recopilados por [crypto.news](https://crypto.news/why-is-bitcoin-price-going-down-today-october-20/). A las 7:31 de la mañana de Nueva York cotizaba a **US$ 81.405**, de acuerdo con [Yahoo Finance](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-october-20-2026-crypto-prices-slide-and-oil-costs-soar-as-mid-east-attacks-persist-114152288.html).

@@ -48,8 +48,11 @@ export default async function Portada() {
             </div>
           </div>
           <MiradorPromo coins={coins} usdtArs={usdt?.buy} />
+          <AdSlot slot="portada-lateral" minHeight={250} className="!my-0" />
         </div>
       </div>
+
+      <AdSlot slot="portada-top" minHeight={90} />
 
       {second.length > 0 && (
         <div className="mt-10 grid gap-8 border-t border-border pt-8 sm:grid-cols-2 lg:grid-cols-3">
