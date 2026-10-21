@@ -107,7 +107,7 @@ Deno.serve(async (req) => {
       body: JSON.stringify(batch),
     });
     if (r.ok) sent += batch.length;
-    else console.error("resend", r.status, await r.text());
+    else console.error("resend", r.status, await r.text(), "dominios:", batch.map((b) => b.to[0].split("@")[1]).join(","));
   }
   await db.from("envios").update({ enviados: sent }).eq("fecha", hoy);
   return Response.json({ ok: true, sent, subject });
