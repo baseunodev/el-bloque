@@ -1,0 +1,101 @@
+@import "tailwindcss";
+
+/* Papel de diario de día, tinta oscura de noche. */
+:root {
+  --bg: #f7f5f0;
+  --surface: #ffffff;
+  --surface-2: #efece5;
+  --fg: #141414;
+  --muted: #5d6066;
+  --border: #e2ddd2;
+  --brand: #e11d48;
+  --brand-soft: rgba(225, 29, 72, 0.08);
+  --up: #059669;
+  --down: #dc2626;
+  --ink: #0d0d0f;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #0f1013;
+    --surface: #17181c;
+    --surface-2: #1f2126;
+    --fg: #ededee;
+    --muted: #a1a4ab;
+    --border: #2a2c32;
+    --brand: #fb4d6d;
+    --brand-soft: rgba(251, 77, 109, 0.12);
+    --up: #22c55e;
+    --down: #f05252;
+    --ink: #050506;
+  }
+}
+
+@theme inline {
+  --color-bg: var(--bg);
+  --color-surface: var(--surface);
+  --color-surface-2: var(--surface-2);
+  --color-fg: var(--fg);
+  --color-muted: var(--muted);
+  --color-border: var(--border);
+  --color-brand: var(--brand);
+  --color-brand-soft: var(--brand-soft);
+  --color-up: var(--up);
+  --color-down: var(--down);
+  --color-ink: var(--ink);
+  --font-sans: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --font-serif: Georgia, "Times New Roman", "Iowan Old Style", "Palatino Linotype", serif;
+}
+
+body {
+  background: var(--bg);
+  color: var(--fg);
+  font-family: var(--font-sans);
+}
+
+.tabular-nums { font-variant-numeric: tabular-nums; white-space: nowrap; }
+
+/* Titulares: serif con peso, como un diario de papel */
+.headline { font-family: var(--font-serif); font-weight: 700; letter-spacing: -0.01em; line-height: 1.12; text-wrap: balance; }
+a .headline, .headline a { transition: color 0.15s; }
+a:hover .headline, .headline a:hover { color: var(--brand); }
+
+.kicker { font-size: 0.7rem; font-weight: 800; letter-spacing: 0.12em; text-transform: uppercase; color: var(--brand); }
+
+.rule { border-top: 3px double var(--fg); }
+
+@keyframes marquee { from { transform: translateX(0); } to { transform: translateX(-50%); } }
+.marquee { animation: marquee 70s linear infinite; }
+.marquee:hover { animation-play-state: paused; }
+@keyframes pulse-dot { 0%, 100% { opacity: 1; } 50% { opacity: 0.35; } }
+.live-dot { animation: pulse-dot 1.4s ease-in-out infinite; }
+@keyframes flash-up { from { background: rgba(5, 150, 105, 0.3); } to { background: transparent; } }
+@keyframes flash-down { from { background: rgba(220, 38, 38, 0.3); } to { background: transparent; } }
+.flash-up { animation: flash-up 0.9s ease-out; border-radius: 4px; }
+.flash-down { animation: flash-down 0.9s ease-out; border-radius: 4px; }
+@media (prefers-reduced-motion: reduce) {
+  .marquee, .live-dot, .flash-up, .flash-down { animation: none; }
+}
+
+/* Cuerpo de la nota */
+.prose-nota { font-family: var(--font-serif); font-size: 1.16rem; line-height: 1.75; }
+.prose-nota > p:first-of-type::first-letter { float: left; font-size: 3.6em; line-height: 0.85; padding: 0.06em 0.1em 0 0; font-weight: 700; color: var(--brand); }
+.prose-nota h2 { font-family: var(--font-sans); font-size: 1.35rem; font-weight: 800; margin: 2.2rem 0 0.7rem; letter-spacing: -0.01em; }
+.prose-nota h3 { font-family: var(--font-sans); font-size: 1.1rem; font-weight: 700; margin: 1.6rem 0 0.5rem; }
+.prose-nota p { margin: 0 0 1.15rem; }
+.prose-nota ul, .prose-nota ol { margin: 0 0 1.15rem 1.3rem; }
+.prose-nota ul { list-style: disc; }
+.prose-nota ol { list-style: decimal; }
+.prose-nota li { margin: 0.35rem 0; }
+.prose-nota a { color: var(--brand); text-decoration: underline; text-underline-offset: 3px; }
+.prose-nota strong { font-weight: 700; }
+.prose-nota blockquote { border-left: 4px solid var(--brand); padding: 0.2rem 0 0.2rem 1.1rem; margin: 1.5rem 0; font-size: 1.3rem; font-style: italic; }
+.prose-nota table { width: 100%; border-collapse: collapse; margin: 0 0 1.2rem; font-family: var(--font-sans); font-size: 0.95rem; }
+.prose-nota th, .prose-nota td { border-bottom: 1px solid var(--border); padding: 0.5rem; text-align: left; }
+.prose-nota hr { border-color: var(--border); margin: 2rem 0; }
+
+.prose-plain { line-height: 1.7; }
+.prose-plain h1 { font-family: var(--font-serif); font-size: 2rem; font-weight: 700; margin-bottom: 1rem; }
+.prose-plain h2 { font-size: 1.3rem; font-weight: 700; margin: 1.8rem 0 0.6rem; }
+.prose-plain p { margin: 0 0 1rem; }
+.prose-plain ul { list-style: disc; margin: 0 0 1rem 1.3rem; }
+.prose-plain a { color: var(--brand); text-decoration: underline; }
