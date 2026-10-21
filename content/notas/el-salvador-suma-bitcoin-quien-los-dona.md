@@ -11,9 +11,10 @@ image: https://images.unsplash.com/photo-1690384451505-2aef8ae1b0ef?w=1600&q=75&
 imageAlt: Vista de San Salvador con el volcán de fondo
 imageCredit: Foto: Ricky Mejia / Unsplash
 imageCreditUrl: https://unsplash.com/photos/a-view-of-a-city-with-a-mountain-in-the-background-MQaKo_mRZiw
+sources: CriptoNoticias | https://www.criptonoticias.com/comunidad/el-salvador-aumentando-bitcoin-pese-condiciones-fmi/ ; The Rio Times | https://www.riotimesonline.com/el-salvador-bitcoin-donations-2026/
 ---
 
-El contador de bitcoin de El Salvador sigue subiendo. Según el rastreador oficial de la **Oficina Nacional del Bitcoin**, el país sumó **38 BTC** desde el 3 de septiembre y llegó a unos **7.801 bitcoin**, informó [The Rio Times](https://www.riotimesonline.com/el-salvador-bitcoin-donations-2026/). Al precio de esos días, la reserva vale alrededor de **US$ 647 millones**.
+El contador de bitcoin de El Salvador sigue subiendo. Según el rastreador oficial de la **Oficina Nacional del Bitcoin**, el país sumó **38 BTC** desde el 3 de septiembre y llegó a unos **7.801 bitcoin**, informó The Rio Times. Al precio de esos días, la reserva vale alrededor de **US$ 647 millones**.
 
 ## El problema: el acuerdo con el FMI
 
@@ -33,4 +34,4 @@ Hasta el cierre de esta nota, ni el gobierno ni la Oficina del Bitcoin habían r
 
 En el mercado de predicciones Polymarket, la chance de que El Salvador tenga más de US$ 1.000 millones en bitcoin antes de fin de año era de apenas **14%**.
 
-*Fuente original: [The Rio Times](https://www.riotimesonline.com/el-salvador-bitcoin-donations-2026/). Más datos: [CriptoNoticias](https://www.criptonoticias.com/comunidad/el-salvador-aumentando-bitcoin-pese-condiciones-fmi/).*
+¿Y en el resto de la región? En Brasil, las nuevas reglas [están echando a las empresas cripto](/latam/brasil-exodo-cripto-lemon-bitso-argentina).

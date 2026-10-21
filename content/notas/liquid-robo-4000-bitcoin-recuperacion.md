@@ -11,9 +11,10 @@ image: https://images.unsplash.com/photo-1695668548342-c0c1ad479aee?w=1600&q=75&
 imageAlt: Rack de servidores en un centro de datos
 imageCredit: Foto: Kevin Ache / Unsplash
 imageCreditUrl: https://unsplash.com/photos/a-rack-of-servers-in-a-server-room-2JJ3wBHu4_0
+sources: blog de Liquid | https://blog.liquid.net/liquid-network-staged-recovery-update/ ; CriptoTendencias | https://www.criptotendencias.com/seguridad/hackeo-de-liquid-2/
 ---
 
-Un mes después de uno de los robos más grandes del año, **Liquid** vuelve a respirar. La red lateral (*sidechain*) de bitcoin creada por **Blockstream**, la empresa que dirige Adam Back, anunció que entró en las **etapas finales de su recuperación**, según [CriptoTendencias](https://www.criptotendencias.com/seguridad/hackeo-de-liquid-2/).
+Un mes después de uno de los robos más grandes del año, **Liquid** vuelve a respirar. La red lateral (*sidechain*) de bitcoin creada por **Blockstream**, la empresa que dirige Adam Back, anunció que entró en las **etapas finales de su recuperación**, según CriptoTendencias.
 
 ## Cuánto se llevaron
 
@@ -33,4 +34,4 @@ El gran tema ahora es si cada L-BTC sigue teniendo un bitcoin real detrás. Cuan
 
 Billeteras como **SideSwap** y **Aqua**, que operan sobre Liquid, ya figuran en las comunicaciones de la red.
 
-*Fuente original: [CriptoTendencias](https://www.criptotendencias.com/seguridad/hackeo-de-liquid-2/). Actualización oficial en el [blog de Liquid](https://blog.liquid.net/liquid-network-staged-recovery-update/).*
+El robo se suma a una racha complicada: en Qubic [vaciaron 1.404 billeteras en menos de dos horas](/seguridad/qubic-vaciaron-1404-billeteras-iphone) y el atacante de Drift [sigue lavando ether](/seguridad/hacker-drift-mueve-61-millones-eth-tornado-cash).

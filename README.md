@@ -22,11 +22,16 @@ image: https://images.unsplash.com/photo-...?w=1600&q=75&auto=format&fit=crop   
 imageAlt: Qué se ve en la foto
 imageCredit: Foto: Nombre / Unsplash
 imageCreditUrl: https://unsplash.com/photos/...
+sources: Medio | https://url-de-la-nota-original ; Otro medio | https://...
 ---
 
-Cuerpo en Markdown. {{mirador}} se reemplaza por la URL del Mirador Cripto. Cerrar con la fuente original: `*Fuente original: [Medio](url).*`
+Cuerpo en Markdown. {{mirador}} se reemplaza por la URL del Mirador Cripto.
 
-Reglas: texto propio (nunca copiar la fuente), firma de la Redacción (`author: redaccion`), foto distinta en cada nota y sin fotos de prensa con copyright.
+Reglas editoriales:
+- Texto propio, nunca copiado de la fuente. Títulos con gancho, sin mentir. Firma de la Redacción (`author: redaccion`).
+- **Sin links externos en el cuerpo**: se nombra al medio en texto ("según CriptoNoticias") y el link va en `sources:`, que se muestra al pie junto al crédito de la foto. Única excepción: una recomendación atribuida ("según X, conviene…").
+- **Links internos**: cada nota enlaza 1 o 2 notas nuestras relacionadas dentro del texto. Además, la página suma sola un "Leé también", la barra lateral y "Seguí leyendo".
+- Foto distinta en cada nota, libre de derechos (Unsplash), nunca fotos de prensa.
 ```
 
 Hacer push a `main` y Vercel publica.
@@ -44,7 +49,7 @@ Hacer push a `main` y Vercel publica.
 
 ## AdSense
 
-Espacios reservados: `portada-lateral`, `portada-top`, `portada-medio`, `portada-pie`, `seccion-<slug>`, `nota-medio` (tras el 2.º párrafo), `nota-final` y `nota-pie`.
+Espacios reservados: `portada-lateral`, `portada-top`, `portada-medio`, `portada-pie`, `seccion-<slug>`, `nota-medio` (tras el 2.º párrafo), `nota-final`, `nota-pie` y `nota-lateral` (vertical 300×600, fijo en la barra lateral; mientras no haya ID muestra notas propias).
 Mientras no haya ID se ve un recuadro "Publicidad" vacío. Al aprobar AdSense: cargar `NEXT_PUBLIC_ADSENSE_CLIENT` y `NEXT_PUBLIC_ADSENSE_SLOTS` en Vercel y volver a desplegar (el `ads.txt` se arma solo).
 
 ## Newsletter

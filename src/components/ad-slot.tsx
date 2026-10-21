@@ -1,5 +1,5 @@
 "use client";
-import { useEffect, useRef } from "react";
+import { useEffect, useRef, type ReactNode } from "react";
 
 const client = process.env.NEXT_PUBLIC_ADSENSE_CLIENT;
 
@@ -12,9 +12,9 @@ declare global {
 /**
  * Espacio de anuncio con alto reservado (evita saltos de diseño / CLS).
  * Sin NEXT_PUBLIC_ADSENSE_CLIENT muestra un recuadro "Publicidad" vacío para ver dónde van los anuncios;
- * cuando AdSense apruebe el sitio, alcanza con cargar la variable (y el ID de cada bloque en NEXT_PUBLIC_ADSENSE_SLOTS).
+ * con `fallback`, muestra eso en su lugar. Cuando AdSense apruebe el sitio, alcanza con cargar la variable (y el ID de cada bloque en NEXT_PUBLIC_ADSENSE_SLOTS).
  */
-export function AdSlot({ slot, minHeight = 250, className = "" }: { slot: string; minHeight?: number; className?: string }) {
+export function AdSlot({ slot, minHeight = 250, className = "", fallback }: { slot: string; minHeight?: number; className?: string; fallback?: ReactNode }) {
   const pushed = useRef(false);
   const id = adSlotId(slot);
   useEffect(() => {
@@ -26,6 +26,9 @@ export function AdSlot({ slot, minHeight = 250, className = "" }: { slot: string
       // AdSense todavía no cargó o el bloqueador de anuncios lo impidió
     }
   }, [id]);
+
+  // Sin AdSense, algunos espacios muestran contenido propio (ej. más notas) en vez del recuadro vacío.
+  if (!(client && id) && fallback) return <div className={className}>{fallback}</div>;
 
   return (
     <div className={`my-8 ${className}`} aria-label="Publicidad">

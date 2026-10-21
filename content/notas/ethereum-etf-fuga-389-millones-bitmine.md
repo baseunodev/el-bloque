@@ -11,11 +11,12 @@ image: https://images.unsplash.com/photo-1605792657660-596af9009e82?w=1600&q=75&
 imageAlt: Monedas de ethereum y bitcoin sobre una laptop
 imageCredit: Foto: Pierre Borthiry - Peiobty / Unsplash
 imageCreditUrl: https://unsplash.com/photos/bitcoin-and-ethereum-coins-on-laptop-vBCVcWUyvyM
+sources: KuCoin News, sobre datos de CoinDesk y Farside | https://www.kucoin.com/news/flash/xrp-solana-and-ethereum-etfs-see-71m-outflow-bitcoin-etfs-attract-5-1m-inflow ; Cryptonews | https://cryptonews.com/news/ethereum-price-disappoints-as-bitmine-buying-fails-to-offset-389m-etf-exodus
 ---
 
 En Wall Street hay dos películas distintas sobre Ethereum, y se están proyectando al mismo tiempo.
 
-En la primera, los inversores se van. Los ETF de ether al contado que cotizan en EE.UU. acumularon salidas netas por casi **US$ 389 millones** en cinco ruedas seguidas, según [Cryptonews](https://cryptonews.com/news/ethereum-price-disappoints-as-bitmine-buying-fails-to-offset-389m-etf-exodus). Solo entre el 14 y el 15 de octubre se fueron unos US$ 190 millones, con el fondo de BlackRock (ETHA) a la cabeza de las ventas.
+En la primera, los inversores se van. Los ETF de ether al contado que cotizan en EE.UU. acumularon salidas netas por casi **US$ 389 millones** en cinco ruedas seguidas, según Cryptonews. Solo entre el 14 y el 15 de octubre se fueron unos US$ 190 millones, con el fondo de BlackRock (ETHA) a la cabeza de las ventas.
 
 En la segunda, una empresa compra sin pausa. **Bitmine Immersion Technologies** sumó **12.535 ETH** en una semana y ya tiene unos **6,04 millones de ether**, valuados en alrededor de **US$ 14.300 millones**. Es cerca del **4,9% de todo el ether en circulación**, y su meta declarada es llegar al 5%. Además, tiene más del 80% de esas monedas puestas en *staking*, es decir, generando rendimiento.
 
@@ -29,4 +30,4 @@ Que una sola empresa compre mucho no alcanza para sostener el precio si los fond
 
 Mirá ether en vivo en el [Mirador Cripto]({{mirador}}/precio/ethereum).
 
-*Fuente original: [Cryptonews](https://cryptonews.com/news/ethereum-price-disappoints-as-bitmine-buying-fails-to-offset-389m-etf-exodus). Flujos diarios: [KuCoin News, sobre datos de CoinDesk y Farside](https://www.kucoin.com/news/flash/xrp-solana-and-ethereum-etfs-see-71m-outflow-bitcoin-etfs-attract-5-1m-inflow).*
+Mientras tanto, otra red le gana terreno en Wall Street: [los ETF de Solana ya superaron a los de XRP](/mercado/solana-supera-xrp-etf-alpenglow).

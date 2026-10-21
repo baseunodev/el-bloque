@@ -12,9 +12,10 @@ image: https://images.unsplash.com/photo-1623227413711-25ee4388dae3?w=1600&q=75&
 imageAlt: Una moneda de bitcoin sobre pepitas de oro
 imageCredit: Foto: Kanchanara / Unsplash
 imageCreditUrl: https://unsplash.com/photos/a-bitcoin-sitting-on-top-of-a-pile-of-gold-nuggets-rhm7H8X5J98
+sources: Caleb & Brown | https://calebandbrown.com/blog/weekly-rollup-october-20-2026/ ; Cryptonews | https://cryptonews.com/news/ethereum-price-disappoints-as-bitmine-buying-fails-to-offset-389m-etf-exodus ; Cripto247 | https://www.cripto247.com/mercados-trading/bitcoin-vuelve-a-subir-cotiza-sobre-los-usd-83-500-y-muestra-se%C3%B1ales-de-recuperaci%C3%B3n
 ---
 
-Bitcoin levantó cabeza. Este miércoles 21 de octubre volvió a cotizar por encima de los **US$ 84.000** y llegó a marcar **US$ 84.504**, con una suba de casi **2% en 24 horas**, según los datos que publicó [Cripto247](https://www.cripto247.com/mercados-trading/bitcoin-vuelve-a-subir-cotiza-sobre-los-usd-83-500-y-muestra-se%C3%B1ales-de-recuperaci%C3%B3n).
+Bitcoin levantó cabeza. Este miércoles 21 de octubre volvió a cotizar por encima de los **US$ 84.000** y llegó a marcar **US$ 84.504**, con una suba de casi **2% en 24 horas**, según los datos que publicó Cripto247.
 
 Es un alivio después de días muy pesados: el jueves 15 había tocado los **US$ 80.117**, su peor nivel de la semana, y el lunes no había podido romper la barrera de los US$ 83.000.
 
@@ -40,4 +41,4 @@ Un día verde no cambia el panorama de fondo. La inflación de septiembre en EE.
 
 Seguí el precio en vivo en el [Mirador Cripto]({{mirador}}/precio/bitcoin).
 
-*Fuente original: [Cripto247](https://www.cripto247.com/mercados-trading/bitcoin-vuelve-a-subir-cotiza-sobre-los-usd-83-500-y-muestra-se%C3%B1ales-de-recuperaci%C3%B3n). Datos de Ethereum: [Cryptonews](https://cryptonews.com/news/ethereum-price-disappoints-as-bitmine-buying-fails-to-offset-389m-etf-exodus). Contexto macro: [Caleb & Brown](https://calebandbrown.com/blog/weekly-rollup-october-20-2026/). Precios de referencia del 21 de octubre de 2026.*
+Para entender de dónde viene este rebote, repasá [por qué bitcoin perdió los US$ 82.000](/mercado/bitcoin-pierde-los-82000-petroleo-inflacion-etf) y [la amenaza de un segundo octubre en rojo](/mercado/bitcoin-octubre-rojo-uptober).

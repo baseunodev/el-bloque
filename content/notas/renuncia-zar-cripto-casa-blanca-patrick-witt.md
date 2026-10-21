@@ -11,6 +11,7 @@ image: https://images.unsplash.com/photo-1485394595691-5411947d63a4?w=1600&q=75&
 imageAlt: La Casa Blanca en Washington
 imageCredit: Foto: David Everett Strickler / Unsplash
 imageCreditUrl: https://unsplash.com/photos/white-house-washington-dc-igCBFrMd11I
+sources: KuCoin, informe de mercado del 20 de octubre | https://www.kucoin.com/news/articles/crypto-daily-market-report-october-20-2026 ; Caleb & Brown, resumen semanal del 20 de octubre de 2026 | https://calebandbrown.com/blog/weekly-rollup-october-20-2026/
 ---
 
 La Casa Blanca se quedó sin su hombre para las criptomonedas. **Patrick Witt**, el asesor del gobierno de EE.UU. en temas cripto, anunció que deja el cargo para pasar al sector privado. Por ahora **no hay reemplazante designado**.
@@ -27,4 +28,4 @@ Lo que se decide en Washington termina llegando a la región: define cómo opera
 
 Mientras tanto, los reguladores siguen moviéndose por su cuenta: la CFTC propuso un marco para que los exchanges puedan elegir supervisión federal en lugar de sacar licencias estado por estado.
 
-*Fuente original: [Caleb & Brown, resumen semanal del 20 de octubre de 2026](https://calebandbrown.com/blog/weekly-rollup-october-20-2026/), que cita a CoinDesk. Propuesta de la CFTC: [KuCoin, informe de mercado del 20 de octubre](https://www.kucoin.com/news/articles/crypto-daily-market-report-october-20-2026).*
+Donde sí hay avances es en las stablecoins: [EE.UU. ya prohibió pagar intereses por tenerlas](/regulacion/eeuu-prohibe-intereses-stablecoins-regla-occ-genius).

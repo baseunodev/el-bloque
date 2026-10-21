@@ -22,6 +22,7 @@ export type Post = {
   imageAlt?: string;
   imageCredit?: string; // "Foto: Nombre / Unsplash"
   imageCreditUrl?: string;
+  sources: { name: string; url?: string }[]; // van al pie de la nota, nunca dentro del texto
   minutes: number;
   html: string;
 };
@@ -60,6 +61,12 @@ function load(file: string): Post {
     imageAlt: data.imageAlt,
     imageCredit: data.imageCredit,
     imageCreditUrl: data.imageCreditUrl,
+    // sources: Medio | https://… ; Otro medio | https://…
+    sources: (data.sources ?? "")
+      .split(" ; ")
+      .map((x) => x.split(" | ").map((y) => y.trim()))
+      .filter(([name]) => name)
+      .map(([name, url]) => ({ name, url: url || undefined })),
     minutes: Math.max(1, Math.round(body.split(/\s+/).length / 220)),
     // {{mirador}} en el texto apunta al sitio de precios, así cambiar su dominio no obliga a editar notas.
     html: marked.parse(body.replaceAll("{{mirador}}", mirador.url), { async: false }) as string,

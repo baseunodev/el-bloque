@@ -11,9 +11,10 @@ image: https://images.unsplash.com/photo-1684679674829-fc7b436ec8e8?w=1600&q=75&
 imageAlt: Cartel luminoso de un banco de noche
 imageCredit: Foto: POURIA / Unsplash
 imageCreditUrl: https://unsplash.com/photos/a-bank-sign-lit-up-in-the-dark-UENYI2DL1RA
+sources: Caleb & Brown | https://calebandbrown.com/blog/weekly-rollup-october-20-2026/ ; DiarioBitcoin | https://www.diariobitcoin.com/mercados/jpmorgan-proyecta-que-bitcoin-superara-a-las-acciones-y-al-oro-en-el-largo-plazo/
 ---
 
-Durante años, Jamie Dimon, el jefe de JPMorgan, fue uno de los críticos más duros de bitcoin. Ahora, el brazo de inversiones del mismo banco lo incluyó por primera vez en sus **proyecciones de rendimiento a largo plazo**. **JPMorgan Asset Management** estima que bitcoin podría rendir alrededor de **10% por año durante los próximos 10 a 15 años**, según [DiarioBitcoin](https://www.diariobitcoin.com/mercados/jpmorgan-proyecta-que-bitcoin-superara-a-las-acciones-y-al-oro-en-el-largo-plazo/).
+Durante años, Jamie Dimon, el jefe de JPMorgan, fue uno de los críticos más duros de bitcoin. Ahora, el brazo de inversiones del mismo banco lo incluyó por primera vez en sus **proyecciones de rendimiento a largo plazo**. **JPMorgan Asset Management** estima que bitcoin podría rendir alrededor de **10% por año durante los próximos 10 a 15 años**, según DiarioBitcoin.
 
 Con ese número, bitcoin quedaría por encima de lo que el banco proyecta para las acciones y el oro.
 
@@ -27,4 +28,4 @@ Que un banco tradicional de ese tamaño ponga a bitcoin en la misma planilla que
 
 > **Importante:** esta es una proyección de un banco, no una promesa ni una recomendación de El Bloque. Las estimaciones a 10 o 15 años pueden fallar, y las criptomonedas son activos de alto riesgo.
 
-*Fuente original: [DiarioBitcoin](https://www.diariobitcoin.com/mercados/jpmorgan-proyecta-que-bitcoin-superara-a-las-acciones-y-al-oro-en-el-largo-plazo/). JPM Coin en Ethereum: [Caleb & Brown](https://calebandbrown.com/blog/weekly-rollup-october-20-2026/).*
+Del otro lado de Wall Street, las empresas que acumulan bitcoin reciben un golpe: [MSCI podría sacar a Strategy de sus índices](/mercado/msci-strategy-podria-quedar-fuera-indices).

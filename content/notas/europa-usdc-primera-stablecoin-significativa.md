@@ -11,6 +11,7 @@ image: https://images.unsplash.com/photo-1608817576203-3c27ed168bd2?w=1600&q=75&
 imageAlt: Bandera de la Unión Europea
 imageCredit: Foto: Christian Lue / Unsplash
 imageCreditUrl: https://unsplash.com/photos/blue-and-yellow-star-flag-8Yw6tsB8tnc
+sources: DiarioBitcoin | https://www.diariobitcoin.com/argentina/circle-suma-a-allaria-para-ampliar-la-liquidez-de-usdc-en-argentina/ ; Caleb & Brown, resumen semanal del 20 de octubre de 2026 | https://calebandbrown.com/blog/weekly-rollup-october-20-2026/
 ---
 
 Por primera vez, una stablecoin va a tener a un regulador europeo mirándole las cuentas de cerca. La **Autoridad Bancaria Europea (EBA)** clasificó a **USDC**, el dólar digital de la empresa Circle, como el primer **"token de dinero electrónico significativo"** bajo **MiCA**, la ley cripto de la Unión Europea.
@@ -33,4 +34,4 @@ Más control suele traer más confianza: quien tiene USDC gana un vigilante extr
 
 ¿No sabés bien qué es una stablecoin? Te lo explicamos en [nuestra guía](/guias/que-es-una-stablecoin).
 
-*Fuente original: [Caleb & Brown, resumen semanal del 20 de octubre de 2026](https://calebandbrown.com/blog/weekly-rollup-october-20-2026/), que cita a The Block. Dato de Argentina: [DiarioBitcoin](https://www.diariobitcoin.com/argentina/circle-suma-a-allaria-para-ampliar-la-liquidez-de-usdc-en-argentina/).*
+Mientras tanto, Circle sigue creciendo en la región: [se alió con Allaria para mover USDC contra pesos en la Argentina](/latam/circle-allaria-usdc-pesos-argentina).

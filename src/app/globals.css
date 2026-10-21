@@ -87,6 +87,7 @@ a:hover .headline, .headline a:hover { color: var(--brand); }
 .prose-nota ol { list-style: decimal; }
 .prose-nota li { margin: 0.35rem 0; }
 .prose-nota a { color: var(--brand); text-decoration: underline; text-underline-offset: 3px; }
+.prose-nota a.read-also { color: inherit; text-decoration: none; font-family: var(--font-sans); }
 .prose-nota strong { font-weight: 700; }
 .prose-nota blockquote { border-left: 4px solid var(--brand); padding: 0.2rem 0 0.2rem 1.1rem; margin: 1.5rem 0; font-size: 1.3rem; font-style: italic; }
 .prose-nota table { width: 100%; border-collapse: collapse; margin: 0 0 1.2rem; font-family: var(--font-sans); font-size: 0.95rem; }

@@ -43,3 +43,5 @@ Las estafas con criptomonedas tienen algo en común: **juegan con tu apuro y con
 4. **Cuidado con los "recuperadores".** Después de una estafa suelen aparecer supuestos expertos que prometen recuperar tu dinero a cambio de un pago. Casi siempre es una segunda estafa.
 
 > Mirador Cripto nunca te va a escribir para ofrecerte inversiones ni te va a pedir datos de tu billetera.
+
+Casos reales recientes: [el ataque a 1.404 billeteras de Qubic](/seguridad/qubic-vaciaron-1404-billeteras-iphone) y [los agentes de IA que vaciaron una billetera ajena](/seguridad/openai-agentes-ia-vaciaron-billetera-cripto).

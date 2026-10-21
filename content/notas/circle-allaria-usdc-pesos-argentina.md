@@ -11,9 +11,10 @@ image: https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=1600&q=75&
 imageAlt: Billetes de un dólar
 imageCredit: Foto: Alexander Grey / Unsplash
 imageCreditUrl: https://unsplash.com/photos/1-usa-dollar-banknotes-8lnbXtxFGZw
+sources: DiarioBitcoin | https://www.diariobitcoin.com/argentina/circle-suma-a-allaria-para-ampliar-la-liquidez-de-usdc-en-argentina/
 ---
 
-La Argentina sigue siendo un imán para los dólares digitales. **Circle**, la empresa que emite **USDC**, anunció una alianza con la firma financiera argentina **Allaria** para facilitar la compra y venta de USDC contra **pesos argentinos**, informó [DiarioBitcoin](https://www.diariobitcoin.com/argentina/circle-suma-a-allaria-para-ampliar-la-liquidez-de-usdc-en-argentina/).
+La Argentina sigue siendo un imán para los dólares digitales. **Circle**, la empresa que emite **USDC**, anunció una alianza con la firma financiera argentina **Allaria** para facilitar la compra y venta de USDC contra **pesos argentinos**, informó DiarioBitcoin.
 
 ## Qué ofrece el acuerdo
 
@@ -31,4 +32,4 @@ Con años de inflación alta y restricciones para comprar dólares, muchos argen
 
 Si querés entender cómo funciona, mirá nuestra guía sobre [el dólar cripto](/guias/que-es-el-dolar-cripto), y seguí la cotización en vivo en el [Mirador Cripto]({{mirador}}).
 
-*Fuente original: [DiarioBitcoin](https://www.diariobitcoin.com/argentina/circle-suma-a-allaria-para-ampliar-la-liquidez-de-usdc-en-argentina/).*
+En Europa, en cambio, USDC queda bajo más control: [es la primera stablecoin «significativa» que vigilará directamente la autoridad bancaria](/regulacion/europa-usdc-primera-stablecoin-significativa).

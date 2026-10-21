@@ -11,9 +11,10 @@ image: https://images.unsplash.com/photo-1580934738416-ad531f2920f7?w=1600&q=75&
 imageAlt: Sombrillas y faroles en Ciudad de México
 imageCredit: Foto: Pyro Jenka / Unsplash
 imageCreditUrl: https://unsplash.com/photos/umbrellas-and-lanterns-in-mexico-city-N2hiyUWvuNs
+sources: Cointelegraph en Español | https://cointelegraph.es/news/stablecoin-conference-2026-mxico-avanza-hacia-la-regulacin-de-stablecoins-ligadas-al-peso
 ---
 
-México se prepara para tener monedas digitales atadas a su propia moneda. El senador **Alejandro Murat Hinojosa** (Morena) impulsa una iniciativa para regular los **"Activos Virtuales Estables" (AVE)**: instrumentos digitales privados que valen **1 a 1 con el peso mexicano**, según explicó en la Stablecoin Conference Latam organizada por Bitso Business, reportó [Cointelegraph en Español](https://cointelegraph.es/news/stablecoin-conference-2026-mxico-avanza-hacia-la-regulacin-de-stablecoins-ligadas-al-peso).
+México se prepara para tener monedas digitales atadas a su propia moneda. El senador **Alejandro Murat Hinojosa** (Morena) impulsa una iniciativa para regular los **"Activos Virtuales Estables" (AVE)**: instrumentos digitales privados que valen **1 a 1 con el peso mexicano**, según explicó en la Stablecoin Conference Latam organizada por Bitso Business, reportó Cointelegraph en Español.
 
 ## Cómo sería
 
@@ -29,4 +30,4 @@ Murat calcula entre **6 y 12 meses** para una aplicación gradual. Antes, el pro
 
 Los números que presentó la Asociación Fintech México lo explican: el **85% de los pagos de menos de 500 pesos todavía se hace en efectivo** y el **40% de la población no tiene acceso bancario**. Una moneda digital estable en pesos podría abaratar pagos y remesas.
 
-*Fuente original: [Cointelegraph en Español](https://cointelegraph.es/news/stablecoin-conference-2026-mxico-avanza-hacia-la-regulacin-de-stablecoins-ligadas-al-peso).*
+La ley GENIUS que toma como modelo ya tiene efectos en EE.UU.: [prohíbe pagar intereses por tener stablecoins](/regulacion/eeuu-prohibe-intereses-stablecoins-regla-occ-genius).
