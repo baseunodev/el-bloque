@@ -14,7 +14,7 @@ imageCreditUrl: https://unsplash.com/photos/grocery-store-aisle-with-stocked-she
 sources: CriptoNoticias, que cita informes de Infobae y La Nación. ; CriptoNoticias | https://www.criptonoticias.com/regulacion/reclamo-supermercados-argentina-criptomonedas/
 ---
 
-La **Asociación de Supermercados Unidos (ASU)** le pidió formalmente al Ministerio de Economía que conduce **Luis Caputo** que la Ciudad de Buenos Aires, Santa Fe y La Pampa se sumen "de inmediato" al **Sircupa**, el sistema que retiene Ingresos Brutos en las operaciones hechas con billeteras virtuales. Son las tres únicas jurisdicciones que todavía no están adentro, según CriptoNoticias.
+La **Asociación de Supermercados Unidos (ASU)** le pidió formalmente al Ministerio de Economía que conduce **Luis Caputo** que la Ciudad de Buenos Aires, Santa Fe y La Pampa se sumen "de inmediato" al **Sircupa**, el sistema que retiene Ingresos Brutos en las operaciones hechas con billeteras virtuales. Son las tres únicas jurisdicciones que todavía no están adentro.
 
 ## Qué reclaman los supermercados
 

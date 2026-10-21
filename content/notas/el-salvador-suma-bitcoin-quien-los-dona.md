@@ -14,7 +14,7 @@ imageCreditUrl: https://unsplash.com/photos/a-view-of-a-city-with-a-mountain-in-
 sources: CriptoNoticias | https://www.criptonoticias.com/comunidad/el-salvador-aumentando-bitcoin-pese-condiciones-fmi/ ; The Rio Times | https://www.riotimesonline.com/el-salvador-bitcoin-donations-2026/
 ---
 
-El contador de bitcoin de El Salvador sigue subiendo. Según el rastreador oficial de la **Oficina Nacional del Bitcoin**, el país sumó **38 BTC** desde el 3 de septiembre y llegó a unos **7.801 bitcoin**, informó The Rio Times. Al precio de esos días, la reserva vale alrededor de **US$ 647 millones**.
+El contador de bitcoin de El Salvador sigue subiendo. Según el rastreador oficial de la **Oficina Nacional del Bitcoin**, el país sumó **38 BTC** desde el 3 de septiembre y llegó a unos **7.801 bitcoin**. Al precio de esos días, la reserva vale alrededor de **US$ 647 millones**.
 
 ## El problema: el acuerdo con el FMI
 

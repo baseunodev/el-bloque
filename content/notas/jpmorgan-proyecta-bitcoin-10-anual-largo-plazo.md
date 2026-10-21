@@ -14,7 +14,7 @@ imageCreditUrl: https://unsplash.com/photos/a-bank-sign-lit-up-in-the-dark-UENYI
 sources: Caleb & Brown | https://calebandbrown.com/blog/weekly-rollup-october-20-2026/ ; DiarioBitcoin | https://www.diariobitcoin.com/mercados/jpmorgan-proyecta-que-bitcoin-superara-a-las-acciones-y-al-oro-en-el-largo-plazo/
 ---
 
-Durante años, Jamie Dimon, el jefe de JPMorgan, fue uno de los críticos más duros de bitcoin. Ahora, el brazo de inversiones del mismo banco lo incluyó por primera vez en sus **proyecciones de rendimiento a largo plazo**. **JPMorgan Asset Management** estima que bitcoin podría rendir alrededor de **10% por año durante los próximos 10 a 15 años**, según DiarioBitcoin.
+Durante años, Jamie Dimon, el jefe de JPMorgan, fue uno de los críticos más duros de bitcoin. Ahora, el brazo de inversiones del mismo banco lo incluyó por primera vez en sus **proyecciones de rendimiento a largo plazo**. **JPMorgan Asset Management** estima que bitcoin podría rendir alrededor de **10% por año durante los próximos 10 a 15 años**.
 
 Con ese número, bitcoin quedaría por encima de lo que el banco proyecta para las acciones y el oro.
 

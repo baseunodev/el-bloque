@@ -14,7 +14,7 @@ imageCreditUrl: https://unsplash.com/photos/umbrellas-and-lanterns-in-mexico-cit
 sources: Cointelegraph en Español | https://cointelegraph.es/news/stablecoin-conference-2026-mxico-avanza-hacia-la-regulacin-de-stablecoins-ligadas-al-peso
 ---
 
-México se prepara para tener monedas digitales atadas a su propia moneda. El senador **Alejandro Murat Hinojosa** (Morena) impulsa una iniciativa para regular los **"Activos Virtuales Estables" (AVE)**: instrumentos digitales privados que valen **1 a 1 con el peso mexicano**, según explicó en la Stablecoin Conference Latam organizada por Bitso Business, reportó Cointelegraph en Español.
+México se prepara para tener monedas digitales atadas a su propia moneda. El senador **Alejandro Murat Hinojosa** (Morena) impulsa una iniciativa para regular los **"Activos Virtuales Estables" (AVE)**: instrumentos digitales privados que valen **1 a 1 con el peso mexicano**, según explicó en la Stablecoin Conference Latam organizada por Bitso Business.
 
 ## Cómo sería
 

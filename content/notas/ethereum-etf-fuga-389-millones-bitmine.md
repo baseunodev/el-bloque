@@ -16,7 +16,7 @@ sources: KuCoin News, sobre datos de CoinDesk y Farside | https://www.kucoin.com
 
 En Wall Street hay dos películas distintas sobre Ethereum, y se están proyectando al mismo tiempo.
 
-En la primera, los inversores se van. Los ETF de ether al contado que cotizan en EE.UU. acumularon salidas netas por casi **US$ 389 millones** en cinco ruedas seguidas, según Cryptonews. Solo entre el 14 y el 15 de octubre se fueron unos US$ 190 millones, con el fondo de BlackRock (ETHA) a la cabeza de las ventas.
+En la primera, los inversores se van. Los ETF de ether al contado que cotizan en EE.UU. acumularon salidas netas por casi **US$ 389 millones** en cinco ruedas seguidas. Solo entre el 14 y el 15 de octubre se fueron unos US$ 190 millones, con el fondo de BlackRock (ETHA) a la cabeza de las ventas.
 
 En la segunda, una empresa compra sin pausa. **Bitmine Immersion Technologies** sumó **12.535 ETH** en una semana y ya tiene unos **6,04 millones de ether**, valuados en alrededor de **US$ 14.300 millones**. Es cerca del **4,9% de todo el ether en circulación**, y su meta declarada es llegar al 5%. Además, tiene más del 80% de esas monedas puestas en *staking*, es decir, generando rendimiento.
 

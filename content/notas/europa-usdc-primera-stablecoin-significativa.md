@@ -26,7 +26,7 @@ Es la categoría para las stablecoins que, por su tamaño, podrían afectar al s
 
 ## El tamaño importa
 
-USDC tiene en circulación casi **US$ 73.000 millones**, y solo lo supera **USDT de Tether**. En Argentina, por ejemplo, ya representa cerca del 46% del volumen de operaciones con stablecoins, según datos citados por DiarioBitcoin.
+USDC tiene en circulación casi **US$ 73.000 millones**, y solo lo supera **USDT de Tether**. En Argentina, por ejemplo, ya representa cerca del 46% del volumen de operaciones con stablecoins.
 
 ## ¿Es bueno o malo para el usuario?
 

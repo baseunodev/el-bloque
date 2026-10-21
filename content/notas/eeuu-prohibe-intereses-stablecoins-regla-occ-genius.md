@@ -15,7 +15,7 @@ imageCreditUrl: https://unsplash.com/photos/united-states-capitol-building-in-wa
 sources: OCC, citada por The Crypto Times y U.Today. ; The Crypto Times | https://www.cryptotimes.io/2026/10/21/occ-finalizes-first-genius-act-stablecoin-rule-drops-rewards-presumption/
 ---
 
-La Oficina del Contralor de la Moneda de Estados Unidos (**OCC**), el regulador de los bancos nacionales, publicó este miércoles 21 de octubre la **regla final que pone en práctica la ley GENIUS**, el marco legal para las stablecoins de pago. Es el primer regulador bancario federal que termina su parte del reglamento, según The Crypto Times.
+La Oficina del Contralor de la Moneda de Estados Unidos (**OCC**), el regulador de los bancos nacionales, publicó este miércoles 21 de octubre la **regla final que pone en práctica la ley GENIUS**, el marco legal para las stablecoins de pago. Es el primer regulador bancario federal que termina su parte del reglamento.
 
 La regla y la ley entran en vigencia el **18 de enero de 2027**.
 
