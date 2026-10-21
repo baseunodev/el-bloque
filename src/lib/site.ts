@@ -25,6 +25,12 @@ export const mirador = {
   url: (process.env.NEXT_PUBLIC_MIRADOR_URL || "https://mirador-cripto.vercel.app").replace(/\/$/, ""),
 };
 
+// Supabase guarda los suscriptores del newsletter. Son claves públicas: la tabla solo se toca por funciones seguras.
+export const supabase = {
+  url: process.env.SUPABASE_URL || "https://wwdwhiqmrmiuxsssmyqb.supabase.co",
+  key: process.env.SUPABASE_PUBLISHABLE_KEY || "sb_publishable_OH-idPIecjM_jusGNGl-nw_9BUwaUjE",
+};
+
 export const adsenseClient = process.env.NEXT_PUBLIC_ADSENSE_CLIENT; // ca-pub-XXXXXXXXXXXXXXXX
 export const gaId = process.env.NEXT_PUBLIC_GA_ID; // G-XXXXXXX
 

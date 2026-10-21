@@ -32,19 +32,16 @@ Hacer push a `main` y Vercel publica.
 | `NEXT_PUBLIC_SITE_URL` | Dominio final (ej. `https://elbloque.news`). Si falta, usa el de Vercel. |
 | `NEXT_PUBLIC_MIRADOR_URL` | URL del Mirador Cripto. Por defecto `https://mirador-cripto.vercel.app`. |
 | `COINGECKO_API_KEY` | Clave Demo de CoinGecko (opcional). |
-| `SUPABASE_URL`, `SUPABASE_SERVICE_ROLE_KEY` | Guardar suscriptores del newsletter (tabla `suscriptores`). |
+| `SUPABASE_URL`, `SUPABASE_PUBLISHABLE_KEY` | Opcionales: por defecto usa el proyecto `el-bloque` de Supabase. |
 | `NEXT_PUBLIC_ADSENSE_CLIENT`, `NEXT_PUBLIC_GA_ID` | AdSense y Google Analytics. |
 
-Tabla de Supabase:
+## Newsletter
 
-```sql
-create table suscriptores (
-  email text primary key,
-  source text,
-  created_at timestamptz default now()
-);
-alter table suscriptores enable row level security;
-```
+- Suscriptores en Supabase (proyecto `el-bloque`), tabla `suscriptores`. El sitio solo llama a las funciones `suscribir` y `darse_de_baja`.
+- La función `supabase/functions/enviar-newsletter` arma el correo con las notas del feed y los precios, y lo manda con Resend.
+- `pg_cron` la llama todos los días a las 10:00 UTC (7:00 en Argentina). No manda dos veces el mismo día (tabla `envios`).
+- Secretos de la función: `RESEND_API_KEY`, `FROM_EMAIL` (ej. `El Bloque <hola@tudominio.com>`), `SITE_URL`, `MIRADOR_URL`.
+- Vista previa: `GET /functions/v1/enviar-newsletter?preview=1` con la clave anon.
 
 ## Desarrollo
 
