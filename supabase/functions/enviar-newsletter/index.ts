@@ -4,7 +4,7 @@
 import "jsr:@supabase/functions-js/edge-runtime.d.ts";
 import { createClient } from "jsr:@supabase/supabase-js@2";
 
-const SITE = (Deno.env.get("SITE_URL") ?? "https://el-bloque.vercel.app").replace(/\/$/, "");
+const SITE = (Deno.env.get("SITE_URL") ?? "https://el-bloque-theta.vercel.app").replace(/\/$/, "");
 const MIRADOR = (Deno.env.get("MIRADOR_URL") ?? "https://mirador-cripto.vercel.app").replace(/\/$/, "");
 const FROM = Deno.env.get("FROM_EMAIL") ?? "El Bloque <onboarding@resend.dev>";
 const RESEND = Deno.env.get("RESEND_API_KEY");
