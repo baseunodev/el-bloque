@@ -6,6 +6,10 @@ author: redaccion
 section: guias
 kicker: GUÍA
 coins: tether, usd-coin
+image: https://images.unsplash.com/photo-1534951009808-766178b47a4f?w=1600&q=75&auto=format&fit=crop
+imageAlt: Pilas de monedas doradas
+imageCredit: Foto: Ibrahim Rifath / Unsplash
+imageCreditUrl: https://unsplash.com/photos/stacked-round-gold-colored-coins-on-white-surface-OApHds2yEGQ
 ---
 
 Una **stablecoin** (moneda estable) es una criptomoneda diseñada para que su precio no se mueva. La gran mayoría busca valer siempre **1 dólar estadounidense**. Mientras bitcoin puede subir o bajar 10% en un día, una stablecoin bien hecha se mantiene en 1 dólar.

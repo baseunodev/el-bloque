@@ -6,6 +6,10 @@ author: redaccion
 section: guias
 kicker: GUÍA
 coins: tether, usd-coin
+image: https://images.unsplash.com/photo-1556742521-9713bf272865?w=1600&q=75&auto=format&fit=crop
+imageAlt: Pago con el celular
+imageCredit: Foto: Nathan Dumlao / Unsplash
+imageCreditUrl: https://unsplash.com/photos/smartphone-contactless-payment-in-kitchen-oRKF_ZBJYGM
 ---
 
 El **dólar cripto** es el precio, en tu moneda local, de una *stablecoin*: una criptomoneda diseñada para valer siempre 1 dólar estadounidense. Las más usadas son **USDT** (de la empresa Tether) y **USDC** (de Circle). Cuando alguien dice "el dólar cripto está a tanto", habla de cuántos pesos, bolívares o soles hay que pagar por 1 USDT.

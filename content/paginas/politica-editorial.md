@@ -14,7 +14,7 @@ Priorizamos fuentes primarias: comunicados oficiales, documentos de reguladores 
 
 ## Uso de inteligencia artificial
 
-Usamos herramientas de IA como asistentes para resumir documentos largos, traducir fuentes en otros idiomas, proponer estructuras y revisar ortografía. **Todo lo que se publica lo revisa y lo firma una persona**, que es responsable del contenido. No usamos IA para inventar citas ni para generar imágenes que parezcan fotos reales de personas o hechos.
+Usamos herramientas de IA como asistentes para resumir documentos largos, traducir fuentes en otros idiomas, proponer estructuras y revisar ortografía. **Todo lo que se publica lo revisa la redacción**, que es responsable del contenido. No usamos IA para inventar citas ni para generar imágenes que parezcan fotos reales de personas o hechos.
 
 Los precios que aparecen en el diario son de referencia y se actualizan automáticamente desde fuentes públicas (CoinGecko y Binance). Los datos de mercado completos están en nuestro sitio hermano, el Mirador Cripto.
 
