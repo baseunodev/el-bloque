@@ -12,9 +12,10 @@ image: https://images.unsplash.com/photo-1645918899630-85e2f3132a84?w=1600&q=75&
 imageAlt: Vista de San Pablo, Brasil
 imageCredit: Foto: Raphael Nogueira / Unsplash
 imageCreditUrl: https://unsplash.com/photos/a-river-running-through-a-city-next-to-tall-buildings-0phxYpfFHpg
+sources: Forbes Argentina | https://www.forbesargentina.com/negocios/exodo-cripto-brasil-nuevas-reglas-expulsan-empresas-podrian-favorecer-argentina-n98209
 ---
 
-Brasil, el mercado cripto más grande de América Latina, está echando a sus propias empresas. Las nuevas reglas del **Banco Central de Brasil** piden tanto capital y tantos controles que varias plataformas ya decidieron irse o achicarse, según una investigación de [Forbes Argentina](https://www.forbesargentina.com/negocios/exodo-cripto-brasil-nuevas-reglas-expulsan-empresas-podrian-favorecer-argentina-n98209).
+Brasil, el mercado cripto más grande de América Latina, está echando a sus propias empresas. Las nuevas reglas del **Banco Central de Brasil** piden tanto capital y tantos controles que varias plataformas ya decidieron irse o achicarse, según una investigación de Forbes Argentina.
 
 ## El número que asusta
 
@@ -37,4 +38,4 @@ Estimaciones privadas (no del Banco Central) hablan de **150 a 200 firmas cripto
 
 Si Brasil se vuelve un club de bancos y grandes plataformas, el capital y los productos que quedan afuera van a buscar otro destino, y la Argentina, con un mercado cripto enorme, es candidata natural. Ojo: no está garantizado. Quienes defienden las reglas brasileñas dicen que traen previsibilidad, y eso también atrae inversiones.
 
-*Fuente original: [Forbes Argentina](https://www.forbesargentina.com/negocios/exodo-cripto-brasil-nuevas-reglas-expulsan-empresas-podrian-favorecer-argentina-n98209).*
+¿Qué tan grande es el mercado argentino? [Mueve US$ 88.500 millones y es el segundo de la región](/latam/argentina-segundo-mercado-cripto-america-latina). Y los gigantes ya se mueven: [Circle sumó un nuevo socio en el país](/latam/circle-allaria-usdc-pesos-argentina).

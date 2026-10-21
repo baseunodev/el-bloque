@@ -11,9 +11,10 @@ image: https://images.unsplash.com/photo-1634704784915-aacf363b021f?w=1600&q=75&
 imageAlt: Mano sosteniendo una criptomoneda frente a una computadora
 imageCredit: Foto: Art Rachen / Unsplash
 imageCreditUrl: https://unsplash.com/photos/a-person-holding-a-coin-in-front-of-a-computer-sM4r-swmcoY
+sources: Caleb & Brown | https://calebandbrown.com/blog/weekly-rollup-october-20-2026/ ; KuCoin News | https://www.kucoin.com/news/flash/xrp-solana-and-ethereum-etfs-see-71m-outflow-bitcoin-etfs-attract-5-1m-inflow ; Bitcoin.com News | https://news.bitcoin.com/market-updates/solana-etfs-overtake-xrp-funds-1-91-billion-assets/
 ---
 
-La pelea entre Solana y XRP por el corazón de Wall Street tiene un nuevo líder. Los **ETF de Solana** superaron a los de **XRP** en activos totales: al 1 de octubre manejaban **US$ 1.910 millones**, contra **US$ 1.690 millones** de los fondos de XRP, según [Bitcoin.com News](https://news.bitcoin.com/market-updates/solana-etfs-overtake-xrp-funds-1-91-billion-assets/) con datos de SoSoValue.
+La pelea entre Solana y XRP por el corazón de Wall Street tiene un nuevo líder. Los **ETF de Solana** superaron a los de **XRP** en activos totales: al 1 de octubre manejaban **US$ 1.910 millones**, contra **US$ 1.690 millones** de los fondos de XRP, según Bitcoin.com News con datos de SoSoValue.
 
 ## La remontada en números
 
@@ -31,4 +32,4 @@ A mediados de octubre el viento cambió: los ETF de Solana tuvieron salidas por 
 
 Anza, el equipo que desarrolla el software principal de Solana, tiene programada para el **21 de octubre**, tras una demora previa, la activación de **Alpenglow**. Es una actualización del sistema de consenso que promete bajar el tiempo de confirmación de las operaciones de unos **12,8 segundos a cerca de 150 milisegundos**. Si sale bien, Solana se pondría a la par de los sistemas de pago tradicionales en velocidad.
 
-*Fuente original: [Bitcoin.com News](https://news.bitcoin.com/market-updates/solana-etfs-overtake-xrp-funds-1-91-billion-assets/). Flujos semanales: [KuCoin News](https://www.kucoin.com/news/flash/xrp-solana-and-ethereum-etfs-see-71m-outflow-bitcoin-etfs-attract-5-1m-inflow). Alpenglow: [Caleb & Brown](https://calebandbrown.com/blog/weekly-rollup-october-20-2026/).*
+En cambio, a Ethereum le toca la otra cara: [sus ETF perdieron US$ 389 millones en cinco ruedas](/mercado/ethereum-etf-fuga-389-millones-bitmine).

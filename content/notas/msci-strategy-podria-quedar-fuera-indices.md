@@ -11,6 +11,7 @@ image: https://images.unsplash.com/photo-1623524713064-257294b0e34b?w=1600&q=75&
 imageAlt: Cartel de Wall Street en Nueva York
 imageCredit: Foto: Robb Miller / Unsplash
 imageCreditUrl: https://unsplash.com/photos/a-street-sign-on-wall-street-in-new-york-city-oEGDKf4ZtNg
+sources: Caleb & Brown, resumen semanal del 20 de octubre de 2026 | https://calebandbrown.com/blog/weekly-rollup-october-20-2026/
 ---
 
 Las empresas que se dedican a acumular bitcoin acaban de recibir una mala noticia desde Wall Street. **MSCI**, una de las compañías que arma los índices bursátiles que siguen los grandes fondos del mundo, cerró su consulta sobre las llamadas "empresas no operativas" y decidió **terminar con la protección transitoria** que les había dado en octubre de 2025 a las firmas con más del 50% de sus activos en criptomonedas.
@@ -34,4 +35,4 @@ Para dimensionar: Strategy tiene **848.517 bitcoin**, por más de US$ 69.000 mil
 
 Acá está el matiz importante: el cambio afectaría a **las acciones** de esas empresas, no a los bitcoin que tienen guardados. No las obliga a vender sus monedas. Lo que sí podría cambiar es su capacidad de seguir consiguiendo financiamiento barato para comprar más, y Strategy fue durante años uno de los grandes compradores del mercado.
 
-*Fuente original: [Caleb & Brown, resumen semanal del 20 de octubre de 2026](https://calebandbrown.com/blog/weekly-rollup-october-20-2026/).*
+Otro banco grande que cambió de postura: [JPMorgan incluyó a bitcoin por primera vez en sus proyecciones](/mercado/jpmorgan-proyecta-bitcoin-10-anual-largo-plazo).

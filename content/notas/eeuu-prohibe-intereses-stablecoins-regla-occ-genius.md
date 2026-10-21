@@ -12,9 +12,10 @@ image: https://images.unsplash.com/photo-1520525003249-2b9cdda513bc?w=1600&q=75&
 imageAlt: El Capitolio de Estados Unidos
 imageCredit: Foto: Louis Velazquez / Unsplash
 imageCreditUrl: https://unsplash.com/photos/united-states-capitol-building-in-washington-XWW746i6WoM
+sources: OCC, citada por The Crypto Times y U.Today. ; The Crypto Times | https://www.cryptotimes.io/2026/10/21/occ-finalizes-first-genius-act-stablecoin-rule-drops-rewards-presumption/
 ---
 
-La Oficina del Contralor de la Moneda de Estados Unidos (**OCC**), el regulador de los bancos nacionales, publicó este miércoles 21 de octubre la **regla final que pone en práctica la ley GENIUS**, el marco legal para las stablecoins de pago. Es el primer regulador bancario federal que termina su parte del reglamento, según [The Crypto Times](https://www.cryptotimes.io/2026/10/21/occ-finalizes-first-genius-act-stablecoin-rule-drops-rewards-presumption/).
+La Oficina del Contralor de la Moneda de Estados Unidos (**OCC**), el regulador de los bancos nacionales, publicó este miércoles 21 de octubre la **regla final que pone en práctica la ley GENIUS**, el marco legal para las stablecoins de pago. Es el primer regulador bancario federal que termina su parte del reglamento, según The Crypto Times.
 
 La regla y la ley entran en vigencia el **18 de enero de 2027**.
 
@@ -42,4 +43,4 @@ Las stablecoins como **USDT y USDC** son el "dólar cripto" que usan millones de
 
 ¿No sabés bien qué es una stablecoin? Te lo explicamos en [esta guía](/guias/que-es-una-stablecoin). El precio del USDT en tu país está en el [Mirador Cripto]({{mirador}}/dolar-cripto/argentina).
 
-*Fuentes: OCC, citada por The Crypto Times y U.Today.*
+En paralelo, México prepara [su propia ley de stablecoins atadas al peso](/latam/mexico-stablecoins-peso-proyecto-senado), inspirada en la GENIUS.

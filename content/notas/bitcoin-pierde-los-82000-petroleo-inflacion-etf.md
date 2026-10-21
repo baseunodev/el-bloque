@@ -12,9 +12,10 @@ image: https://images.unsplash.com/photo-1516199423456-1f1e91b06f25?w=1600&q=75&
 imageAlt: Bombeador de petróleo al atardecer
 imageCredit: Foto: Zbynek Burival / Unsplash
 imageCreditUrl: https://unsplash.com/photos/oil-pump-jack-silhouette-against-red-sunset-GrmwVnVSSdU
+sources: Yahoo Finance, crypto.news, Glassnode y Bitfinex, citados por crypto.news. Precios de referencia del 20 de octubre de 2026. ; crypto.news | https://crypto.news/why-is-bitcoin-price-going-down-today-october-20/ ; Yahoo Finance | https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-october-20-2026-crypto-prices-slide-and-oil-costs-soar-as-mid-east-attacks-persist-114152288.html
 ---
 
-Bitcoin arrancó la semana a la baja y no encuentra piso firme. El martes 20 de octubre llegó a perforar los **US$ 82.000** y tocó la zona de los **US$ 81.200**, según datos de mercado recopilados por [crypto.news](https://crypto.news/why-is-bitcoin-price-going-down-today-october-20/). A las 7:31 de la mañana de Nueva York cotizaba a **US$ 81.405**, de acuerdo con [Yahoo Finance](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-october-20-2026-crypto-prices-slide-and-oil-costs-soar-as-mid-east-attacks-persist-114152288.html).
+Bitcoin arrancó la semana a la baja y no encuentra piso firme. El martes 20 de octubre llegó a perforar los **US$ 82.000** y tocó la zona de los **US$ 81.200**, según datos de mercado recopilados por crypto.news. A las 7:31 de la mañana de Nueva York cotizaba a **US$ 81.405**, de acuerdo con Yahoo Finance.
 
 Ethereum acompañó la caída: rondaba los **US$ 2.384**, con una baja de 8,6% en el último mes.
 
@@ -42,4 +43,4 @@ Si tenés bitcoin, el escenario de corto plazo depende más del petróleo y de l
 
 Podés seguir el precio minuto a minuto en el [Mirador Cripto]({{mirador}}/precio/bitcoin).
 
-*Fuentes: Yahoo Finance, crypto.news, Glassnode y Bitfinex, citados por crypto.news. Precios de referencia del 20 de octubre de 2026.*
+Actualización: días después, [bitcoin rebotó hasta los US$ 84.500](/mercado/bitcoin-rebota-vuelve-a-los-84500).

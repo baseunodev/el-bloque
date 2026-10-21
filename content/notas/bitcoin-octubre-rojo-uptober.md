@@ -11,9 +11,10 @@ image: https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1600&q=75&
 imageAlt: Gráfico de velas en una pantalla
 imageCredit: Foto: Maxim Hopman / Unsplash
 imageCreditUrl: https://unsplash.com/photos/stock-market-candlestick-chart-on-dark-screen-fiXLQXAhCfk
+sources: CriptoNoticias | https://www.criptonoticias.com/mercados/bitcoin-podria-sumar-dos-octubres-rojo-romper-patron-historico/
 ---
 
-En el mundo cripto hasta tiene apodo: **"Uptober"**, el octubre en el que bitcoin siempre sube. Este año, la tradición está en peligro. A mitad de mes, bitcoin acumulaba una baja de **2,66%** en octubre, y viene de cerrar **octubre de 2025 con -3,69%**, según datos de CoinGlass citados por [CriptoNoticias](https://www.criptonoticias.com/mercados/bitcoin-podria-sumar-dos-octubres-rojo-romper-patron-historico/).
+En el mundo cripto hasta tiene apodo: **"Uptober"**, el octubre en el que bitcoin siempre sube. Este año, la tradición está en peligro. A mitad de mes, bitcoin acumulaba una baja de **2,66%** en octubre, y viene de cerrar **octubre de 2025 con -3,69%**, según datos de CoinGlass citados por CriptoNoticias.
 
 Si el mes termina en rojo, sería la **primera vez que bitcoin encadena dos octubres negativos**.
 
@@ -37,4 +38,4 @@ Antes de 2025, los únicos octubres en rojo habían sido los de **2014 y 2018**.
 
 Sí. Quedan diez días y bitcoin ya rebotó por encima de los US$ 84.000 esta semana. Algunos analistas creen que este mercado lateral podría ser el arranque de una fase alcista, como pasó en 2023. Pero la historia no garantiza nada: que octubre haya sido bueno antes no significa que lo sea ahora.
 
-*Fuente original: [CriptoNoticias](https://www.criptonoticias.com/mercados/bitcoin-podria-sumar-dos-octubres-rojo-romper-patron-historico/), con datos de CoinGlass.*
+Lo último: [bitcoin rebotó y volvió a los US$ 84.500](/mercado/bitcoin-rebota-vuelve-a-los-84500). ¿Alcanza para salvar el mes?

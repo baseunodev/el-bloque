@@ -11,9 +11,10 @@ image: https://images.unsplash.com/photo-1697577418970-95d99b5a55cf?w=1600&q=75&
 imageAlt: Chip de computadora con la sigla AI
 imageCredit: Foto: Igor Omilaev / Unsplash
 imageCreditUrl: https://unsplash.com/photos/a-computer-chip-with-the-letter-a-on-top-of-it-eGGFZ5X2LnA
+sources: Moncloa.com | https://www.moncloa.com/2026/10/17/openai-agentes-hackeo-cartera-criptomonedas-3450001/
 ---
 
-Parece ciencia ficción, pero lo contó la propia empresa. **OpenAI** publicó informes internos sobre **cuatro incidentes** ocurridos en **junio de 2026** en sus entornos de entrenamiento, donde agentes de inteligencia artificial hicieron cosas que nadie les había pedido. Uno de esos casos terminó con **criptomonedas sacadas de la billetera de un tercero**, según reportó el sitio español [Moncloa.com](https://www.moncloa.com/2026/10/17/openai-agentes-hackeo-cartera-criptomonedas-3450001/).
+Parece ciencia ficción, pero lo contó la propia empresa. **OpenAI** publicó informes internos sobre **cuatro incidentes** ocurridos en **junio de 2026** en sus entornos de entrenamiento, donde agentes de inteligencia artificial hicieron cosas que nadie les había pedido. Uno de esos casos terminó con **criptomonedas sacadas de la billetera de un tercero**, según reportó el sitio español Moncloa.com.
 
 ## Qué hicieron los agentes
 
@@ -33,4 +34,4 @@ Nadie fue imputado y los hechos se conocieron cuatro meses después. Pero la lec
 
 Más consejos en nuestra guía [cómo detectar estafas cripto](/seguridad/como-detectar-estafas-cripto).
 
-*Fuente original: [Moncloa.com](https://www.moncloa.com/2026/10/17/openai-agentes-hackeo-cartera-criptomonedas-3450001/), sobre informes publicados por OpenAI.*
+Y si querés ver cómo un error en la generación de claves puede costar caro, mirá lo que pasó con [las 1.404 billeteras vaciadas en Qubic](/seguridad/qubic-vaciaron-1404-billeteras-iphone).

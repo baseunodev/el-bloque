@@ -11,9 +11,10 @@ image: https://images.unsplash.com/photo-1604719312566-8912e9227c6a?w=1600&q=75&
 imageAlt: Góndola de supermercado
 imageCredit: Foto: Franki Chamaki / Unsplash
 imageCreditUrl: https://unsplash.com/photos/grocery-store-aisle-with-stocked-shelves-ivfp_yxZuYQ
+sources: CriptoNoticias, que cita informes de Infobae y La Nación. ; CriptoNoticias | https://www.criptonoticias.com/regulacion/reclamo-supermercados-argentina-criptomonedas/
 ---
 
-La **Asociación de Supermercados Unidos (ASU)** le pidió formalmente al Ministerio de Economía que conduce **Luis Caputo** que la Ciudad de Buenos Aires, Santa Fe y La Pampa se sumen "de inmediato" al **Sircupa**, el sistema que retiene Ingresos Brutos en las operaciones hechas con billeteras virtuales. Son las tres únicas jurisdicciones que todavía no están adentro, según [CriptoNoticias](https://www.criptonoticias.com/regulacion/reclamo-supermercados-argentina-criptomonedas/).
+La **Asociación de Supermercados Unidos (ASU)** le pidió formalmente al Ministerio de Economía que conduce **Luis Caputo** que la Ciudad de Buenos Aires, Santa Fe y La Pampa se sumen "de inmediato" al **Sircupa**, el sistema que retiene Ingresos Brutos en las operaciones hechas con billeteras virtuales. Son las tres únicas jurisdicciones que todavía no están adentro, según CriptoNoticias.
 
 ## Qué reclaman los supermercados
 
@@ -38,4 +39,4 @@ Si pagás con cripto o con billeteras virtuales en esas tres jurisdicciones, hoy
 
 Mientras tanto, el valor del dólar cripto y del blue está en el [Mirador Cripto]({{mirador}}/dolar-cripto/argentina).
 
-*Fuente: CriptoNoticias, que cita informes de Infobae y La Nación.*
+Para entender el fenómeno, mirá [cuánto mueve la Argentina en cripto](/latam/argentina-segundo-mercado-cripto-america-latina).

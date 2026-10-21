@@ -12,9 +12,10 @@ image: https://images.unsplash.com/photo-1589909202802-8f4aadce1849?w=1600&q=75&
 imageAlt: El Obelisco de Buenos Aires
 imageCredit: Foto: Nestor Barbitta / Unsplash
 imageCreditUrl: https://unsplash.com/photos/obelisco-de-buenos-aires-and-avenue-QhQ4WgX77G0
+sources: Chainalysis, Bitso, Notbank y Bitwage, citados por El Observador y Bank Magazine. ; El Observador | https://www.elobservador.com/argentina/negocios/argentina-es-el-segundo-mercado-cripto-america-latina-detras-brasil-el-boom-los-dolares-digitales-n6060345 ; Bank Magazine | https://bankmagazine.com.ar/la-actividad-cripto-en-argentina/
 ---
 
-Argentina movió **US$ 88.500 millones en criptomonedas** entre julio de 2025 y junio de 2026, un **15,3% más** que el año anterior. Con ese número es el **segundo mercado cripto de América Latina**, solo detrás de Brasil, según un informe de Chainalysis citado por [El Observador](https://www.elobservador.com/argentina/negocios/argentina-es-el-segundo-mercado-cripto-america-latina-detras-brasil-el-boom-los-dolares-digitales-n6060345) y [Bank Magazine](https://bankmagazine.com.ar/la-actividad-cripto-en-argentina/).
+Argentina movió **US$ 88.500 millones en criptomonedas** entre julio de 2025 y junio de 2026, un **15,3% más** que el año anterior. Con ese número es el **segundo mercado cripto de América Latina**, solo detrás de Brasil, según un informe de Chainalysis citado por El Observador y Bank Magazine.
 
 El dato llama la atención porque el país creció **más que el promedio regional**, que fue de 9,8%.
 
@@ -43,4 +44,4 @@ En la plataforma de pagos de sueldos Bitwage, casi **uno de cada dos usuarios** 
 
 Que tantos argentinos usen dólares digitales también los expone a riesgos: estafas, plataformas poco confiables y diferencias de precio entre exchanges. Antes de comprar, mirá cómo está el [dólar cripto hoy]({{mirador}}/dolar-cripto/argentina) y leé nuestra guía para [detectar estafas](/guias/como-detectar-estafas-cripto).
 
-*Fuentes: Chainalysis, Bitso, Notbank y Bitwage, citados por El Observador y Bank Magazine.*
+Y el país podría ganar más terreno: en Brasil, las nuevas reglas [están empujando a Lemon y Bitso a irse](/latam/brasil-exodo-cripto-lemon-bitso-argentina).

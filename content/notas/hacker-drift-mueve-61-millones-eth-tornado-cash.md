@@ -11,9 +11,10 @@ image: https://images.unsplash.com/photo-1760199789455-49098afd02f0?w=1600&q=75&
 imageAlt: Persona con capucha frente a varias pantallas
 imageCredit: Foto: Julio Lopez / Unsplash
 imageCreditUrl: https://unsplash.com/photos/hacker-in-hoodie-working-on-multiple-computer-screens-hLAmfdxGlls
+sources: CriptoTendencias | https://www.criptotendencias.com/seguridad/hackeo-de-liquid-2/ ; DiarioBitcoin | https://www.diariobitcoin.com/seguridad/el-explotador-de-drift-envia-usd-61-millones-en-eth-a-tornado-cash-arkham-estima-que-aun-quedan-usd-194-millones/
 ---
 
-Durante dos meses no se movió ni un centavo. Hasta ahora. Una billetera vinculada al ataque contra **Drift Protocol** envió unos **25.700 ETH**, valuados en alrededor de **US$ 61 millones**, a **Tornado Cash**, un servicio que mezcla fondos para borrar su rastro, según reportó [DiarioBitcoin](https://www.diariobitcoin.com/seguridad/el-explotador-de-drift-envia-usd-61-millones-en-eth-a-tornado-cash-arkham-estima-que-aun-quedan-usd-194-millones/) con datos de análisis de blockchain.
+Durante dos meses no se movió ni un centavo. Hasta ahora. Una billetera vinculada al ataque contra **Drift Protocol** envió unos **25.700 ETH**, valuados en alrededor de **US$ 61 millones**, a **Tornado Cash**, un servicio que mezcla fondos para borrar su rastro, según reportó DiarioBitcoin con datos de análisis de blockchain.
 
 ## Lo que queda por mover
 
@@ -29,4 +30,4 @@ Drift abrió el **1 de octubre** un mecanismo para que los afectados reclamen. E
 
 No está confirmado quién controla esas direcciones ni si el dinero se va a convertir en efectivo. Lo que sí se sabe es que los protocolos DeFi siguen siendo blanco favorito: los hackeos sumaron US$ 1.200 millones solo en el tercer trimestre.
 
-*Fuente original: [DiarioBitcoin](https://www.diariobitcoin.com/seguridad/el-explotador-de-drift-envia-usd-61-millones-en-eth-a-tornado-cash-arkham-estima-que-aun-quedan-usd-194-millones/), con datos de Arkham Intelligence. Cifra trimestral: [CriptoTendencias](https://www.criptotendencias.com/seguridad/hackeo-de-liquid-2/).*
+Otro caso grande del trimestre: [el robo de 4.000 bitcoin a Liquid](/seguridad/liquid-robo-4000-bitcoin-recuperacion), que recién ahora entra en la etapa final de recuperación.
