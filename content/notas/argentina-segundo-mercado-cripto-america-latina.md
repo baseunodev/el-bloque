@@ -15,7 +15,7 @@ imageCreditUrl: https://unsplash.com/photos/obelisco-de-buenos-aires-and-avenue-
 sources: Chainalysis, Bitso, Notbank y Bitwage, citados por El Observador y Bank Magazine. ; El Observador | https://www.elobservador.com/argentina/negocios/argentina-es-el-segundo-mercado-cripto-america-latina-detras-brasil-el-boom-los-dolares-digitales-n6060345 ; Bank Magazine | https://bankmagazine.com.ar/la-actividad-cripto-en-argentina/
 ---
 
-Argentina movió **US$ 88.500 millones en criptomonedas** entre julio de 2025 y junio de 2026, un **15,3% más** que el año anterior. Con ese número es el **segundo mercado cripto de América Latina**, solo detrás de Brasil, según un informe de Chainalysis citado por El Observador y Bank Magazine.
+Argentina movió **US$ 88.500 millones en criptomonedas** entre julio de 2025 y junio de 2026, un **15,3% más** que el año anterior. Con ese número es el **segundo mercado cripto de América Latina**, solo detrás de Brasil, según un informe de la firma de análisis Chainalysis.
 
 El dato llama la atención porque el país creció **más que el promedio regional**, que fue de 9,8%.
 

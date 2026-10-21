@@ -14,7 +14,7 @@ imageCreditUrl: https://unsplash.com/photos/1-usa-dollar-banknotes-8lnbXtxFGZw
 sources: DiarioBitcoin | https://www.diariobitcoin.com/argentina/circle-suma-a-allaria-para-ampliar-la-liquidez-de-usdc-en-argentina/
 ---
 
-La Argentina sigue siendo un imán para los dólares digitales. **Circle**, la empresa que emite **USDC**, anunció una alianza con la firma financiera argentina **Allaria** para facilitar la compra y venta de USDC contra **pesos argentinos**, informó DiarioBitcoin.
+La Argentina sigue siendo un imán para los dólares digitales. **Circle**, la empresa que emite **USDC**, anunció una alianza con la firma financiera argentina **Allaria** para facilitar la compra y venta de USDC contra **pesos argentinos**.
 
 ## Qué ofrece el acuerdo
 

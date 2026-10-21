@@ -14,7 +14,7 @@ imageCreditUrl: https://unsplash.com/photos/a-rack-of-servers-in-a-server-room-2
 sources: blog de Liquid | https://blog.liquid.net/liquid-network-staged-recovery-update/ ; CriptoTendencias | https://www.criptotendencias.com/seguridad/hackeo-de-liquid-2/
 ---
 
-Un mes después de uno de los robos más grandes del año, **Liquid** vuelve a respirar. La red lateral (*sidechain*) de bitcoin creada por **Blockstream**, la empresa que dirige Adam Back, anunció que entró en las **etapas finales de su recuperación**, según CriptoTendencias.
+Un mes después de uno de los robos más grandes del año, **Liquid** vuelve a respirar. La red lateral (*sidechain*) de bitcoin creada por **Blockstream**, la empresa que dirige Adam Back, anunció que entró en las **etapas finales de su recuperación**.
 
 ## Cuánto se llevaron
 

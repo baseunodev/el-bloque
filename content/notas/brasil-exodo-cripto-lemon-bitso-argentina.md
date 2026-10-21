@@ -15,7 +15,7 @@ imageCreditUrl: https://unsplash.com/photos/a-river-running-through-a-city-next-
 sources: Forbes Argentina | https://www.forbesargentina.com/negocios/exodo-cripto-brasil-nuevas-reglas-expulsan-empresas-podrian-favorecer-argentina-n98209
 ---
 
-Brasil, el mercado cripto más grande de América Latina, está echando a sus propias empresas. Las nuevas reglas del **Banco Central de Brasil** piden tanto capital y tantos controles que varias plataformas ya decidieron irse o achicarse, según una investigación de Forbes Argentina.
+Brasil, el mercado cripto más grande de América Latina, está echando a sus propias empresas. Las nuevas reglas del **Banco Central de Brasil** piden tanto capital y tantos controles que varias plataformas ya decidieron irse o achicarse.
 
 ## El número que asusta
 

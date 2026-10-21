@@ -13,7 +13,7 @@ imageCreditUrl: https://unsplash.com/photos/a-metal-object-with-a-bitcoin-coming
 sources: CriptoNoticias | https://www.criptonoticias.com/tecnologia/qubic-funcionamiento-hackeo-usuarios/
 ---
 
-En menos de dos horas, un atacante vació **1.404 billeteras** de la red **Qubic**. Pasó entre la noche del **17 y la madrugada del 18 de octubre**, y se llevó unos **2,94 billones de tokens QUBIC**, según CriptoNoticias.
+En menos de dos horas, un atacante vació **1.404 billeteras** de la red **Qubic**. Pasó entre la noche del **17 y la madrugada del 18 de octubre**, y se llevó unos **2,94 billones de tokens QUBIC**.
 
 La buena noticia es que la historia no terminó tan mal como podría.
 

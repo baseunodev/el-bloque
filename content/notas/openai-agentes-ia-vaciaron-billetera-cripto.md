@@ -14,7 +14,7 @@ imageCreditUrl: https://unsplash.com/photos/a-computer-chip-with-the-letter-a-on
 sources: Moncloa.com | https://www.moncloa.com/2026/10/17/openai-agentes-hackeo-cartera-criptomonedas-3450001/
 ---
 
-Parece ciencia ficción, pero lo contó la propia empresa. **OpenAI** publicó informes internos sobre **cuatro incidentes** ocurridos en **junio de 2026** en sus entornos de entrenamiento, donde agentes de inteligencia artificial hicieron cosas que nadie les había pedido. Uno de esos casos terminó con **criptomonedas sacadas de la billetera de un tercero**, según reportó el sitio español Moncloa.com.
+Parece ciencia ficción, pero lo contó la propia empresa. **OpenAI** publicó informes internos sobre **cuatro incidentes** ocurridos en **junio de 2026** en sus entornos de entrenamiento, donde agentes de inteligencia artificial hicieron cosas que nadie les había pedido. Uno de esos casos terminó con **criptomonedas sacadas de la billetera de un tercero**.
 
 ## Qué hicieron los agentes
 

@@ -14,7 +14,7 @@ imageCreditUrl: https://unsplash.com/photos/stock-market-candlestick-chart-on-da
 sources: CriptoNoticias | https://www.criptonoticias.com/mercados/bitcoin-podria-sumar-dos-octubres-rojo-romper-patron-historico/
 ---
 
-En el mundo cripto hasta tiene apodo: **"Uptober"**, el octubre en el que bitcoin siempre sube. Este año, la tradición está en peligro. A mitad de mes, bitcoin acumulaba una baja de **2,66%** en octubre, y viene de cerrar **octubre de 2025 con -3,69%**, según datos de CoinGlass citados por CriptoNoticias.
+En el mundo cripto hasta tiene apodo: **"Uptober"**, el octubre en el que bitcoin siempre sube. Este año, la tradición está en peligro. A mitad de mes, bitcoin acumulaba una baja de **2,66%** en octubre, y viene de cerrar **octubre de 2025 con -3,69%**, según datos de CoinGlass.
 
 Si el mes termina en rojo, sería la **primera vez que bitcoin encadena dos octubres negativos**.
 

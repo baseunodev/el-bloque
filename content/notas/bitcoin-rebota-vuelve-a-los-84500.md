@@ -15,7 +15,7 @@ imageCreditUrl: https://unsplash.com/photos/a-bitcoin-sitting-on-top-of-a-pile-o
 sources: Caleb & Brown | https://calebandbrown.com/blog/weekly-rollup-october-20-2026/ ; Cryptonews | https://cryptonews.com/news/ethereum-price-disappoints-as-bitmine-buying-fails-to-offset-389m-etf-exodus ; Cripto247 | https://www.cripto247.com/mercados-trading/bitcoin-vuelve-a-subir-cotiza-sobre-los-usd-83-500-y-muestra-se%C3%B1ales-de-recuperaci%C3%B3n
 ---
 
-Bitcoin levantó cabeza. Este miércoles 21 de octubre volvió a cotizar por encima de los **US$ 84.000** y llegó a marcar **US$ 84.504**, con una suba de casi **2% en 24 horas**, según los datos que publicó Cripto247.
+Bitcoin levantó cabeza. Este miércoles 21 de octubre volvió a cotizar por encima de los **US$ 84.000** y llegó a marcar **US$ 84.504**, con una suba de casi **2% en 24 horas**.
 
 Es un alivio después de días muy pesados: el jueves 15 había tocado los **US$ 80.117**, su peor nivel de la semana, y el lunes no había podido romper la barrera de los US$ 83.000.
 

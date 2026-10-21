@@ -29,7 +29,7 @@ Cuerpo en Markdown. {{mirador}} se reemplaza por la URL del Mirador Cripto.
 
 Reglas editoriales:
 - Texto propio, nunca copiado de la fuente. Títulos con gancho, sin mentir. Firma de la Redacción (`author: redaccion`).
-- **Sin links externos en el cuerpo**: se nombra al medio en texto ("según CriptoNoticias") y el link va en `sources:`, que se muestra al pie junto al crédito de la foto. Única excepción: una recomendación atribuida ("según X, conviene…").
+- **Sin links externos ni menciones a otros medios en el cuerpo**: la nota se escribe como propia (se pueden citar fuentes primarias: empresas, reguladores, firmas de datos) y el medio va en `sources:`, que se muestra al pie junto al crédito de la foto. Única excepción: una recomendación atribuida ("según X, conviene…").
 - **Links internos**: cada nota enlaza 1 o 2 notas nuestras relacionadas dentro del texto. Además, la página suma sola un "Leé también", la barra lateral y "Seguí leyendo".
 - Foto distinta en cada nota, libre de derechos (Unsplash), nunca fotos de prensa.
 ```

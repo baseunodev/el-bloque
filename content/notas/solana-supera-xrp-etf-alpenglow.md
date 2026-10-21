@@ -14,7 +14,7 @@ imageCreditUrl: https://unsplash.com/photos/a-person-holding-a-coin-in-front-of-
 sources: Caleb & Brown | https://calebandbrown.com/blog/weekly-rollup-october-20-2026/ ; KuCoin News | https://www.kucoin.com/news/flash/xrp-solana-and-ethereum-etfs-see-71m-outflow-bitcoin-etfs-attract-5-1m-inflow ; Bitcoin.com News | https://news.bitcoin.com/market-updates/solana-etfs-overtake-xrp-funds-1-91-billion-assets/
 ---
 
-La pelea entre Solana y XRP por el corazón de Wall Street tiene un nuevo líder. Los **ETF de Solana** superaron a los de **XRP** en activos totales: al 1 de octubre manejaban **US$ 1.910 millones**, contra **US$ 1.690 millones** de los fondos de XRP, según Bitcoin.com News con datos de SoSoValue.
+La pelea entre Solana y XRP por el corazón de Wall Street tiene un nuevo líder. Los **ETF de Solana** superaron a los de **XRP** en activos totales: al 1 de octubre manejaban **US$ 1.910 millones**, contra **US$ 1.690 millones** de los fondos de XRP, según datos de SoSoValue.
 
 ## La remontada en números
 
