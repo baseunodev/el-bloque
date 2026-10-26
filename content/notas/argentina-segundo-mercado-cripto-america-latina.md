@@ -42,6 +42,6 @@ En la plataforma de pagos de sueldos Bitwage, casi **uno de cada dos usuarios** 
 
 ## Por qué importa
 
-Que tantos argentinos usen dólares digitales también los expone a riesgos: estafas, plataformas poco confiables y diferencias de precio entre exchanges. Antes de comprar, mirá cómo está el [dólar cripto hoy]({{mirador}}/dolar-cripto/argentina) y leé nuestra guía para [detectar estafas](/guias/como-detectar-estafas-cripto).
+Que tantos argentinos usen dólares digitales también los expone a riesgos: estafas, plataformas poco confiables y diferencias de precio entre exchanges. Antes de comprar, mirá cómo está el [dólar cripto hoy]({{mirador}}/dolar-cripto/argentina) y leé nuestra guía para [detectar estafas](/seguridad/como-detectar-estafas-cripto).
 
 Y el país podría ganar más terreno: en Brasil, las nuevas reglas [están empujando a Lemon y Bitso a irse](/latam/brasil-exodo-cripto-lemon-bitso-argentina).
