@@ -38,7 +38,7 @@ El dólar cripto es útil, pero no es lo mismo que tener un billete en la mano n
 1. **Riesgo del emisor.** USDT y USDC valen 1 dólar porque sus emisores dicen tener reservas que los respaldan. Si un emisor tuviera problemas, la stablecoin podría perder su valor de 1 dólar. Ya pasó con otras stablecoins más chicas.
 2. **Riesgo de la plataforma.** Si dejás tus USDT en un exchange y ese exchange quiebra o es hackeado, podés perderlos. No hay un seguro de depósitos como en un banco.
 3. **Riesgo de custodia propia.** Si los guardás en tu propia billetera, vos sos responsable de tu *frase semilla*. Si la perdés o te la roban, no hay forma de recuperarlos.
-4. **Riesgo de estafas.** Muchas estafas usan el dólar cripto como gancho: "te pago más que el blue", falsos vendedores P2P o falsos soportes técnicos. Leé nuestra guía para [detectar estafas cripto](/guias/como-detectar-estafas-cripto).
+4. **Riesgo de estafas.** Muchas estafas usan el dólar cripto como gancho: "te pago más que el blue", falsos vendedores P2P o falsos soportes técnicos. Leé nuestra guía para [detectar estafas cripto](/seguridad/como-detectar-estafas-cripto).
 5. **Riesgo regulatorio e impositivo.** Las reglas cambian según el país. En muchos lugares las ganancias o tenencias en cripto tienen que declararse.
 
 ## Preguntas frecuentes
