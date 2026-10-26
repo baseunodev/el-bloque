@@ -37,7 +37,7 @@ Entre las empresas y los fondos:
 
 ## Los países
 
-- **Estados Unidos:** 328.372 BTC, en su mayoría incautados en causas judiciales.
+- **Estados Unidos:** 328.372 BTC.
 - **China:** 190.000 BTC.
 - **Reino Unido:** 61.245 BTC.
 - **Ucrania:** 46.351 BTC, declarados por funcionarios públicos.
