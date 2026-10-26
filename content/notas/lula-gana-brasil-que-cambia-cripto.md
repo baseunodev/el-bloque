@@ -7,7 +7,6 @@ updated: 2026-10-26T07:15:00-03:00
 author: redaccion
 section: latam
 featured: true
-tapa: 2026-10-26
 coins: bitcoin, tether
 tags: brasil, elecciones, lula, stablecoins, regulación
 image: https://images.unsplash.com/photo-1536957812231-dcb8bf7dab5c?w=1600&q=75&auto=format&fit=crop
