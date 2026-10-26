@@ -18,6 +18,7 @@ export type Post = {
   coins: string[]; // ids de CoinGecko relacionados (para enlazar al mirador)
   tags: string[];
   featured: boolean;
+  tapa?: string; // YYYY-MM-DD: día en que esta nota es la tapa de la portada
   image?: string;
   imageAlt?: string;
   imageCredit?: string; // "Foto: Nombre / Unsplash"
@@ -57,6 +58,7 @@ function load(file: string): Post {
     coins: list(data.coins),
     tags: list(data.tags),
     featured: data.featured === "true",
+    tapa: /^\d{4}-\d{2}-\d{2}$/.test(data.tapa ?? "") ? data.tapa : undefined,
     image: data.image,
     imageAlt: data.imageAlt,
     imageCredit: data.imageCredit,
@@ -86,6 +88,30 @@ export function getPosts(section?: string): Post[] {
       : [];
   }
   return section ? cache.filter((p) => p.section === section) : cache;
+}
+
+/** Día (YYYY-MM-DD) en Argentina; sin argumento, hoy. */
+const dayAR = (iso?: string) =>
+  new Intl.DateTimeFormat("en-CA", { timeZone: "America/Argentina/Buenos_Aires" }).format(iso ? new Date(iso) : new Date());
+
+/**
+ * La tapa del día: la nota más relevante, no la última publicada. Se elige así:
+ * 1. la nota marcada con `tapa: <hoy>`;
+ * 2. si hoy nadie la marcó, la `featured` más reciente publicada hoy;
+ * 3. si no, la última tapa marcada (queda fija hasta que haya una nueva);
+ * 4. si nunca se marcó ninguna, la `featured` más reciente o, en último caso, la última nota.
+ */
+export function getTapa(): Post | undefined {
+  const posts = getPosts();
+  const hoy = dayAR();
+  const marcadas = posts.filter((p) => p.tapa && p.tapa <= hoy).sort((a, b) => b.tapa!.localeCompare(a.tapa!));
+  return (
+    marcadas.find((p) => p.tapa === hoy) ??
+    posts.find((p) => p.featured && dayAR(p.date) === hoy) ??
+    marcadas[0] ??
+    posts.find((p) => p.featured) ??
+    posts[0]
+  );
 }
 
 export const getPost = (slug: string) => getPosts().find((p) => p.slug === slug);

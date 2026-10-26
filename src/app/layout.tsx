@@ -6,10 +6,9 @@ import { SpeedInsights } from "@vercel/speed-insights/next";
 import { adsenseClient, disclaimer, gaId, mirador, site } from "@/lib/site";
 import { sections } from "@/lib/sections";
 import { getMarkets } from "@/lib/data";
-import { miradorCoin, miradorHome } from "@/lib/mirador";
+import { miradorHome } from "@/lib/mirador";
 import { JsonLd } from "@/components/ui";
 import { LiveProvider } from "@/components/live";
-import { Ticker } from "@/components/ticker";
 import "./globals.css";
 
 export const metadata: Metadata = {
@@ -40,8 +39,6 @@ export default async function RootLayout({ children }: Readonly<{ children: Reac
     <html lang="es">
       <body className="min-h-screen antialiased">
         <LiveProvider symbols={coins.map((c) => c.symbol)}>
-          <Ticker items={coins.map((c) => ({ href: miradorCoin(c.id), symbol: c.symbol, image: c.image, price: c.current_price, change: c.price_change_percentage_24h }))} />
-
           <header className="border-b border-border bg-surface">
             <div className="mx-auto max-w-6xl px-4">
               <div className="flex items-center justify-between gap-3 py-2 text-xs text-muted">
