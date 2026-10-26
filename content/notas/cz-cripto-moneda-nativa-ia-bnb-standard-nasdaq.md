@@ -35,4 +35,4 @@ CZ fue sincero sobre el estado actual: pagar con cripto todavía es "bastante to
 
 Es un consejo que en América Latina se entiende bien: muchas familias reciben plata del exterior y pagan comisiones altas. Ahí las stablecoins ya muestran ventajas, como contamos en la nota sobre [remesas con stablecoins hasta 84% más baratas](/latam/remesas-stablecoins-84-por-ciento-mas-baratas-latam).
 
-El anuncio llega días después de que BNB Chain presentara [su nueva red ultrarrápida sin token nuevo](/mercado/bnb-chain-nueva-red-l1-sin-token-nuevo).
+La visita coincidió con la presentación de [su nueva red ultrarrápida sin token nuevo](/mercado/bnb-chain-nueva-red-l1-sin-token-nuevo) de BNB Chain.
