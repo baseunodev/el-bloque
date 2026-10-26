@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { getMarkets, getUsdtQuote } from "@/lib/data";
-import { getPosts, postUrl } from "@/lib/content";
+import { getPosts, getTapa, postUrl } from "@/lib/content";
 import { sections } from "@/lib/sections";
 import { LeadStory, Story, StoryLine } from "@/components/story";
 import { MiradorPromo } from "@/components/mirador-promo";
@@ -12,12 +12,11 @@ export const revalidate = 600;
 export default async function Portada() {
   const [coins, usdt] = await Promise.all([getMarkets(), getUsdtQuote("ars")]);
   const posts = getPosts();
-  const featured = posts.filter((p) => p.featured);
-  const lead = featured[0] ?? posts[0];
+  const lead = getTapa();
   const rest = posts.filter((p) => p.slug !== lead?.slug);
   const second = rest.slice(0, 3);
-  const latest = posts.slice(0, 6);
-  const breaking = posts.find((p) => p.kicker === "ÚLTIMO MOMENTO");
+  const latest = rest.slice(0, 6);
+  const breaking = rest.find((p) => p.kicker === "ÚLTIMO MOMENTO");
 
   if (!lead) return <p className="py-20 text-center text-muted">Pronto, las primeras noticias.</p>;
 

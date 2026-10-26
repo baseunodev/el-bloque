@@ -15,7 +15,8 @@ kicker: ÚLTIMO MOMENTO        # volanta (opcional)
 date: 2026-10-21T10:00:00-03:00
 author: redaccion
 section: mercado              # mercado | regulacion | latam | seguridad | guias
-featured: true                # candidata a nota principal de portada (opcional)
+featured: true                # nota importante: candidata a tapa (opcional)
+tapa: 2026-10-26              # esta nota es LA tapa de ese día (opcional, ver abajo)
 coins: bitcoin, ethereum      # ids de CoinGecko: muestran precios y enlazan al mirador
 tags: bitcoin, etf
 image: https://images.unsplash.com/photo-...?w=1600&q=75&auto=format&fit=crop   # foto libre (Unsplash)
@@ -35,6 +36,12 @@ Reglas editoriales:
 ```
 
 Hacer push a `main` y Vercel publica.
+
+### La tapa del día
+
+La nota grande de la portada es la más relevante del día, no la última publicada. Para elegirla se pone `tapa: AAAA-MM-DD` (fecha de Argentina) en esa nota, editando solo el `.md`. Si hoy ninguna tiene `tapa`, va la `featured` más reciente publicada hoy; si tampoco hay, queda la última tapa marcada. Así la tapa cambia una vez por día y no se mueve con cada nota nueva.
+
+Criterio: lo que más impacta al lector de América Latina ese día (movimiento fuerte de bitcoin, hackeo grande, regulación que cambia las reglas, noticia de Argentina o LatAm), por encima de lo más nuevo.
 
 ## Variables de entorno
 
