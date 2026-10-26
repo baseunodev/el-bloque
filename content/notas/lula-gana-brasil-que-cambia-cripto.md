@@ -34,6 +34,6 @@ Cuando la moneda local tiembla, la historia de la región muestra que la demanda
 
 La elección no frena el calendario regulatorio. El **viernes 30 de octubre** vence el plazo para que todas las exchanges que operan en Brasil **pidan licencia al Banco Central**. Las que no lo hagan tendrán 90 días para cerrar. Te lo contamos en detalle en [la cuenta regresiva en Brasil](/latam/brasil-30-octubre-licencia-exchanges-cripto).
 
-Esas reglas se armaron durante el actual gobierno de Lula y el Banco Central las viene aplicando con firmeza, así que no se espera un giro en el corto plazo. Lo que sí está por verse es cómo reacciona el real en los próximos días, y si eso empuja a más brasileños hacia las stablecoins.
+Las normas que fijan ese plazo las dictó el Banco Central, que en Brasil es autónomo, y se publicaron durante el actual mandato de Lula, así que no se espera un giro en el corto plazo. Lo que sí está por verse es cómo reacciona el real en los próximos días, y si eso empuja a más brasileños hacia las stablecoins.
 
 Seguí el precio de bitcoin y del dólar cripto en el [Mirador Cripto]({{mirador}}/precio/bitcoin).
