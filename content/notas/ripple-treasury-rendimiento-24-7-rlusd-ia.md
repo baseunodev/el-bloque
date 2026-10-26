@@ -37,4 +37,4 @@ Por ejemplo, una empresa puede dejar que la IA mueva sola la plata sobrante a la
 
 ## Por qué importa
 
-Las stablecoins tienen prohibido pagar intereses directamente en EE.UU., como contamos en la nota sobre [la regla que firmó el regulador](/regulacion/eeuu-prohibe-intereses-stablecoins-regla-occ-genius). Por eso las empresas cripto buscan otros caminos para ofrecer rendimiento a clientes institucionales. Ripple, además, viene sumando socios grandes: [Mastercard ya trabaja con su stablecoin RLUSD](/mercado/mastercard-stablecoins-ripple-rlusd-swell).
+Las stablecoins tienen prohibido pagar intereses directamente en EE.UU., como contamos en la nota sobre [la regla que firmó el regulador](/regulacion/eeuu-prohibe-intereses-stablecoins-regla-occ-genius). Por eso las empresas cripto buscan otros caminos para ofrecer rendimiento a clientes institucionales. Ripple, además, viene sumando socios grandes: [Mastercard ya acepta RLUSD entre las stablecoins con las que liquida pagos](/mercado/mastercard-stablecoins-ripple-rlusd-swell).
