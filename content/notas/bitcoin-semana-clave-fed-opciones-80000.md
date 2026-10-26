@@ -6,6 +6,7 @@ date: 2026-10-25T21:30:00-03:00
 author: redaccion
 section: mercado
 featured: true
+tapa: 2026-10-26
 coins: bitcoin, ethereum
 tags: bitcoin, fed, etf, opciones
 image: https://images.unsplash.com/photo-1633059050703-0f1b50828402?w=1600&q=75&auto=format&fit=crop
