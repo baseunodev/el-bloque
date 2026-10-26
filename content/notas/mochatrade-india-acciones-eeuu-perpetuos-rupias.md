@@ -32,7 +32,7 @@ La empresa gana con comisiones por operación y dice que, "por ahora", no planea
 
 ## En qué punto está
 
-Está en versión beta, con más de **20.000 personas** en lista de espera, y prevé su lanzamiento público en las próximas semanas. La empresa dice estar registrada ante la unidad de inteligencia financiera de India. Sus fundadores se conocieron en el IIT, la universidad de ingeniería más prestigiosa del país.
+Está en versión beta, con más de **20.000 personas** en lista de espera, y prevé su lanzamiento público en las próximas semanas. La empresa dice estar registrada ante la unidad de inteligencia financiera de India. Sus tres fundadores se conocieron en el IIT, el instituto de tecnología de India.
 
 ## Por qué nos importa
 

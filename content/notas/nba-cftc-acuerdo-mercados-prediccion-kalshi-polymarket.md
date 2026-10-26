@@ -1,5 +1,5 @@
 ---
-title: La NBA se suma a las apuestas en blockchain: firmó con el regulador y eligió a Kalshi y Polymarket
+title: La NBA abre la puerta a los mercados de predicción: firmó con el regulador y eligió a Kalshi y Polymarket
 description: La liga de básquet es la tercera en firmar un acuerdo con la CFTC para vigilar los mercados de predicción. Kalshi y Polymarket serán sus plataformas preferidas. La NFL, en cambio, quiere que los controlen los estados.
 kicker: MERCADOS DE PREDICCIÓN
 date: 2026-10-26T18:20:00-03:00
