@@ -30,4 +30,4 @@ Kaiko cree que sí puede pasar algo parecido. Estados Unidos va por un camino si
 
 Las dos empresas ya se preparan: Circle buscó autorizaciones en Europa y en EE.UU., y Tether lanzó **USAT**, una stablecoin separada para el mercado estadounidense.
 
-Global, USDT sigue arriba: su circulación es unas **2,5 veces** la de USDC.
+A nivel global, USDT sigue arriba: su circulación es unas **2,5 veces** la de USDC.
