@@ -35,4 +35,4 @@ Las empresas cripto que ya operan en Brasil tienen hasta el **viernes 30 de octu
 
 Con el pedido presentado, Binance busca que sus usuarios sigan teniendo acceso a la compra y venta de cripto, stablecoins, pagos e inversiones. Para entender a quiénes alcanza la regla y qué pasa con el resto, leé [la cuenta regresiva en Brasil](/latam/brasil-30-octubre-licencia-exchanges-cripto).
 
-La movida llega en una semana movida para el país: el real tuvo su peor día desde 1999 tras el triunfo de Lula, como contamos en [esta nota](/latam/real-brasileno-peor-caida-desde-1999-lula).
+El anuncio llega en una semana agitada para el país: el real tuvo su peor día desde 1999 tras el triunfo de Lula, como contamos en [esta nota](/latam/real-brasileno-peor-caida-desde-1999-lula).
