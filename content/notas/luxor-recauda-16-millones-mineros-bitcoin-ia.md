@@ -23,7 +23,7 @@ La frontera entre la minería de bitcoin y la inteligencia artificial es cada ve
 - **Lideró:** el fondo **CMT Digital**.
 - **Participaron:** los fabricantes de equipos de minería **Canaan** y **MicroBT**, además de Halo, Steelhead e inversores ángeles.
 
-Que los dos fabricantes de máquinas mineras apuesten por una empresa que ahora también consigue placas de video para la IA dice mucho de hacia dónde va el sector.
+Que dos grandes fabricantes de máquinas mineras apuesten por una empresa que ahora también consigue placas de video para la IA dice mucho de hacia dónde va el sector.
 
 ## Para qué es
 
