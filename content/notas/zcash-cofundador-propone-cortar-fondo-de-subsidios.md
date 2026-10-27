@@ -14,7 +14,7 @@ imageCreditUrl: https://unsplash.com/photos/gold-and-silver-round-coins-Mx3tCAyN
 sources: CoinDesk | https://www.coindesk.com/markets/2026/10/27/zcash-co-founder-proposes-ending-grants-funding-citing-usd125-million-treasury
 ---
 
-**Zcash** vive uno de sus mejores años en precio, y ahora discute qué hacer con tanta plata. El cofundador **Sean Bowe** publicó un borrador de propuesta para **apagar el flujo automático de monedas** que recibe el programa de subsidios **Zcash Community Grants (ZCG)**.
+Con el ZEC por encima de los US$ 1.000, en **Zcash** se abrió un debate sobre qué hacer con tanta plata. El cofundador **Sean Bowe** publicó un borrador de propuesta para **apagar el flujo automático de monedas** que recibe el programa de subsidios **Zcash Community Grants (ZCG)**.
 
 "Es hora de cortar el flujo de fondos de ZCG. El programa nunca fue diseñado para manejar esta cantidad de dinero", escribió Bowe.
 
