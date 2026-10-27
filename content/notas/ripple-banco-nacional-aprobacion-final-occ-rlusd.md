@@ -12,7 +12,7 @@ image: https://images.unsplash.com/photo-1764983255241-3768b4df0c57?w=1600&q=75&
 imageAlt: Fachada de un banco con columnas clásicas
 imageCredit: Foto: Leo_Visions / Unsplash
 imageCreditUrl: https://unsplash.com/photos/the-bank-of-ornate-classical-columns-and-facade-714uXLBwczM
-sources: The Block | https://www.theblock.co/news/regulation/2026-10-26-ripple-gains-final-occ-approval-rlusd-431810 ; Cointelegraph | https://cointelegraph.com/news/occ-community-banks-stablecoin-issuers-genius-act
+sources: The Block | https://www.theblock.co/news/regulation/2026-10-26-ripple-gains-final-occ-approval-rlusd-431810 ; CoinDesk | https://www.coindesk.com/daybook-us/2026/10/27/bitcoin-shows-signs-of-weakness-while-ripple-s-bank-win-fails-to-bolster-xrp ; Cointelegraph | https://cointelegraph.com/news/occ-community-banks-stablecoin-issuers-genius-act
 ---
 
 **Ripple** dio un paso que hace pocos años parecía imposible para una empresa cripto: la **Oficina del Contralor de la Moneda (OCC)**, el regulador de los bancos nacionales de Estados Unidos, le otorgó la **aprobación final** para abrir **Ripple National Trust Bank**, un banco fiduciario con licencia federal.
@@ -36,5 +36,9 @@ Ripple pidió la licencia en **julio de 2025** y recibió una aprobación condic
 No todos están contentos. La senadora **Elizabeth Warren** sostiene que estas aprobaciones violan la ley bancaria y suman riesgos al sistema. Y un grupo de bancos comunitarios ya demandó a la OCC este mes, con el argumento de que las cripto juegan con reglas más laxas.
 
 La respuesta del regulador fue llamativa: el mismo lunes invitó a esos **bancos comunitarios** a pedir permiso para **emitir sus propias stablecoins** bajo la ley GENIUS, cuyas reglas terminó de definir la semana pasada y que empieza a aplicarse en enero. Una de esas reglas es la que prohíbe pagar intereses por tener stablecoins, como explicamos en [esta nota](/regulacion/eeuu-prohibe-intereses-stablecoins-regla-occ-genius).
+
+## ¿Y el XRP?
+
+La noticia no movió al token. El martes, el **XRP** cotizaba cerca de **US$ 1,25**, con una leve baja en el día, un nivel que viene funcionando como piso desde mediados de septiembre. Como señalaron en la firma de servicios financieros Marex, la licencia "no crea ninguna obligación de comprar XRP": el banco gira alrededor de RLUSD, no del token.
 
 Ripple viene armando su ecosistema alrededor de RLUSD: hace pocos días lanzó una tesorería que paga rendimiento las 24 horas, como contamos [acá](/mercado/ripple-treasury-rendimiento-24-7-rlusd-ia).
