@@ -38,4 +38,4 @@ Japón es estricto con estas monedas. Desde 2023, la ley solo permite emitirlas 
 
 BlackRock ya tiene experiencia en el tema: su fondo tokenizado **BUIDL**, lanzado en 2024, maneja unos **US$ 2.170 millones** en bonos del Tesoro de Estados Unidos, repos y efectivo. Unir ese tipo de fondos con stablecoins permitiría mover dinero que rinde intereses a la velocidad de una cripto.
 
-Asia se está moviendo rápido en este terreno: la semana pasada HSBC lanzó su propia stablecoin en Hong Kong, como contamos en [esta nota](/regulacion/hsbc-redcoin-stablecoin-hong-kong-3-millones).
+Asia se está moviendo rápido en este terreno: el viernes HSBC lanzó su propia stablecoin en Hong Kong, como contamos en [esta nota](/regulacion/hsbc-redcoin-stablecoin-hong-kong-3-millones).
