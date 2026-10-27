@@ -6,7 +6,6 @@ date: 2026-10-27T01:10:00-03:00
 author: redaccion
 section: regulacion
 featured: true
-tapa: 2026-10-27
 coins: ripple, usd-coin
 tags: ripple, rlusd, occ, stablecoins, bancos, genius act
 image: https://images.unsplash.com/photo-1764983255241-3768b4df0c57?w=1600&q=75&auto=format&fit=crop
