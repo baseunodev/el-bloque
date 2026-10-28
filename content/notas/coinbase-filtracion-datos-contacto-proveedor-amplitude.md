@@ -6,7 +6,6 @@ date: 2026-10-28T01:10:00-03:00
 author: redaccion
 section: seguridad
 featured: true
-tapa: 2026-10-28
 coins: bitcoin, ethereum
 tags: coinbase, filtración de datos, amplitude, phishing, seguridad, exchanges
 image: https://images.unsplash.com/photo-1729860649184-b6cd907a80ee?w=1600&q=75&auto=format&fit=crop
