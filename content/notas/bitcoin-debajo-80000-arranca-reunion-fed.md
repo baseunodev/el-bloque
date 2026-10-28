@@ -11,7 +11,7 @@ image: https://images.unsplash.com/photo-1628151015968-3a4429e9ef04?w=1600&q=75&
 imageAlt: Una moneda de bitcoin dorada sobre una mesa
 imageCredit: Foto: Kanchanara / Unsplash
 imageCreditUrl: https://unsplash.com/photos/a-golden-bitcoin-sitting-on-top-of-a-table-7E3QGntO66M
-sources: CoinDesk | https://www.coindesk.com/markets/2026/10/27/bitcoin-drops-below-usd80-000-as-crypto-ignores-asian-tech-rally-fed-meeting-begins
+sources: CoinDesk | https://www.coindesk.com/markets/2026/10/27/bitcoin-drops-below-usd80-000-as-crypto-ignores-asian-tech-rally-fed-meeting-begins ; CriptoNoticias | https://www.criptonoticias.com/mercados/dos-debates-fed-podrian-definir-proximo-movimiento-btc/
 ---
 
 Las acciones tecnológicas de Asia volaron este martes, pero las cripto no se subieron. Mientras el índice surcoreano **Kospi** ganaba **3,1%**, el **bitcoin** volvió a caer debajo de los **US$ 80.000** y cotizaba cerca de **US$ 79.700**, con una baja de 1,1% en 24 horas.
@@ -32,3 +32,7 @@ La **Reserva Federal** empezó este martes su reunión de dos días y anuncia la
 - En opciones, la operación más negociada fue una **opción de venta a US$ 72.000** con vencimiento el 25 de diciembre: una cobertura contra una caída fuerte.
 - Las liquidaciones bajaron 13%, a **US$ 133 millones** en 24 horas.
 - Los ETF de bitcoin al contado recibieron US$ 110 millones el lunes y cortaron dos días de salidas, como contamos en [esta nota](/mercado/etf-bitcoin-lunes-110-millones-tras-fuga-774).
+
+## Actualización: la mirada ya está en diciembre
+
+Al cierre del martes, bitcoin rondaba los **US$ 80.785**. Si bien el mercado casi descarta cambios este miércoles, los futuros dan cerca de **75% de probabilidad a una suba de tasas en diciembre**. Dentro de la Fed hay dos discusiones abiertas: cómo responder a una economía empujada por la energía cara y el crecimiento de la IA, y cómo comunicar. El presidente **Kevin Warsh**, en el cargo desde mayo, evita anticipar movimientos, mientras otros funcionarios dieron señales que los inversores leyeron de formas opuestas. Si la Fed sugiere más subas, el soporte de **US$ 79.000** podría ponerse a prueba.
