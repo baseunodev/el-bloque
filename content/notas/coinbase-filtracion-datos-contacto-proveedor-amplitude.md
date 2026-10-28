@@ -13,7 +13,7 @@ image: https://images.unsplash.com/photo-1729860649184-b6cd907a80ee?w=1600&q=75&
 imageAlt: Un celular con una aplicación cripto abierta sobre una mesa de madera
 imageCredit: Foto: appshunter.io / Unsplash
 imageCreditUrl: https://unsplash.com/photos/a-cell-phone-sitting-on-top-of-a-wooden-table-jyWQypT-Umo
-sources: CoinDesk | https://www.coindesk.com/tech/2026/10/28/coinbase-says-customer-funds-are-safe-after-third-party-vendor-exposes-customer-contact-info
+sources: CoinDesk | https://www.coindesk.com/tech/2026/10/28/coinbase-says-customer-funds-are-safe-after-third-party-vendor-exposes-customer-contact-info ; Cointelegraph | https://cointelegraph.com/news/coinbase-analytics-provider-customer-data
 ---
 
 Si tenés cuenta en **Coinbase**, este es un buen momento para desconfiar de cualquier mail o mensaje que diga venir del exchange. La empresa confirmó que un proveedor externo expuso **datos de contacto** de un "pequeño grupo" de sus clientes.
@@ -25,6 +25,10 @@ Si tenés cuenta en **Coinbase**, este es un buen momento para desconfiar de cua
 - Según la empresa, sus propios sistemas **no tuvieron accesos no autorizados** y los **fondos de los clientes están a salvo**. Coinbase desmintió que la hayan hackeado.
 - No se reportó la exposición de contraseñas ni de claves privadas.
 - Está avisando por mail a los clientes afectados, como exige la ley.
+
+## No es la primera vez
+
+En mayo de 2025, Coinbase sufrió otra filtración que afectó a menos del 1% de sus usuarios activos por mes, y estimó que reparar los daños y reembolsar a los afectados le costaría hasta **US$ 400 millones**. Esta vez, la empresa insiste en que no encontró accesos no autorizados a sus propios sistemas.
 
 ## El verdadero riesgo
 
