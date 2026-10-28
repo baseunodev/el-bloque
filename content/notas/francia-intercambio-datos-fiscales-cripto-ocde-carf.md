@@ -39,4 +39,4 @@ Esto se suma a la norma europea **DAC8**, por la que Francia ya recolecta datos 
 
 ## Por qué importa
 
-El CARF es un estándar global de la OCDE, así que lo que hace Francia es parte de una red que crece. La tendencia es clara: el anonimato frente al fisco se achica en todas partes. En Argentina, por ejemplo, [el 74% de los inversores ya tiene cripto y los impuestos son tema](/latam/argentina-74-por-ciento-inversores-tienen-cripto-impuestos). En Europa, esta misma semana España [terminó con el anonimato en los cajeros de bitcoin](/regulacion/espana-fin-anonimato-cajeros-bitcoin-real-decreto).
+El CARF es un estándar global de la OCDE, así que lo que hace Francia es parte de una red que crece. La tendencia es clara: el anonimato frente al fisco se achica en todas partes. Y le importa a mucha gente: en Argentina, por ejemplo, [tres de cada cuatro inversores ya tienen cripto](/latam/argentina-74-por-ciento-inversores-tienen-cripto-impuestos). En Europa, esta misma semana España [terminó con el anonimato en los cajeros de bitcoin](/regulacion/espana-fin-anonimato-cajeros-bitcoin-real-decreto).
