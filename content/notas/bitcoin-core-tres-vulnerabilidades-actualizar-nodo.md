@@ -11,7 +11,7 @@ image: https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=1600&q=75&aut
 imageAlt: Líneas de código de programación en una pantalla
 imageCredit: Foto: Shahadat Rahman / Unsplash
 imageCreditUrl: https://unsplash.com/photos/shallow-focus-photography-of-computer-codes-BfrQnKBulYQ
-sources: CriptoNoticias | https://www.criptonoticias.com/seguridad-bitcoin/descubren-3-vulnerabilidades-bitcoin-core/ ; Bitcoin Core | https://bitcoincore.org/en/2026/10/28/disclose-undo-overflow/
+sources: CriptoNoticias | https://www.criptonoticias.com/seguridad-bitcoin/descubren-3-vulnerabilidades-bitcoin-core/
 ---
 
 Los desarrolladores de **Bitcoin Core**, el software que usa la mayoría de los nodos de la red, publicaron tres fallas de seguridad ya corregidas. Si corrés un nodo, la recomendación es simple: **actualizá** a las versiones **29.5, 30.4, 31.2 o 32.1**, publicadas el 27 y 28 de octubre.
