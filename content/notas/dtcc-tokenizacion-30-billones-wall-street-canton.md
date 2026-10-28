@@ -1,6 +1,6 @@
 ---
 title: El corazón de Wall Street se pasa a blockchain: DTCC lanza la tokenización de US$ 30 billones en acciones y bonos
-description: La entidad que liquida casi todo el mercado de EE.UU. estrenó su servicio de tokenización con JPMorgan, Citi y otros grandes bancos entre sus 20 participantes. Los tokens circulan las 24 horas.
+description: La entidad que liquida buena parte del mercado de EE.UU. estrenó su servicio de tokenización con JPMorgan, Citi y otros grandes bancos entre sus 20 participantes. Los tokens circulan las 24 horas.
 kicker: ÚLTIMO MOMENTO
 date: 2026-10-28T11:15:00-03:00
 author: redaccion
