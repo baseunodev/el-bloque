@@ -1,5 +1,5 @@
 ---
-title: Wells Fargo, Microsoft y Google le dicen que no a las acciones cripto de OKX: ya son 26 las empresas que se bajan
+title: JPMorgan, Coca-Cola y Microsoft le dicen que no a las acciones cripto de OKX: ya son 33 las empresas que se bajan
 description: El plan de OKX y el dueño de la Bolsa de Nueva York para vender acciones tokenizadas las 24 horas suma rechazos de peso. Una de cada tres empresas de la lista ya objetó. Qué es lo que proponen y por qué preocupa.
 kicker: WALL STREET
 date: 2026-10-25T22:45:00-03:00
@@ -11,7 +11,7 @@ image: https://images.unsplash.com/photo-1773266110858-acb9b6c43b15?w=1600&q=75&
 imageAlt: Datos del mercado de acciones en una pantalla
 imageCredit: Foto: Daniel / Unsplash
 imageCreditUrl: https://unsplash.com/photos/financial-stock-market-data-displayed-on-a-screen-EuIqk6LpUU0
-sources: Decrypt | https://decrypt.co/381998/intel-oracle-ibm-join-objections-okx-ice-tokenized-stock-total-26 ; Cointelegraph | https://cointelegraph.com/news/alphabet-microsoft-goldman-object-okx-ice-tokenized-stock ; Decrypt | https://decrypt.co/381448/microsoft-alphabet-goldman-sachs-growing-list-objecting-tokenized-stocks
+sources: CoinDesk | https://www.coindesk.com/business/2026/10/28/jpmorgan-coca-cola-dell-also-say-no-to-okx-ice-tokenized-tock-trading-plan ; Decrypt | https://decrypt.co/381998/intel-oracle-ibm-join-objections-okx-ice-tokenized-stock-total-26 ; Cointelegraph | https://cointelegraph.com/news/alphabet-microsoft-goldman-object-okx-ice-tokenized-stock ; Decrypt | https://decrypt.co/381448/microsoft-alphabet-goldman-sachs-growing-list-objecting-tokenized-stocks
 ---
 
 Comprar una acción de Microsoft un domingo a las tres de la mañana y pagarla con dólares digitales. Esa es la promesa de **OKXICE**, la plataforma que preparan el exchange cripto **OKX** e **Intercontinental Exchange (ICE)**, la dueña de la Bolsa de Nueva York. El problema es que cada vez más empresas de la lista dicen que no quieren estar ahí.
@@ -43,3 +43,11 @@ Es la misma tensión que atraviesa todo el cruce entre bancos y cripto: Wall Str
 ## Actualización: ya son 26
 
 En un nuevo aviso del lunes 26 de octubre se sumaron **Intel, Oracle, IBM e IonQ**, y la lista de objeciones llegó a **26**. La cuenta no para de crecer: 9 el 15 de octubre, 16 el 19, 22 el 23 y 26 ahora. Las tecnológicas son mayoría y, otra vez, ninguna explicó por qué.
+
+## Actualización: 33 objeciones y casi la mitad de la lista afuera
+
+Un nuevo aviso con fecha del 27 de octubre sumó otras siete empresas, entre ellas **JPMorgan Chase, Coca-Cola, Dell**, Applied Materials, Adobe y Sandisk. Con eso, las objeciones declaradas llegan a **33**.
+
+Según un conteo del mercado, **30 de las 62 empresas** de la lista original ya pidieron quedar afuera: casi **la mitad**. Las compañías tienen 30 días desde que reciben la notificación para oponerse, así que la cifra todavía puede subir.
+
+Cuomo insistió en que se trata de un experimento acotado de la SEC, "un arenero, una demostración", y que muchas firmas prefieren esperar a ver cómo funciona.
