@@ -33,4 +33,4 @@ Además de los cajeros cripto, las nuevas reglas alcanzan al **juego online** y 
 
 ## Una tendencia global
 
-Los cajeros cripto están en la mira en todo el mundo porque suelen aparecer en estafas a personas mayores. En Estados Unidos, por ejemplo, [Albuquerque directamente los prohibió](/regulacion/albuquerque-prohibe-cajeros-bitcoin-estafas). España eligió otro camino: no prohibir, pero terminar con el anonimato. Y es otra señal de cómo se mueve Europa, donde esta semana también se aprobó [la primera bolsa tokenizada de Bit2Me](/mercado/bit2me-bolsa-valores-tokenizados-espana-cnmv).
+Los cajeros cripto están en la mira en todo el mundo porque suelen aparecer en estafas a personas mayores. En Estados Unidos, por ejemplo, [Albuquerque directamente los prohibió](/seguridad/albuquerque-prohibe-cajeros-bitcoin-estafas). España eligió otro camino: no prohibir, pero terminar con el anonimato. Y es otra señal de cómo se mueve Europa, donde esta semana también se aprobó [la primera bolsa tokenizada de Bit2Me](/mercado/bit2me-bolsa-valores-tokenizados-espana-cnmv).
