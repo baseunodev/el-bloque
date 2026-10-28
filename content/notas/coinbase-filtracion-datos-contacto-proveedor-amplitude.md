@@ -37,4 +37,4 @@ Para cuidarte:
 - Activá la verificación en dos pasos con una app o una llave física, no por SMS.
 - Si alguien te apura para mover tus fondos "a una billetera segura", es una estafa.
 
-Repasá [las 10 señales para detectar una estafa cripto](/seguridad/como-detectar-estafas-cripto). La filtración llega el mismo día en que Bithumb, en Corea, confirmó [un ataque a su sistema interno](/seguridad/bithumb-hackeo-sistema-interno-datos-usuarios).
+Repasá [las 10 señales para detectar una estafa cripto](/seguridad/como-detectar-estafas-cripto). La filtración llega en los mismos días en que Bithumb, en Corea, confirmó [un ataque a su sistema interno](/seguridad/bithumb-hackeo-sistema-interno-datos-usuarios).
