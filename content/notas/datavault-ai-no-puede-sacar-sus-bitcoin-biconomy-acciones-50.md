@@ -1,5 +1,5 @@
 ---
-title: «No puede retirar sus bitcoin»: la acción de Datavault AI se desploma 50% al confesar que tiene sus BTC trabados en un exchange desde junio
+title: Sus bitcoin están trabados en un exchange desde junio: la acción de Datavault AI se desploma 50%
 description: La empresa, que acumulaba bitcoin como reserva, admitió que no logra sacar sus monedas de Biconomy y que tendrá que corregir sus balances.
 kicker: ESCÁNDALO
 date: 2026-10-28T03:10:00-03:00
