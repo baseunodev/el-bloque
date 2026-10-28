@@ -30,4 +30,4 @@ No es un caso aislado. El regulador financiero coreano informó que, al 14 de oc
 
 ## Qué hacer si tenés cuenta
 
-Aunque los fondos no estén en riesgo, una filtración de datos es la puerta de entrada a los engaños: mails y mensajes que se hacen pasar por el exchange para robarte claves. Desconfiá de cualquier pedido urgente, activá la verificación en dos pasos y repasá cómo terminó el [ataque de phishing a usuarios de Foundation](/seguridad/foundation-passport-phishing-mails-falsos-retiro).
+Aunque los fondos no estén en riesgo, una filtración de datos es la puerta de entrada a los engaños: mails y mensajes que se hacen pasar por el exchange para robarte claves. Desconfiá de cualquier pedido urgente, activá la verificación en dos pasos y repasá cómo funcionó el [ataque de phishing a usuarios de Foundation](/seguridad/foundation-passport-phishing-mails-falsos-retiro).
