@@ -34,4 +34,4 @@ Las claves robadas son el talón de Aquiles de cripto. Según **Chainalysis**, e
 
 El sistema no impide que un usuario legítimo sea **engañado para autorizar** una transacción maliciosa. Y la seguridad depende de cómo cada banco lo configure. Google compite con especialistas como Fireblocks, Fordefi y BitGo.
 
-El anuncio llega en una semana cargada de alertas: Coinbase confirmó [una filtración de datos por un proveedor](/seguridad/coinbase-filtracion-datos-contacto-proveedor-amplitude), y Google también es una de las voces que alerta sobre [la amenaza cuántica](/seguridad/nist-plazos-criptografia-poscuantica-2030-2035).
+El anuncio llega en una semana cargada de alertas: Coinbase confirmó [una filtración de datos por un proveedor](/seguridad/coinbase-filtracion-datos-contacto-proveedor-amplitude), y los propios investigadores de Google estimaron que una futura computadora cuántica podría sacar una clave de bitcoin en unos 9 minutos, en plena discusión por [los plazos para blindarse](/seguridad/nist-plazos-criptografia-poscuantica-2030-2035). Ojo: Google aclara que este sistema apunta a los riesgos actuales, no a un quiebre cuántico.
