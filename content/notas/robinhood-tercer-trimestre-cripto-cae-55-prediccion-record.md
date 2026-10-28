@@ -11,7 +11,7 @@ image: https://images.unsplash.com/photo-1730818028755-f28b7e9e9626?w=1600&q=75&
 imageAlt: Un celular con una aplicación abierta sobre una mesa de madera
 imageCredit: Foto: appshunter.io / Unsplash
 imageCreditUrl: https://unsplash.com/photos/a-cell-phone-sitting-on-top-of-a-wooden-table-qeHr_n3skic
-sources: Decrypt | https://decrypt.co/382004/robinhood-misses-q3-earnings-crypto-prediction-markets ; The Block | https://www.theblock.co/news/business/2026-10-27-robinhood-chain-brings-in-26-million-crypto-revenue-rises-20-q2-431935
+sources: Decrypt | https://decrypt.co/382004/robinhood-misses-q3-earnings-crypto-prediction-markets ; The Block | https://www.theblock.co/news/business/2026-10-27-robinhood-chain-brings-in-26-million-crypto-revenue-rises-20-q2-431935 ; Cointelegraph | https://cointelegraph.com/news/robinhoods-tenev-warns-us-tokenization-uncertainty-deters-serious-assets
 ---
 
 **Robinhood** tuvo ingresos récord en el tercer trimestre, pero igual se quedó corto frente a lo que esperaba Wall Street. Y el reparto de la torta cambió: los **mercados de predicción** ya le dejan más plata que las **criptomonedas**.
@@ -35,3 +35,7 @@ Del lado cripto, la empresa anunció que sumará **RLUSD**, la stablecoin de Rip
 ## Actualización: la blockchain propia ya factura
 
 Lo que salvó a cripto en el trimestre fue **Robinhood Chain**, su red propia construida sobre Arbitrum y lanzada el 1 de julio. En su primer trimestre generó **US$ 26 millones** de ingresos, procesó más de **US$ 80.000 millones** en volumen de exchanges descentralizados y cobró más de US$ 50 millones en comisiones. Sin esa red, los ingresos cripto habrían caído 6% frente al trimestre anterior, a US$ 94 millones; con ella, subieron 20%.
+
+## Tenev y las acciones tokenizadas
+
+En la llamada con inversores, el CEO **Vlad Tenev** celebró la exención temporal de la SEC para operar acciones en blockchain, pero avisó que hace falta una ley o reglas definitivas: "La incertidumbre sobre lo que pase en cinco años probablemente sea un impedimento" para que se muevan "activos serios" a esta tecnología. Robinhood ya ofrece unos **200 tokens de acciones** en su red, armados como títulos de deuda que dan exposición al precio pero no derechos de accionista, como el voto.
