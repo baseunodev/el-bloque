@@ -11,7 +11,7 @@ image: https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=1600&q=75&
 imageAlt: Un micrófono de estudio con luces desenfocadas de fondo
 imageCredit: Foto: israel palacio / Unsplash
 imageCreditUrl: https://unsplash.com/photos/bokeh-photography-of-condenser-microphone-Y20JJ_ddy9M
-sources: CoinDesk | https://www.coindesk.com/markets/2026/10/27/investor-who-called-for-ai-pivot-in-2023-says-bitcoin-is-going-to-usd57-000
+sources: CoinDesk | https://www.coindesk.com/markets/2026/10/27/investor-who-called-for-ai-pivot-in-2023-says-bitcoin-is-going-to-usd57-000 ; CriptoNoticias | https://www.criptonoticias.com/comunidad/ia-crea-valor-bitcoin-permite-conservarlo-segun-saylor/
 ---
 
 En 2023 les dijo a los fundadores cripto que se pasaran a la inteligencia artificial. Ahora va más lejos. **Jason Calacanis**, inversor tecnológico y conductor de podcasts, les pidió este martes a sus seguidores que **vendan sus bitcoin** y pronosticó que la moneda **volverá a US$ 57.000** en los próximos 12 meses y que **no marcará otro récord**.
@@ -27,6 +27,10 @@ En 2023 les dijo a los fundadores cripto que se pasaran a la inteligencia artifi
 ## Dónde pone su plata
 
 Calacanis no es neutral: dice tener **TAO**, el token de **Bittensor**, una red que paga a quienes aportan cómputo, almacenamiento y otros servicios para la IA. "Estoy comprado en TAO", escribió.
+
+## Saylor le contestó
+
+Michael Saylor, fundador de Strategy, le respondió en X: "La IA crea abundancia. Bitcoin impone escasez". Y agregó: "La inteligencia digital y el capital digital son complementarios, Jason". Para Saylor, la IA multiplica la capacidad de crear valor y bitcoin sirve para conservarlo y moverlo en el tiempo, así que el mundo necesita las dos cosas.
 
 ## Contexto
 
