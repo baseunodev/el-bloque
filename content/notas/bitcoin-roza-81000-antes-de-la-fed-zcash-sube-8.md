@@ -11,7 +11,7 @@ image: https://images.unsplash.com/photo-1746423016448-2077121794e5?w=1600&q=75&
 imageAlt: Fajos de billetes de cien dólares
 imageCredit: Foto: Logan Voss / Unsplash
 imageCreditUrl: https://unsplash.com/photos/stacks-of-hundred-dollar-bills-are-visible-MuY_wpF6aeg
-sources: CoinDesk | https://www.coindesk.com/markets/2026/10/28/bitcoin-nears-usd81-000-ahead-of-fed-decision-as-zec-jumps-8
+sources: CoinDesk | https://www.coindesk.com/markets/2026/10/28/bitcoin-nears-usd81-000-ahead-of-fed-decision-as-zec-jumps-8 ; CoinDesk | https://www.coindesk.com/daybook-us/2026/10/28/dissent-and-more-3-things-to-watch-for-at-the-fed-meeting
 ---
 
 El mercado cripto llega con buen ánimo al día de la **Fed**. En la mañana asiática del miércoles, **bitcoin** subía casi **2%** y quedaba apenas debajo de los **US$ 81.000**, después de haber tocado casi US$ 79.000 el fin de semana.
@@ -35,3 +35,13 @@ Desde el lado técnico, un cierre diario de bitcoin arriba de los **US$ 82.500**
 "Creemos que el mercado bajista terminó en junio y que bitcoin está en la fase de acumulación que precedió a todas las subas anteriores", dijo **Alex Thorn**, de Galaxy. Ubica el piso en junio, cuando bitcoin cotizaba debajo de US$ 58.000. Es la misma tesis que la firma viene sosteniendo, como contamos en [esta nota](/mercado/galaxy-dice-que-termino-mercado-bajista-bitcoin).
 
 **Importante:** los niveles técnicos y las opiniones son de terceros y no son una recomendación de El Bloque.
+
+## Actualización: tres cosas a mirar en la Fed
+
+La decisión sale a las **15:00 de Argentina** y el mercado espera que la tasa quede en **3,75%–4%**. Lo que puede mover a bitcoin está en los detalles:
+
+1. **Votos por una suba.** Si tres o más miembros piden subir la tasa, el dólar se fortalecería y eso suele pesar sobre las cripto.
+2. **Condiciones financieras más flojas.** El rendimiento del bono a 10 años, cerca de 5%, bajó 36 puntos básicos desde el 7 de octubre. Eso le da aire a la Fed, pero también puede hacerla más dura.
+3. **Inflación.** El índice de precios superó lo esperado dos meses seguidos, con el petróleo cerca de US$ 100 y el gasoil en récord.
+
+Mientras tanto, bitcoin ya cotizaba por encima de los **US$ 81.400**, con una suba de más de 2%.
