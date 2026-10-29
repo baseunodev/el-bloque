@@ -5,8 +5,6 @@ kicker: AMÉRICA LATINA
 date: 2026-10-25T09:00:00-03:00
 author: redaccion
 section: latam
-featured: true
-tapa: 2026-10-29
 coins: bitcoin, tether
 tags: brasil, regulacion, exchanges, stablecoins
 image: https://images.unsplash.com/photo-1665678356570-1528084d0dd3?w=1600&q=75&auto=format&fit=crop
