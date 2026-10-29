@@ -13,7 +13,7 @@ image: https://images.unsplash.com/photo-1765445665883-085301570c87?w=1600&q=75&
 imageAlt: Arte digital abstracto con fragmentos de código y efecto de falla
 imageCredit: Foto: Egor Komarov / Unsplash
 imageCreditUrl: https://unsplash.com/photos/abstract-glitch-art-with-digital-code-fragments-vpWRUwL39FQ
-sources: The Block | https://www.theblock.co/news/markets/2026-10-29-binance-investigating-hack-suspicious-outflows-5-billion-432171
+sources: CoinDesk | https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets ; Decrypt | https://decrypt.co/382194/binance-hack-exit-ramps-defi-exchange-ethereum ; The Block | https://www.theblock.co/news/markets/2026-10-29-binance-investigating-hack-suspicious-outflows-5-billion-432171
 ---
 
 **Binance**, el exchange cripto más grande del mundo, está **investigando un posible problema de seguridad** después de que datos de la blockchain mostraran **salidas sospechosas multimillonarias** desde sus billeteras. Es una noticia en desarrollo.
@@ -34,6 +34,15 @@ Los números todavía **no coinciden** entre las distintas fuentes.
 
 - **Tether y Circle** congelaron en conjunto unos **US$ 1.790 millones** en USDT y USDC. Más tarde, el CEO de Tether, **Paolo Ardoino**, dijo que se congelaron más de **1.567 millones de USDT**.
 - El token **BNB** caía más de **5,5%**.
+
+## Actualización (20:00 de Argentina): el mercado sacude y crecen los congelamientos
+
+- Según datos de **Arkham**, la billetera señalada como del atacante llegó a tener **más de US$ 5.700 millones**: unos US$ 1.500 millones en bitcoin, US$ 900 millones en ether y US$ 1.400 millones en USDT y USDC.
+- **Tether** congeló más de **US$ 1.570 millones** en USDT y **Circle** más de **US$ 800 millones** en USDC. **Ripple** también congeló unos **US$ 200 millones** de su stablecoin RLUSD.
+- «Los fondos de los usuarios están SAFU», escribió **Yi He**, en referencia al fondo de emergencia de Binance. CZ, que ya no maneja la empresa, dijo que como accionista espera que todos los fondos queden cubiertos.
+- Binance **sigue sin confirmar** el hackeo ni explicar la causa, y no hay un anuncio oficial en su web.
+- Otras plataformas se cubren: **Aave** congeló sus mercados V3 en Ethereum y **Kamino** pausó préstamos en un mercado de SOL y BTC.
+- **Mercado:** el bitcoin cayó cerca de **3%**, a unos **US$ 78.800**, después de haber tocado US$ 81.500. El ether bajaba **4%**, BNB alrededor de **6,7%** y AAVE **8%**.
 
 ## Qué hacer si tenés fondos en Binance
 
