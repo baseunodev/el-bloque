@@ -24,7 +24,7 @@ El negocio cripto se está mudando a la bolsa. Un informe de la firma de inversi
 
 ## Un cambio de fondo
 
-Por primera vez, en el tercer trimestre, los ingresos por **actividad económica** (pagos, préstamos, trading) superaron a los de la **infraestructura** blockchain: unos **US$ 5.300 millones** contra **US$ 5.100 millones**.
+Por primera vez, en el tercer trimestre, los ingresos por **actividad económica** superaron a los de la **infraestructura** blockchain: unos **US$ 5.300 millones** contra **US$ 5.100 millones**.
 
 ## La tokenización acelera
 
