@@ -11,7 +11,7 @@ image: https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=1600&q=75&aut
 imageAlt: Un abanico de billetes de 100 dólares
 imageCredit: Foto: Alexander Mils / Unsplash
 imageCreditUrl: https://unsplash.com/photos/fan-of-100-us-dollar-banknotes-lCPhGxs7pww
-sources: Spiral (GitHub) | https://github.com/spiralxyz/bitcoin-payments ; CriptoNoticias | https://www.criptonoticias.com/comunidad/adopcion/spiral-admite-bitcoin-pierde-terreno-ante-stablecoins-pagos/
+sources: CriptoNoticias | https://www.criptonoticias.com/comunidad/adopcion/spiral-admite-bitcoin-pierde-terreno-ante-stablecoins-pagos/
 ---
 
 Lo dice uno de los equipos que más empujan el bitcoin como medio de pago. **Spiral**, respaldado por **Jack Dorsey**, publicó un documento titulado **«El largo camino hacia los pagos con bitcoin»** con una conclusión incómoda para los maximalistas.
