@@ -5,6 +5,8 @@ kicker: AMÉRICA LATINA
 date: 2026-10-25T09:00:00-03:00
 author: redaccion
 section: latam
+featured: true
+tapa: 2026-10-29
 coins: bitcoin, tether
 tags: brasil, regulacion, exchanges, stablecoins
 image: https://images.unsplash.com/photo-1665678356570-1528084d0dd3?w=1600&q=75&auto=format&fit=crop
@@ -42,3 +44,9 @@ Según estimaciones de Mercado Bitcoin, en Brasil operan unas **120 plataformas*
 El endurecimiento brasileño ya movió el mapa: muchos usuarios y empresas [miran a Argentina como alternativa](/latam/brasil-exodo-cripto-lemon-bitso-argentina). Si estás en Brasil, el consejo de las plataformas es completar tus datos y el test de perfil antes del viernes para no quedar con la cuenta bloqueada.
 
 Mientras tanto, México [discute su propia ley de stablecoins](/latam/mexico-stablecoins-peso-proyecto-senado).
+
+## Actualización: falta un día
+
+Al cierre del miércoles 28, ya se movieron dos de los grandes jugadores. **Binance** presentó su pedido de licencia a través de su empresa local, aunque recortó servicios y sacó 22 monedas para los usuarios brasileños (lo contamos en [esta nota](/latam/binance-pide-licencia-brasil-recorta-servicios-22-monedas)). E **Itaú**, el banco más grande del país, se convirtió en el primero en formalizar su negocio cripto bajo las nuevas reglas ([acá los detalles](/latam/itau-primer-banco-brasil-formaliza-cripto-banco-central)).
+
+Presentar el pedido no equivale a tener la aprobación: es lo que permite seguir operando en forma transitoria mientras el Banco Central revisa cada caso.
