@@ -5,8 +5,6 @@ kicker: ÚLTIMO MOMENTO
 date: 2026-10-29T09:10:00-03:00
 author: redaccion
 section: latam
-featured: true
-tapa: 2026-10-29
 tags: coinbase, brasil, licencia, banco central, regulacion, exchanges
 image: https://images.unsplash.com/photo-1764444218574-d7458950bf4c?w=1600&q=75&auto=format&fit=crop
 imageAlt: Horizonte de São Paulo con edificios altos al atardecer
