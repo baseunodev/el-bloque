@@ -5,7 +5,7 @@ kicker: ÚLTIMO MOMENTO
 date: 2026-10-30T07:10:00-03:00
 author: redaccion
 section: seguridad
-coins: BNB, BTC, RUNE
+coins: BNB, BTC
 tags: binance, hackeo, seguridad, retiros, thorchain, richard teng
 image: https://images.unsplash.com/photo-1767471773446-e92d8cad09a7?w=1600&q=75&auto=format&fit=crop
 imageAlt: Patrón abstracto de líneas verdes y negras que se cruzan
@@ -26,7 +26,7 @@ El hackeo a Binance resultó más complicado de lo que parecía. En su primer co
 
 ## El rastro del dinero
 
-El investigador **ZachXBT** detectó que fondos de Binance y de un **ataque anterior a Bitget** terminaron mezclados en una misma dirección de **THORChain**, una red que permite cambiar monedas entre distintas blockchains sin un intermediario. En paralelo, el token **RUNE** de THORChain llegó a subir alrededor de 13%.
+El investigador **ZachXBT** detectó que fondos de Binance y de un **ataque anterior a Bitget** terminaron mezclados en una misma dirección de **THORChain**, una red que permite cambiar monedas entre distintas blockchains sin un intermediario.
 
 **Chainalysis** y **TRM Labs** vinculan el ataque a **TraderTraitor**, un grupo norcoreano, y calculan el robo en hasta **US$ 6.400 millones**.
 
