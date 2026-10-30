@@ -24,6 +24,6 @@ Octubre suele ser un buen mes para el bitcoin, tanto que en la comunidad lo llam
 
 ## Qué queda del mes
 
-Con solo un día hábil por delante, al bitcoin le haría falta un rebote fuerte para cambiar el saldo. Ya a mitad de mes se veía venir: [octubre se estaba poniendo rojo](/mercado/bitcoin-octubre-rojo-uptober).
+Con solo un día de octubre por delante, al bitcoin le haría falta un rebote fuerte para cambiar el saldo. Ya a mitad de mes se veía venir: [octubre se estaba poniendo rojo](/mercado/bitcoin-octubre-rojo-uptober).
 
 **Importante:** los récords estacionales no predicen lo que hará el precio. No es una recomendación de El Bloque.
