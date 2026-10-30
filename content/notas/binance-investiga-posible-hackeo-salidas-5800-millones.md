@@ -52,6 +52,10 @@ Los números todavía **no coinciden** entre las distintas fuentes.
 - **Bybit**, que sufrió un hackeo enorme en 2025, aclaró que no está afectada y que opera con normalidad.
 - Binance **sigue sin confirmar** que se trate de un hackeo, y nadie atribuyó el ataque a un grupo concreto.
 
+## Actualización (22:00 de Argentina): Binance promete cubrir todo
+
+Binance anunció que **cubrirá todas las pérdidas** y suspendió **todos los depósitos y retiros**. Además, su reserva de ether quedó cerca del 94%. [Los detalles, acá](/seguridad/binance-promete-cubrir-todas-las-perdidas-frena-depositos-retiros).
+
 ## Qué hacer si tenés fondos en Binance
 
 - **No entres en pánico** ni hagas clic en links que lleguen por mensajes o redes: los estafadores aprovechan estos momentos.
