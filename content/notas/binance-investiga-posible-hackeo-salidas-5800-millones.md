@@ -13,7 +13,7 @@ image: https://images.unsplash.com/photo-1765445665883-085301570c87?w=1600&q=75&
 imageAlt: Arte digital abstracto con fragmentos de código y efecto de falla
 imageCredit: Foto: Egor Komarov / Unsplash
 imageCreditUrl: https://unsplash.com/photos/abstract-glitch-art-with-digital-code-fragments-vpWRUwL39FQ
-sources: CoinDesk | https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets ; Decrypt | https://decrypt.co/382194/binance-hack-exit-ramps-defi-exchange-ethereum ; The Block | https://www.theblock.co/news/markets/2026-10-29-binance-investigating-hack-suspicious-outflows-5-billion-432171
+sources: Decrypt | https://decrypt.co/382191/binance-suspected-hack-5-billion-tether-circle-freeze-crypto ; CoinDesk | https://www.coindesk.com/business/2026/10/29/live-updates-bitcoin-clings-to-usd80-000-as-strategy-s-cushion-thins-before-earnings ; CoinDesk | https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets ; Decrypt | https://decrypt.co/382194/binance-hack-exit-ramps-defi-exchange-ethereum ; The Block | https://www.theblock.co/news/markets/2026-10-29-binance-investigating-hack-suspicious-outflows-5-billion-432171
 ---
 
 **Binance**, el exchange cripto más grande del mundo, está **investigando un posible problema de seguridad** después de que datos de la blockchain mostraran **salidas sospechosas multimillonarias** desde sus billeteras. Es una noticia en desarrollo.
@@ -43,6 +43,14 @@ Los números todavía **no coinciden** entre las distintas fuentes.
 - Binance **sigue sin confirmar** el hackeo ni explicar la causa, y no hay un anuncio oficial en su web.
 - Otras plataformas se cubren: **Aave** congeló sus mercados V3 en Ethereum y **Kamino** pausó préstamos en un mercado de SOL y BTC.
 - **Mercado:** el bitcoin cayó cerca de **3%**, a unos **US$ 78.800**, después de haber tocado US$ 81.500. El ether bajaba **4%**, BNB alrededor de **6,7%** y AAVE **8%**.
+
+## Actualización (21:00 de Argentina): retiros frenados y US$ 2.500 millones congelados
+
+- Binance **frenó los retiros** mientras hace controles: «Nuestro equipo está realizando chequeos de seguridad», dijo, y aseguró que los fondos de los usuarios siguen a salvo. Prometió reanudarlos apenas se resuelva el problema.
+- Entre Tether, Circle, Ripple y otros emisores, lo **congelado ya ronda los US$ 2.500 millones**.
+- La primera salida en Ethereum ocurrió a las **17:24 de Argentina**, apenas tres minutos después de un cambio de permisos en una billetera caliente de Binance, hecho por una dirección financiada a través de **Tornado Cash**, según el análisis de un investigador de Phylax Systems. Todavía no se sabe cómo se consiguió la firma necesaria.
+- **Bybit**, que sufrió un hackeo enorme en 2025, aclaró que no está afectada y que opera con normalidad.
+- Binance **sigue sin confirmar** que se trate de un hackeo, y nadie atribuyó el ataque a un grupo concreto.
 
 ## Qué hacer si tenés fondos en Binance
 
