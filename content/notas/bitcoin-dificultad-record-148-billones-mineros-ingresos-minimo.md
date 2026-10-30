@@ -24,7 +24,7 @@ Los mineros de bitcoin reciben un doble golpe. La **dificultad de la red subió 
 
 ## Quién queda afuera
 
-Con electricidad a **US$ 0,06 por kWh**, una máquina de eficiencia media (25 J/TH) **pierde unos US$ 3,32 por PH por día**, antes de contar otros costos. Es decir: solo los mineros con energía muy barata o equipos de última generación siguen ganando.
+Con electricidad a **US$ 0,06 por kWh**, una máquina de 25 J/TH **pierde unos US$ 3,32 por PH por día**, antes de contar otros costos. Con esos números, la energía barata y los equipos más eficientes hacen toda la diferencia.
 
 La presión llega en un momento delicado para el precio, golpeado por el hackeo a Binance. En la región, la minería también enfrenta otros riesgos, como el [asalto a una granja de minería en Paraguay](/latam/paraguay-detienen-asaltante-granja-mineria-bitcoin).
 
