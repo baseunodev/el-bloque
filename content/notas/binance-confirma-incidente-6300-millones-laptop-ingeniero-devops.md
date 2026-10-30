@@ -13,7 +13,7 @@ image: https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=1600&q=75&
 imageAlt: Pantalla de computadora llena de líneas de código
 imageCredit: Foto: Chris Ried / Unsplash
 imageCreditUrl: https://unsplash.com/photos/a-computer-screen-with-a-bunch-of-code-on-it-ieic5Tq8YMk
-sources: Binance | https://www.binance.com/en/support/announcement/detail/c5a8729a97ac486d963784d96c5642d7 ; CoinDesk | https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets ; Cointelegraph | https://cointelegraph.com/news/binance-linked-wallet-faces-possible-exploit-blockchain-researcher-warns
+sources: CriptoNoticias | https://www.criptonoticias.com/seguridad-bitcoin/binance-confirma-hackeo-robo-6300-millones/ ; Binance | https://www.binance.com/en/support/announcement/detail/c5a8729a97ac486d963784d96c5642d7 ; CoinDesk | https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets ; Cointelegraph | https://cointelegraph.com/news/binance-linked-wallet-faces-possible-exploit-blockchain-researcher-warns
 ---
 
 Después de horas de silencio, **Binance** publicó su primer comunicado oficial sobre el incidente. Sus números confirman lo peor: estima el impacto total en **unos US$ 6.300 millones**, una cifra que lo pondría como **el mayor golpe de la historia cripto**.
@@ -39,6 +39,10 @@ Los depósitos y retiros siguen **suspendidos**, y Binance no dio fecha para rea
 Binance no atribuyó el ataque. Pero la firma **TRM Labs** lo vincula «con alta confianza» a **TraderTraitor**, un grupo norcoreano, y el investigador **ZachXBT** señala al **Grupo Lazarus** como el atacante más probable.
 
 Las cifras siguen bailando según quién mide: **Chainalysis** calcula unos **US$ 5.900 millones** al momento del robo, mientras que Binance habla de US$ 6.300 millones.
+
+## Actualización (6:00 de Argentina): vuelven los depósitos
+
+Según publicaciones de Binance en X, los **depósitos ya funcionan con normalidad**, pero los **retiros siguen pausados**. La empresa estima reanudarlos **en un plazo máximo de 48 horas**. Mientras tanto, Chainalysis elevó su cálculo del robo a **US$ 6.400 millones**.
 
 ## El mercado
 
