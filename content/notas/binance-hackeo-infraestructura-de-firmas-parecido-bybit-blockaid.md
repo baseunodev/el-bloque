@@ -5,8 +5,6 @@ kicker: ÚLTIMO MOMENTO
 date: 2026-10-30T00:10:00-03:00
 author: redaccion
 section: seguridad
-featured: true
-tapa: 2026-10-30
 coins: BNB, BTC, ETH
 tags: binance, hackeo, seguridad, blockaid, bybit, corea del norte, eip-7702
 image: https://images.unsplash.com/photo-1641580529558-a96cf6efbc72?w=1600&q=75&auto=format&fit=crop
