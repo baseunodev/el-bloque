@@ -1,5 +1,5 @@
 import { ImageResponse } from "next/og";
-import { getPost, getPosts } from "@/lib/content";
+import { getPost } from "@/lib/content";
 import { sectionBySlug } from "@/lib/sections";
 
 // Imagen de 1200 px por nota: la usan redes sociales, WhatsApp y Google Discover.
@@ -7,8 +7,12 @@ export const size = { width: 1200, height: 630 };
 export const contentType = "image/png";
 export const alt = "El Bloque";
 
+// Sin prerender: la imagen se genera cuando la pide una red social y queda en caché.
+// Prerenderizarlas sumaba ~250 KB por nota a cada deploy.
+export const revalidate = 86400;
+
 export function generateStaticParams() {
-  return getPosts().map((p) => ({ seccion: p.section, slug: p.slug }));
+  return [];
 }
 
 export default async function Image({ params }: { params: Promise<{ slug: string }> }) {
