@@ -5,8 +5,6 @@ kicker: ÚLTIMO MOMENTO
 date: 2026-10-29T19:10:00-03:00
 author: redaccion
 section: seguridad
-featured: true
-tapa: 2026-10-29
 coins: bitcoin, ethereum
 tags: binance, hackeo, seguridad, tether, circle, bnb
 image: https://images.unsplash.com/photo-1765445665883-085301570c87?w=1600&q=75&auto=format&fit=crop
