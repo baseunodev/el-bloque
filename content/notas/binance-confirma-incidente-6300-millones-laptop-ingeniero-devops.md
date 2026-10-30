@@ -9,10 +9,10 @@ featured: true
 tapa: 2026-10-30
 coins: BNB, BTC, ETH
 tags: binance, hackeo, seguridad, safu, corea del norte, lazarus, devops
-image: https://images.unsplash.com/photo-1760199789455-49098afd02f0?w=1600&q=75&auto=format&fit=crop
-imageAlt: Una persona con capucha trabaja frente a varias pantallas de computadora
-imageCredit: Foto: Julio Lopez / Unsplash
-imageCreditUrl: https://unsplash.com/photos/hacker-in-hoodie-working-on-multiple-computer-screens-hLAmfdxGlls
+image: https://images.unsplash.com/photo-1605792657660-596af9009e82?w=1600&q=75&auto=format&fit=crop
+imageAlt: Monedas de bitcoin y ether sobre el teclado de una laptop
+imageCredit: Foto: Pierre Borthiry - Peiobty / Unsplash
+imageCreditUrl: https://unsplash.com/photos/bitcoin-and-ethereum-coins-on-laptop-vBCVcWUyvyM
 sources: Binance | https://www.binance.com/en/support/announcement/detail/c5a8729a97ac486d963784d96c5642d7 ; CoinDesk | https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets ; Cointelegraph | https://cointelegraph.com/news/binance-linked-wallet-faces-possible-exploit-blockchain-researcher-warns
 ---
 
