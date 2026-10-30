@@ -15,10 +15,13 @@ import { LiveChange, LivePrice } from "@/components/live";
 import { AdSlot, Breadcrumbs, Disclaimer, JsonLd, SectionTitle } from "@/components/ui";
 
 export const revalidate = 600;
-export const dynamicParams = false;
+
+// Solo se arman en el build las notas más nuevas; el resto se genera la primera vez que alguien
+// la abre y queda en caché. Así cada deploy no guarda una copia de todas las notas.
+const PRERENDER = 30;
 
 export function generateStaticParams() {
-  return getPosts().map((p) => ({ seccion: p.section, slug: p.slug }));
+  return getPosts().slice(0, PRERENDER).map((p) => ({ seccion: p.section, slug: p.slug }));
 }
 
 type Props = { params: Promise<{ seccion: string; slug: string }> };
