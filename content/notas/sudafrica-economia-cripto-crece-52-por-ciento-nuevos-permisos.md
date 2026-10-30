@@ -14,7 +14,7 @@ imageCreditUrl: https://unsplash.com/photos/aerial-view-of-a-coastal-city-nestle
 sources: DiarioBitcoin | https://www.diariobitcoin.com/regulacion/sudafrica-vio-crecer-52-su-economia-cripto-pero-prepara-nuevos-permisos/
 ---
 
-**Sudáfrica** se convirtió en uno de los mercados cripto que más crecen del mundo. Según **Chainalysis**, su economía cripto **subió 52%**, hasta **US$ 39.300 millones**, en el año que terminó en junio de 2026. Pero el Gobierno prepara reglas que podrían ponerle un freno.
+El mercado cripto de **Sudáfrica** crece fuerte. Según **Chainalysis**, su economía cripto **subió 52%**, hasta **US$ 39.300 millones**, en el año que terminó en junio de 2026. Pero el Gobierno prepara reglas que podrían ponerle un freno.
 
 ## Los números
 

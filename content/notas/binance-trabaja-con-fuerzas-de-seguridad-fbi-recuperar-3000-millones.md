@@ -22,7 +22,7 @@ Binance no nombró a las agencias. Pero una fuente al tanto del tema aseguró qu
 
 ## Cómo está Binance
 
-- Según datos de DefiLlama, salieron **cerca de US$ 6.000 millones** del exchange en las 24 horas previas, entre el robo y los retiros de clientes antes de la pausa.
+- Según datos de DefiLlama, salieron **cerca de US$ 6.000 millones** del exchange en las 24 horas previas.
 - Aun así, la plataforma sigue teniendo **unos US$ 134.000 millones** en activos totales.
 - Los retiros siguen pausados y la empresa [prometió reabrirlos en unas 45 horas](/seguridad/binance-encuentra-mas-puntos-de-ingreso-retiros-45-horas).
 
