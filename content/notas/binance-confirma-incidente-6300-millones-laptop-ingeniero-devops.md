@@ -13,7 +13,7 @@ image: https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=1600&q=75&
 imageAlt: Pantalla de computadora llena de líneas de código
 imageCredit: Foto: Chris Ried / Unsplash
 imageCreditUrl: https://unsplash.com/photos/a-computer-screen-with-a-bunch-of-code-on-it-ieic5Tq8YMk
-sources: Cointelegraph | https://cointelegraph.com/news/binance-5-billion-replacement-crypto-in-custody ; CriptoNoticias | https://www.criptonoticias.com/seguridad-bitcoin/binance-confirma-hackeo-robo-6300-millones/ ; Binance | https://www.binance.com/en/support/announcement/detail/c5a8729a97ac486d963784d96c5642d7 ; CoinDesk | https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets ; Cointelegraph | https://cointelegraph.com/news/binance-linked-wallet-faces-possible-exploit-blockchain-researcher-warns
+sources: CoinDesk | https://www.coindesk.com/tech/2026/10/30/binance-uncovers-wider-breach-in-usd6-3-billion-exploit-targets-sunday-withdrawal-restart ; Cointelegraph | https://cointelegraph.com/news/binance-5-billion-replacement-crypto-in-custody ; CriptoNoticias | https://www.criptonoticias.com/seguridad-bitcoin/binance-confirma-hackeo-robo-6300-millones/ ; Binance | https://www.binance.com/en/support/announcement/detail/c5a8729a97ac486d963784d96c5642d7 ; CoinDesk | https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets ; Cointelegraph | https://cointelegraph.com/news/binance-linked-wallet-faces-possible-exploit-blockchain-researcher-warns
 ---
 
 Después de horas de silencio, **Binance** publicó su primer comunicado oficial sobre el incidente. Sus números confirman lo peor: estima el impacto total en **unos US$ 6.300 millones**, una cifra que lo pondría como **el mayor golpe de la historia cripto**.
@@ -47,6 +47,10 @@ Según publicaciones de Binance en X, los **depósitos ya funcionan con normalid
 ## Actualización (10:00 de Argentina): US$ 6.340 millones apartados
 
 Binance informó que separó **más de US$ 6.340 millones** de fondos propios para cubrir las pérdidas. De ese total, **US$ 5.000 millones** están guardados **en los mismos tokens que fueron robados**, bajo su custodia, y aparecerán en la próxima prueba de reservas. Los unos US$ 3.000 millones congelados no entran en esa cuenta.
+
+## Actualización (15:00 de Argentina): retiros el domingo, prueba de reservas el lunes
+
+El co-CEO **Richard Teng** dijo que Binance apunta a **reabrir los retiros el domingo** y a publicar una **prueba de reservas completa el lunes 2 de noviembre**. Son metas, no fechas confirmadas.
 
 ## El mercado
 
