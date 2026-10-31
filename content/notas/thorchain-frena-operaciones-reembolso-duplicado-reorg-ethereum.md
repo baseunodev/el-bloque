@@ -1,5 +1,5 @@
 ---
-title: "THORChain frena casi todo: un «error de Ethereum» le hizo devolver el mismo depósito dos veces"
+title: "THORChain frena casi todo: una falla en Ethereum le hizo devolver el mismo depósito dos veces"
 description: Una reorganización inesperada de bloques en Ethereum llevó a THORChain a reembolsar dos veces 10 ETH. La pausa de emergencia frenó los intercambios en 12 de sus 13 redes y, de paso, demoró al hacker de Binance.
 kicker: ÚLTIMO MOMENTO
 date: 2026-10-31T16:20:00-03:00
