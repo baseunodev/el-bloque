@@ -1,6 +1,6 @@
 ---
 title: "El jefe de la SEC dice que la mayoría de las criptomonedas no son valores, pero XRP igual cae"
-description: Paul Atkins habló en Dallas con el tono más amable hacia el sector que se le recuerda a la SEC. La propuesta de reglas todavía no es definitiva y XRP siguió en baja.
+description: Paul Atkins suavizó el tono del regulador en un discurso en Dallas. La propuesta de reglas todavía no es definitiva y XRP siguió en baja.
 kicker: REGULACIÓN
 date: 2026-10-31T18:20:00-03:00
 author: redaccion
@@ -25,7 +25,7 @@ Ya contamos [qué temas la SEC puso como prioridad para 2027](/regulacion/sec-to
 
 ## XRP no lo festejó
 
-**XRP** cerró el 30 de octubre en torno a **US$ 1,25**, con una baja de **3,38%** en el día, por debajo de su promedio de 200 días, cerca de **US$ 1,28**. La caída coincidió con el discurso, pero no hay pruebas de que fuera por él.
+**XRP** cotizaba el 30 de octubre en torno a **US$ 1,25**, con una baja de **3,38%** en el día, por debajo de su promedio de 200 días, cerca de **US$ 1,28**. La caída coincidió con el discurso, pero no hay pruebas de que fuera por él.
 
 Cuatro días antes, **Ripple** había recibido la aprobación final de la OCC para su banco fiduciario nacional, enfocado en las reservas y la custodia de su stablecoin **RLUSD**, no en XRP. Ya explicamos [por qué los grandes acuerdos de Ripple no hacen subir al XRP](/mercado/ripple-16-billones-pagos-por-que-xrp-no-sube).
 
