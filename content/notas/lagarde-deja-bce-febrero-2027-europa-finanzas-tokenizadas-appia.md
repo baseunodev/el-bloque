@@ -26,7 +26,7 @@ El Eurosistema trabaja en una iniciativa llamada **Appia**, que busca definir es
 
 ## Lo que ya avanza
 
-En paralelo, el BCE lanzó el **21 de septiembre de 2026** el proyecto **Pontes**, que conecta plataformas blockchain con los sistemas de pago del Eurosistema. **Piero Cipollone**, miembro del directorio del BCE, dijo en un discurso del 29 de octubre que:
+En paralelo, el BCE lanzó el **21 de septiembre de 2026** el proyecto **Pontes**. **Piero Cipollone**, miembro del directorio del BCE, dijo en un discurso del 29 de octubre que:
 
 - Para mediados de **2027** habrá horarios de operación mucho más extensos, y en **2028** funcionará **24/7, los 365 días**.
 - La liquidación inmediata y definitiva en la plataforma blockchain del Eurosistema podría llegar **desde 2027**.

@@ -14,7 +14,7 @@ imageCreditUrl: https://unsplash.com/photos/close-up-of-a-metal-door-with-a-lock
 sources: CryptoSlate | https://cryptoslate.com/aave-reopens-frozen-markets-but-blocks-new-collateral-loans/
 ---
 
-**Aave**, la mayor plataforma de préstamos de las finanzas descentralizadas, empezó a **reabrir los mercados** que había congelado de emergencia el **29 de octubre**, después de que el atacante de **Binance** pidiera prestado ether usando como garantía USDT robado. Pero lo hace con límites mucho más estrictos.
+**Aave**, una de las principales plataformas de préstamos de las finanzas descentralizadas, empezó a **reabrir los mercados** que había congelado de emergencia el **29 de octubre**, después de que el atacante de **Binance** pidiera prestado ether usando como garantía USDT robado. Pero lo hace con límites mucho más estrictos.
 
 ## Qué cambió
 

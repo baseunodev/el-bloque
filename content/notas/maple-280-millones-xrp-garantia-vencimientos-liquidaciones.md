@@ -11,7 +11,7 @@ image: https://images.unsplash.com/photo-1635237393049-55046279ebb8?w=1600&q=75&
 imageAlt: Un manojo de llaves sobre una mesa
 imageCredit: Foto: rc.xyz NFT gallery / Unsplash
 imageCreditUrl: https://unsplash.com/photos/a-bunch-of-keys-sitting-on-top-of-a-table-q7h8LVeUgFU
-sources: CryptoSlate | https://cryptoslate.com/maple-locks-280m-in-xrp-collateral-and-upcoming-maturity-dates-threaten-liquidations/ ; DefiLlama | https://defillama.com/protocol/maple
+sources: CryptoSlate | https://cryptoslate.com/maple-locks-280m-in-xrp-collateral-and-upcoming-maturity-dates-threaten-liquidations/
 ---
 
 La plataforma de préstamos **Maple** tiene bloqueados unos **225 millones de XRP**, valuados en cerca de **US$ 280 millones**, como garantía de préstamos en stablecoins. Y los vencimientos que se acercan ponen la lupa sobre qué pasará con ese XRP.
@@ -34,6 +34,6 @@ Tres posiciones tampoco significan tres deudores: una misma organización puede 
 
 ## El peso en XRP Ledger
 
-Según **DefiLlama**, Maple tiene **US$ 281,1 millones** asignados en XRP Ledger, sobre un total de unos **US$ 318 millones** en DeFi en esa red. Los préstamos salen de fondos en Ethereum, mientras el XRP queda en custodia en su red nativa. Ya contamos [cómo crece la custodia de XRP en grandes bancos](/mercado/ripple-bny-custodia-xrp-rlusd-facturas-xrpl).
+Según **DefiLlama**, Maple tiene **US$ 281,1 millones** asignados en XRP Ledger, sobre un total de unos **US$ 318 millones** en DeFi en esa red. Los préstamos salen de fondos en Ethereum, mientras el XRP queda en custodia en su red nativa. Ya contamos [el acuerdo de custodia de XRP con BNY](/mercado/ripple-bny-custodia-xrp-rlusd-facturas-xrpl).
 
 **Ojo:** las liquidaciones de garantías grandes pueden presionar el precio de un token. Esto no es una recomendación de El Bloque.
