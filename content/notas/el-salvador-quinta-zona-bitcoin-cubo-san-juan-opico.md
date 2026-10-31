@@ -25,4 +25,4 @@ El gobierno la presentó como «un paso más en la expansión de la educación e
 
 ## Por qué importa
 
-El Salvador ya no obliga a aceptar bitcoin como moneda, pero sigue apostando a la educación y [sigue sumando monedas a su reserva](/latam/el-salvador-suma-bitcoin-quien-los-dona). Los CUBOs también llegaron a Argentina: en Buenos Aires se presentó [un cubo en homenaje a Satoshi Nakamoto](/latam/buenos-aires-monumento-satoshi-nakamoto-cubo-labitconf).
+El Salvador ya no obliga a aceptar bitcoin como moneda, pero sigue apostando a la educación y [sigue sumando monedas a su reserva](/latam/el-salvador-suma-bitcoin-quien-los-dona). En la región, bitcoin también gana espacios públicos: en Buenos Aires se presentó [un monumento a Satoshi Nakamoto](/latam/buenos-aires-monumento-satoshi-nakamoto-cubo-labitconf).
