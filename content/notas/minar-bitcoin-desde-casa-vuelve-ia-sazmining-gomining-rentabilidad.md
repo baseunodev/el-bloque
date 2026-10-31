@@ -24,7 +24,7 @@ Las grandes mineras de bitcoin están volcando sus centros de datos a la **intel
 - La luz y el mantenimiento salen **US$ 153 por mes**, más una comisión del **15%** sobre el bitcoin minado.
 - Llevan unos **50 pedidos**, la mitad de personas que nunca minaron. La empresa dice tener cerca de **500 clientes** con unos **4.000 equipos**.
 
-Con su propio ejemplo, una placa minaría **0,035 BTC por año**. A US\$ 83.000 por bitcoin, son unos **US\$ 2.905** brutos; tras restar **US\$ 1.836** de costos y la comisión, quedan unos **US\$ 633** al año. A ese ritmo, recuperar la inversión llevaría **más de seis años**, si nada cambia.
+Con su propio ejemplo, una placa minaría **0,035 BTC por año**. A US$ 83.000 por bitcoin, son unos **US$ 2.905** brutos; tras restar **US$ 1.836** de costos y la comisión, quedan unos **US$ 633** al año. A ese ritmo, recuperar la inversión llevaría **más de seis años**, si nada cambia.
 
 En **KuMining**, Jolie Du calculó que un equipo S23 XP Hyd tardaría **23 meses** en pagarse con electricidad gratis, o **29 meses** a 4 centavos el kWh.
 
