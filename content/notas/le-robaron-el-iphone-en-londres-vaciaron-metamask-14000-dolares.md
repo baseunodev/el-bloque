@@ -1,5 +1,5 @@
 ---
-title: "Le prestó el celular a un desconocido y en 52 minutos le vaciaron la billetera cripto: cómo evitar que te pase"
+title: "Le prestó el celular a un desconocido y en menos de una hora le vaciaron la billetera cripto: cómo evitar que te pase"
 description: Un ex ejecutivo cripto perdió unos US$ 14.000 en Londres después de que le robaran el iPhone desbloqueado a la salida de un bar. Le entraron a MetaMask, Phantom, Bybit y sus tarjetas.
 kicker: ALERTA
 date: 2026-10-31T15:20:00-03:00
@@ -32,4 +32,4 @@ Según sus propios cálculos, perdió unos **US$ 14.000**: cerca de **US$ 9.500 
 4. **Tené a mano** cómo congelar tus tarjetas y cuentas desde otro dispositivo.
 5. Si te roban, **no persigas al ladrón**. «No corras detrás del que huye ni del que va en bici», aconsejó Ahmad.
 
-Su mejor consejo: salir con un teléfono que no te importe perder. «Porque nadie piensa que le va a pasar». Los celulares son un blanco cada vez más buscado: ya contamos [cómo vaciaron 1.404 billeteras desde iPhones](/seguridad/qubic-vaciaron-1404-billeteras-iphone).
+Su mejor consejo: salir con un teléfono que no te importe perder. «Porque nadie piensa que le va a pasar». Y no es el único riesgo del celular: ya contamos [cómo vaciaron 1.404 billeteras Qubic creadas en iPhones](/seguridad/qubic-vaciaron-1404-billeteras-iphone).
