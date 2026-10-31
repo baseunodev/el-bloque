@@ -6,7 +6,6 @@ date: 2026-10-30T01:10:00-03:00
 author: redaccion
 section: seguridad
 featured: true
-tapa: 2026-10-31
 coins: BNB, BTC, ETH
 tags: binance, hackeo, seguridad, safu, corea del norte, lazarus, devops
 image: https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=1600&q=75&auto=format&fit=crop

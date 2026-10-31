@@ -11,7 +11,7 @@ image: https://images.unsplash.com/photo-1548092372-0d1bd40894a3?w=1600&q=75&aut
 imageAlt: Una laptop encendida con la pantalla en azul y blanco
 imageCredit: Foto: Philipp Katzenberger / Unsplash
 imageCreditUrl: https://unsplash.com/photos/closeup-photo-of-turned-on-blue-and-white-laptop-computer-iIJrUoeRoCQ
-sources: DiarioBitcoin | https://www.diariobitcoin.com/estafas/launchonsf-restaura-stonkfun-tras-un-ataque-de-stepdrainer-que-habria-alcanzado-al-menos-12-sitios/
+sources: The Block | https://www.theblock.co/news/defi/2026-10-31-hackers-hijack-a-dozen-defi-websites-all-registered-with-name-com-and-steal-about-138000-432251 ; DiarioBitcoin | https://www.diariobitcoin.com/estafas/launchonsf-restaura-stonkfun-tras-un-ataque-de-stepdrainer-que-habria-alcanzado-al-menos-12-sitios/
 ---
 
 La firma de seguridad **Blockaid** detectó una campaña del malware **StepDrainer** en **al menos 12 sitios** de finanzas descentralizadas y lanzamiento de tokens, entre el **30 y el 31 de octubre**. Entre los afectados figuran **stonkfun.xyz**, **pickle.finance**, **echelon.market**, **origami.finance** y **fluxbeam.xyz**, y la lista no está completa.
@@ -22,7 +22,14 @@ La firma de seguridad **Blockaid** detectó una campaña del malware **StepDrain
 - Ese código pedía a los usuarios **conectar su billetera** y **aprobar o firmar** permisos sobre sus tokens.
 - StepDrainer es un malware que los delincuentes pueden **alquilar**, y funciona en **más de 20 redes**.
 
-**LaunchOnSF**, el equipo detrás de StonkFun, dijo que ya **restauró el sitio**, que sus **contratos inteligentes no fueron afectados**, que no hubo impacto en la blockchain y que no recibió reportes de pérdidas de usuarios. Todavía no hay un monto total de pérdidas de la campaña.
+**LaunchOnSF**, el equipo detrás de StonkFun, dijo que ya **restauró el sitio**, que sus **contratos inteligentes no fueron afectados**, que no hubo impacto en la blockchain y que no recibió reportes de pérdidas de usuarios.
+
+## Actualización (13:00 de Argentina): todos los dominios eran de Name.com
+
+Los **12 dominios** afectados estaban registrados en **Name.com**, según los registros públicos. Entre ellos figuran también **Flap** y **Kintsu**. Diez fueron suspendidos por el registrador el sábado a la mañana.
+
+- Se rastrearon unos **US$ 138.000** robados en tres billeteras de redes compatibles con Ethereum, sin contar lo perdido en **Solana y Aptos**.
+- Kintsu y Origami culpan a **Vercel**, el servicio donde alojan sus sitios: «Fue algo que pasó del lado de Vercel, fuera de nuestro control», dijo Kintsu. Vercel no hizo comentarios.
 
 ## Qué hacer
 
