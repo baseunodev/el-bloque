@@ -26,6 +26,6 @@ Sobre la devaluación, explicó: «al devaluar el peso en un 77%, devalúas el v
 
 Carrino defendió la gestión con datos. Según él, el Gobierno de Milei **redujo la inflación en 178 puntos porcentuales** y «el gasto gubernamental se ha contraído un 28% en términos reales».
 
-## Por qué importa
+## El contexto
 
-El debate resume una discusión que atraviesa a la comunidad cripto argentina: muchos bitcoiners celebraron la llegada de un presidente que prometía cerrar el Banco Central, y hoy se dividen entre quienes valoran la baja de la inflación y quienes le reclaman no haber ido más lejos. Ya contamos [qué trae la edición 2026 de LABITCONF](/latam/labitconf-2026-buenos-aires-hodl) y el [monumento a Satoshi Nakamoto que se presentó en la apertura](/latam/buenos-aires-monumento-satoshi-nakamoto-cubo-labitconf).
+El cruce mostró dos lecturas opuestas del mismo programa económico en el evento cripto más grande de la región. Ya contamos [qué trae la edición 2026 de LABITCONF](/latam/labitconf-2026-buenos-aires-hodl) y el [monumento a Satoshi Nakamoto que se presentó en la apertura](/latam/buenos-aires-monumento-satoshi-nakamoto-cubo-labitconf).
