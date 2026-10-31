@@ -1,6 +1,6 @@
 ---
 title: «Veo una doble vara»: expertos cuestionan los congelamientos récord tras el hackeo a Binance
-description: Tether, Circle y otros bloquearon unos US$ 3.000 millones. Abogados advierten que congelar no es devolver, y otros recuerdan casos donde nadie movió un dedo por las víctimas.
+description: Tether, Circle y otros bloquearon unos US$ 3.000 millones. Abogados advierten que congelar no es devolver, y otros recuerdan casos en los que no hubo congelamiento.
 kicker: SEGURIDAD
 date: 2026-10-31T04:20:00-03:00
 author: redaccion
