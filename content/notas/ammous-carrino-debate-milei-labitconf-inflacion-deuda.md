@@ -28,4 +28,4 @@ Carrino defendió la gestión con datos. Según él, el Gobierno de Milei **redu
 
 ## El contexto
 
-El cruce mostró dos lecturas opuestas del mismo programa económico en el evento cripto más grande de la región. Ya contamos [qué trae la edición 2026 de LABITCONF](/latam/labitconf-2026-buenos-aires-hodl) y el [monumento a Satoshi Nakamoto que se presentó en la apertura](/latam/buenos-aires-monumento-satoshi-nakamoto-cubo-labitconf).
+El cruce mostró dos lecturas opuestas del mismo programa económico en pleno LABITCONF. Ya contamos [qué trae la edición 2026 de LABITCONF](/latam/labitconf-2026-buenos-aires-hodl) y el [monumento a Satoshi Nakamoto que se presentó en la apertura](/latam/buenos-aires-monumento-satoshi-nakamoto-cubo-labitconf).
