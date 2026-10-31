@@ -22,11 +22,11 @@ Muy poco, por ahora. La empresa dice que produjo oro estable a un ritmo **10 vec
 
 **Jake Harter**, ingeniero de Marathon, admitió que las cantidades son «todavía microscópicas». La meta es llegar a **miligramos en 2027**. En teoría, el modelo daría unas **dos toneladas de oro por año por cada gigavatio** de potencia de fusión. Para comparar, las minas produjeron **3.672 toneladas** en 2025, según el World Gold Council.
 
-Hay otro detalle: ese oro sería radiactivo y necesitaría **algo más de una década guardado** antes de ser seguro. Y los primeros reactores de fusión comerciales están, como mínimo, **a diez años** de distancia.
+Hay otro detalle: ese oro sería radiactivo y necesitaría **algo más de una década guardado** antes de ser seguro. Y los primeros reactores de fusión están, como mínimo, **a diez años** de distancia.
 
 ## El argumento de bitcoin
 
-El CEO de Coinbase, **Brian Armstrong**, aprovechó: «Pero no podés inventar nada que aumente la oferta de bitcoin. Solo habrá 21 millones». Ya contamos [cómo el oro le ganó a bitcoin en octubre](/mercado/bitcoin-peor-octubre-en-12-anos-tecnologicas-oro).
+El CEO de Coinbase, **Brian Armstrong**, aprovechó: «Pero no podés inventar nada que aumente la oferta de bitcoin. Solo habrá 21 millones». Ya contamos [cómo cayeron bitcoin y hasta el oro en octubre](/mercado/bitcoin-peor-octubre-en-12-anos-tecnologicas-oro).
 
 Los expertos piden calma. **Nikos Kavalis**, de Metals Focus, dijo que «no estamos ni cerca de una etapa en la que podamos hablar de una producción significativa» y que no hay demostración de que el proceso sea viable comercialmente. **Fabian Schär**, de la Universidad de Basilea, recordó la regla básica: un aumento fuerte de la oferta de cualquier activo, con todo lo demás igual, presiona su precio a la baja.
 
