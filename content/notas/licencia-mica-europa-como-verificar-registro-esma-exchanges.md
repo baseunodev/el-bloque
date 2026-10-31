@@ -14,7 +14,7 @@ imageCreditUrl: https://unsplash.com/photos/modern-glass-building-with-european-
 sources: CriptoNoticias (columna de Daniel Bradley, VASP Tracker) | https://www.criptonoticias.com/regulacion/licencia-mica-europa-verificar-registro-esma-latinoamerica/
 ---
 
-Cada vez más exchanges que operan en América Latina se presentan con un argumento de confianza: **«tenemos licencia MiCA»**, el reglamento cripto de la Unión Europea. Pero, según un análisis de **Daniel Bradley**, de la firma **VASP Tracker**, el registro oficial cuenta una historia más matizada.
+Si un exchange que usás en América Latina dice tener **licencia MiCA**, el reglamento cripto de la Unión Europea, conviene revisarlo. Según un análisis de **Daniel Bradley**, de la firma **VASP Tracker**, el registro oficial muestra que no todas las autorizaciones son iguales.
 
 ## Lo que muestra el registro de ESMA
 

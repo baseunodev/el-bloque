@@ -22,8 +22,8 @@ sources: CryptoSlate | https://cryptoslate.com/westpac-limits-crypto-exchange-de
 - Desde esa misma fecha, se terminan los **pagos a exchanges hechos en sucursal**.
 - Los **retiros** desde un exchange hacia una cuenta de Westpac **no cambian**.
 
-El banco enmarca la medida en las reglas contra el **fraude**, un problema que los bancos suelen asociar a las estafas que terminan con la plata de las víctimas en plataformas cripto. Ya explicamos [cómo detectar estafas cripto](/seguridad/como-detectar-estafas-cripto).
+El banco enmarca la medida en las reglas contra el **fraude**. Ya explicamos [cómo detectar estafas cripto](/seguridad/como-detectar-estafas-cripto).
 
 ## Por qué importa fuera de Australia
 
-La relación entre bancos y exchanges es tensa en muchos países. En América Latina también hay reglas nuevas: en Brasil, por ejemplo, los bancos no podrán operar con proveedores cripto sin autorización desde el 6 de noviembre. Ya contamos [cómo vence ese plazo](/latam/brasil-30-octubre-licencia-exchanges-cripto).
+En América Latina también hay reglas nuevas entre bancos y exchanges: en Brasil, por ejemplo, los bancos no podrán operar con proveedores cripto sin autorización desde el 6 de noviembre. Ya contamos [cómo vence ese plazo](/latam/brasil-30-octubre-licencia-exchanges-cripto).
