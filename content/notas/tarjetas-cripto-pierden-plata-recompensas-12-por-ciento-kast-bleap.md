@@ -33,6 +33,6 @@ Las tarjetas que permiten gastar stablecoins como si fueran dólares se multipli
 
 Lo que cobra un emisor por cada compra con tarjeta es poco: en la Unión Europea esa comisión está limitada a **0,2%** en débito para consumidores, y en Estados Unidos el débito no regulado promedió **1,21%** en 2024, según la Reserva Federal. Con esos márgenes, un reintegro de dos dígitos solo se paga con capital de inversores.
 
-**Ojo:** un premio que la empresa subsidia puede recortarse de un día para el otro, como ya pasó con Bybit. Antes de mover tus ahorros a una tarjeta cripto, mirá los topes, quién custodia los fondos y si la tasa prometida depende del saldo o del nivel de gasto. Y recordá que en EE.UU. ya rige una [regla que prohíbe pagar intereses por tener stablecoins](/regulacion/eeuu-prohibe-intereses-stablecoins-regla-occ-genius).
+**Ojo:** un premio que la empresa subsidia puede recortarse de un día para el otro, como ya pasó con Bybit. Antes de mover tus ahorros a una tarjeta cripto, mirá los topes, quién custodia los fondos y si la tasa prometida depende del saldo o del nivel de gasto. Y tené en cuenta que los reguladores ya miran estos premios: en EE.UU. salió una [regla que prohíbe a los emisores pagar intereses por tener stablecoins](/regulacion/eeuu-prohibe-intereses-stablecoins-regla-occ-genius).
 
 Si te interesa pagar con stablecoins en comercios, mirá también [cómo funciona la alianza de Airtm con BVNK](/mercado/airtm-pagos-stablecoins-comercios-bvnk-stellar).
