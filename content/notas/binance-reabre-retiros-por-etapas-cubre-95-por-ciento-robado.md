@@ -13,14 +13,20 @@ image: https://images.unsplash.com/photo-1639389016105-2fb11199fb6b?w=1600&q=75&
 imageAlt: Un celular muestra un gráfico de cotizaciones sobre un fondo oscuro
 imageCredit: "Foto: Sajad Nori / Unsplash"
 imageCreditUrl: https://unsplash.com/photos/a-cell-phone-displaying-a-stock-chart-on-the-screen-LWD60a5a15I
-sources: Binance | https://www.binance.com/en/support/announcement/detail/73911fb819b240f88b88256bdd318eda
+sources: Cointelegraph | https://cointelegraph.com/news/binance-says-phase-one-of-withdrawals-opens-after-63b-hack ; Binance | https://www.binance.com/en/support/announcement/detail/73911fb819b240f88b88256bdd318eda
 ---
 
 Después de días con los fondos trabados por el hackeo, **Binance** anunció que este **domingo 1 de noviembre** reabre los **retiros**, en etapas. La primera fase arranca **entre las 6:00 y las 9:00 (hora UTC)**, es decir, **entre las 3:00 y las 6:00 de Argentina**.
 
+## Actualización (7:00 de Argentina): ya se puede retirar bitcoin
+
+Binance informó en X que la **primera red habilitada es la de bitcoin (BTC)**. El resto de la lista se irá sumando por etapas, «priorizando los tokens según la demanda de los usuarios de la última semana».
+
+El exchange advirtió que puede haber «congestión, tiempos de procesamiento más largos e incluso demoras temporales», y pidió revisar la página de retiros o el estado de cada red antes de operar.
+
 ## Qué monedas y redes salen primero
 
-La primera etapa incluye:
+La primera etapa anunciada incluye:
 
 - **Bitcoin (BTC)**.
 - Red **Ethereum**: ETH, USDT y USDC.
