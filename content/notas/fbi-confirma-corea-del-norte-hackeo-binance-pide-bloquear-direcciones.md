@@ -5,6 +5,8 @@ kicker: ÚLTIMO MOMENTO
 date: 2026-10-31T23:20:00-03:00
 author: redaccion
 section: seguridad
+featured: true
+tapa: 2026-11-01
 coins: BTC, ETH, SOL
 tags: fbi, corea del norte, tradertraitor, lazarus, binance, hackeo, chainalysis
 image: https://images.unsplash.com/photo-1611043835030-5f8e10da6e66?w=1600&q=75&auto=format&fit=crop
