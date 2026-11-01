@@ -13,10 +13,20 @@ image: https://images.unsplash.com/photo-1639389016105-2fb11199fb6b?w=1600&q=75&
 imageAlt: Un celular muestra un gráfico de cotizaciones sobre un fondo oscuro
 imageCredit: "Foto: Sajad Nori / Unsplash"
 imageCreditUrl: https://unsplash.com/photos/a-cell-phone-displaying-a-stock-chart-on-the-screen-LWD60a5a15I
-sources: Cointelegraph | https://cointelegraph.com/news/binance-says-phase-one-of-withdrawals-opens-after-63b-hack ; Binance | https://www.binance.com/en/support/announcement/detail/73911fb819b240f88b88256bdd318eda
+sources: CriptoNoticias | https://www.criptonoticias.com/mercados/binance-reanuda-retiros-tras-hackeo-asegura-repuesto-95/ ; Cointelegraph | https://cointelegraph.com/news/binance-says-phase-one-of-withdrawals-opens-after-63b-hack ; Binance | https://www.binance.com/en/support/announcement/detail/73911fb819b240f88b88256bdd318eda
 ---
 
 Después de días con los fondos trabados por el hackeo, **Binance** anunció que este **domingo 1 de noviembre** reabre los **retiros**, en etapas. La primera fase arranca **entre las 6:00 y las 9:00 (hora UTC)**, es decir, **entre las 3:00 y las 6:00 de Argentina**.
+
+## Actualización (15:00 de Argentina): ya salieron más de US$ 4.000 millones
+
+En las primeras horas de la reapertura, los usuarios sacaron de Binance **más de US$ 4.000 millones** en bitcoin, ether y stablecoins, según un analista de la firma de datos CryptoQuant:
+
+- **19.569 BTC**, unos US$ 1.500 millones.
+- **154.147 ETH**, unos US$ 360 millones.
+- Cerca de **US$ 1.960 millones en USDT** y **US$ 557 millones en USDC**.
+
+El exchange sostiene que habilitará nuevas opciones de retiro a medida que complete sus controles de seguridad. Todavía falta reponer alrededor del 5% de lo robado, en tokens con menos liquidez.
 
 ## Actualización (7:00 de Argentina): ya se puede retirar bitcoin
 
