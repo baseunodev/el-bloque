@@ -34,7 +34,7 @@ Tom Robinson, cofundador de la firma Elliptic, describió el movimiento como «r
 
 ## THORChain, bajo presión
 
-THORChain, que ya estaba en la mira [por ser una vía de salida del hacker](/seguridad/rune-sube-13-por-ciento-thorchain-ruta-hacker-binance), tenía el domingo al mediodía el comercio frenado en **10 de sus 13 cadenas** conectadas. Su cofundador Chad Barraford sostuvo que los operadores de la red no tienen ninguna información que no sea pública.
+THORChain, que ya estaba en la mira [por ser una vía de salida del hacker](/seguridad/rune-sube-13-por-ciento-thorchain-ruta-hacker-binance), tenía el domingo por la tarde el comercio frenado en **10 de sus 13 cadenas** conectadas. Su cofundador Chad Barraford sostuvo que los operadores de la red no tienen ninguna información que no sea pública.
 
 ## Cuánto se recuperó
 
