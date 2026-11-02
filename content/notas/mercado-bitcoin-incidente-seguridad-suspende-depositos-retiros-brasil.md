@@ -1,6 +1,6 @@
 ---
-title: "Hackeo en Brasil: vaciaron billeteras de Mercado Bitcoin en 10 redes y se llevaron más de US$ 40 millones"
-description: El mayor exchange de Brasil frenó depósitos y retiros. Empresas de seguridad calculan pérdidas de más de US$ 40 millones. La empresa dice que los clientes no se verán perjudicados.
+title: "Hackeo en Brasil: vaciaron billeteras de Mercado Bitcoin en 10 redes y se llevaron US$ 46 millones"
+description: El mayor exchange de Brasil frenó depósitos y retiros. Datos de Arkham ubican el robo en unos US$ 46 millones. La empresa dice que los clientes no se verán perjudicados.
 kicker: ÚLTIMO MOMENTO
 date: 2026-11-02T11:50:00-03:00
 author: redaccion
@@ -13,8 +13,14 @@ image: https://images.unsplash.com/photo-1723596807374-5cfbe183a820?w=1600&q=75&
 imageAlt: Avenida Paulista en São Paulo, con tráfico y edificios altos
 imageCredit: "Foto: Vitor Mendes Stafusa / Unsplash"
 imageCreditUrl: https://unsplash.com/photos/a-city-street-filled-with-lots-of-traffic-next-to-tall-buildings-o3jiiES00cI
-sources: CoinDesk | https://www.coindesk.com/business/2026/11/02/brazil-s-mercado-bitcoin-halts-withdrawals-after-usd40-million-drained-across-10-chains ; CriptoNoticias | https://www.criptonoticias.com/seguridad-bitcoin/mercado-bitcoin-confirma-incidente-seguridad/
+sources: The Block | https://www.theblock.co/news/defi/2026-11-02-mercado-bitcoin-hack-46-million-brazil-exchange-432333 ; Cointelegraph | https://cointelegraph.com/news/mercado-bitcoin-hack ; CoinDesk | https://www.coindesk.com/business/2026/11/02/brazil-s-mercado-bitcoin-halts-withdrawals-after-usd40-million-drained-across-10-chains ; CriptoNoticias | https://www.criptonoticias.com/seguridad-bitcoin/mercado-bitcoin-confirma-incidente-seguridad/
 ---
+
+## Actualización (18:10 de Argentina): el robo llega a US$ 46 millones
+
+- Según datos de la firma de análisis **Arkham**, los activos afectados suman unos **US$ 46,3 millones**.
+- Un analista de Arkham explicó que el atacante **barrió fondos de direcciones de depósito viejas** del exchange y vendió memecoins y altcoins.
+- Mercado Bitcoin insiste en que **los clientes no se ven afectados** y que **no hubo filtración de datos**. Los depósitos y retiros siguen en pausa.
 
 ## Actualización (13:00 de Argentina): más de US$ 40 millones robados
 
