@@ -32,6 +32,6 @@ Es el evento de la semana. El control del Congreso puede definir el futuro de la
 
 ## Viernes 6: empleo en EE.UU.
 
-Sale el informe de empleo de octubre (el anterior mostró 29.000 puestos nuevos). Junto con las elecciones, es el dato macro que más puede mover a bitcoin en la semana.
+Sale el informe de empleo de octubre (el anterior mostró 29.000 puestos nuevos). Es el último gran dato macro de la semana.
 
 **Importante:** las estimaciones del mercado pueden fallar. Esta agenda es informativa y no es una recomendación de El Bloque.
