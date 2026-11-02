@@ -13,10 +13,16 @@ image: https://images.unsplash.com/photo-1639389016105-2fb11199fb6b?w=1600&q=75&
 imageAlt: Un celular muestra un gráfico de cotizaciones sobre un fondo oscuro
 imageCredit: "Foto: Sajad Nori / Unsplash"
 imageCreditUrl: https://unsplash.com/photos/a-cell-phone-displaying-a-stock-chart-on-the-screen-LWD60a5a15I
-sources: Cointelegraph | https://cointelegraph.com/news/binance-net-outflows-surge-to-58b-as-withdrawals-resume-after-record-hack ; CriptoNoticias | https://www.criptonoticias.com/mercados/binance-reanuda-retiros-tras-hackeo-asegura-repuesto-95/ ; Cointelegraph | https://cointelegraph.com/news/binance-says-phase-one-of-withdrawals-opens-after-63b-hack ; Binance | https://www.binance.com/en/support/announcement/detail/73911fb819b240f88b88256bdd318eda
+sources: The Block | https://www.theblock.co/news/business/2026-11-02-binance-zero-knowledge-proof-of-reserves-snapshot-hack-recovery-432321 ; Cointelegraph | https://cointelegraph.com/news/binance-net-outflows-surge-to-58b-as-withdrawals-resume-after-record-hack ; CriptoNoticias | https://www.criptonoticias.com/mercados/binance-reanuda-retiros-tras-hackeo-asegura-repuesto-95/ ; Cointelegraph | https://cointelegraph.com/news/binance-says-phase-one-of-withdrawals-opens-after-63b-hack ; Binance | https://www.binance.com/en/support/announcement/detail/73911fb819b240f88b88256bdd318eda
 ---
 
 Después de días con los fondos trabados por el hackeo, **Binance** anunció que este **domingo 1 de noviembre** reabre los **retiros**, en etapas. La primera fase arranca **entre las 6:00 y las 9:00 (hora UTC)**, es decir, **entre las 3:00 y las 6:00 de Argentina**.
+
+## Actualización (2 de noviembre, 14:00 de Argentina): más redes desde el martes
+
+Binance espera empezar a **habilitar retiros en más redes y activos desde el martes 3**, de forma progresiva. También completó una nueva **prueba de reservas** con tecnología de conocimiento cero que cubre 10 activos (BTC, ETH, USDT, BNB, SOL, USDC, XRP, USD1, RLUSD y ZEC) y planea otra para el miércoles. El 5% de lo robado que falta reponer son tokens con menos liquidez que todavía está comprando.
+
+La salida neta en 24 horas bajó a unos **US$ 3.290 millones**, menos de la mitad del pico de US$ 7.000 millones. Además, ya se pueden [retirar pesos argentinos, pesos mexicanos, bolívares y reales](/latam/binance-reabre-retiros-pesos-argentinos-mexicanos-bolivares-reales).
 
 ## Actualización (21:00 de Argentina): la salida neta llega a US$ 5.800 millones
 
