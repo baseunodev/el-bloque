@@ -20,7 +20,7 @@ Con bitcoin cerca de **US$ 77.000** y las elecciones de medio término de EE.UU.
 
 - Chris Sullivan, fundador de la gestora Hyperion Decimus, señaló unas **29.220 BTC en posiciones cortas** en el mercado de futuros CME, unos **US$ 2.200 millones**.
 - En 24 horas hubo **US$ 21.990 millones** en volumen de operaciones vendedoras.
-- Hubo **retiros grandes de bitcoin** de los exchanges hacia billeteras propias, aunque el hackeo a Binance distorsiona esos datos, porque muchos usuarios están [sacando fondos por desconfianza](/mercado/okx-recibe-445-millones-binance-salidas-superan-7000-millones).
+- Hubo **retiros grandes de bitcoin** de los exchanges hacia billeteras propias, aunque el hackeo a Binance distorsiona esos datos, porque los usuarios de Binance están [retirando fondos en masa tras la reapertura](/mercado/okx-recibe-445-millones-binance-salidas-superan-7000-millones).
 
 «Se sacó muchísimo bitcoin de los exchanges hacia la autocustodia en frío», dijo Sullivan, que lo ve como algo muy alcista, aunque «no de inmediato».
 
