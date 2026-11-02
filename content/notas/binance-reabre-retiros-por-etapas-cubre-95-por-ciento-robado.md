@@ -13,10 +13,16 @@ image: https://images.unsplash.com/photo-1639389016105-2fb11199fb6b?w=1600&q=75&
 imageAlt: Un celular muestra un gráfico de cotizaciones sobre un fondo oscuro
 imageCredit: "Foto: Sajad Nori / Unsplash"
 imageCreditUrl: https://unsplash.com/photos/a-cell-phone-displaying-a-stock-chart-on-the-screen-LWD60a5a15I
-sources: CriptoNoticias | https://www.criptonoticias.com/mercados/binance-reanuda-retiros-tras-hackeo-asegura-repuesto-95/ ; Cointelegraph | https://cointelegraph.com/news/binance-says-phase-one-of-withdrawals-opens-after-63b-hack ; Binance | https://www.binance.com/en/support/announcement/detail/73911fb819b240f88b88256bdd318eda
+sources: Cointelegraph | https://cointelegraph.com/news/binance-net-outflows-surge-to-58b-as-withdrawals-resume-after-record-hack ; CriptoNoticias | https://www.criptonoticias.com/mercados/binance-reanuda-retiros-tras-hackeo-asegura-repuesto-95/ ; Cointelegraph | https://cointelegraph.com/news/binance-says-phase-one-of-withdrawals-opens-after-63b-hack ; Binance | https://www.binance.com/en/support/announcement/detail/73911fb819b240f88b88256bdd318eda
 ---
 
 Después de días con los fondos trabados por el hackeo, **Binance** anunció que este **domingo 1 de noviembre** reabre los **retiros**, en etapas. La primera fase arranca **entre las 6:00 y las 9:00 (hora UTC)**, es decir, **entre las 3:00 y las 6:00 de Argentina**.
+
+## Actualización (21:00 de Argentina): la salida neta llega a US$ 5.800 millones
+
+En las primeras 24 horas desde la reapertura, Binance acumuló **US$ 5.800 millones en salidas netas**, según datos de la plataforma DefiLlama. Sobre un total de unos **US$ 171.000 millones** en activos, el exchange sigue lejos de quedarse sin fondos.
+
+Binance ya habilitó retiros de tokens en **15 redes** y dice que seguirá sumando activos y redes por etapas. Según la empresa, el pico inicial de retiros se fue frenando y la situación se está estabilizando. USDT fue lo más retirado, seguido de USDC y bitcoin.
 
 ## Actualización (15:00 de Argentina): ya salieron más de US$ 4.000 millones
 
