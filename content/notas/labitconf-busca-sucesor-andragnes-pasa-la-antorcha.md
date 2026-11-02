@@ -7,10 +7,10 @@ author: redaccion
 section: latam
 coins: BTC
 tags: labitconf, buenos aires, bitcoin, comunidad, eventos, argentina
-image: https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=1600&q=75&auto=format&fit=crop
-imageAlt: Un orador en un escenario frente a un auditorio lleno
-imageCredit: "Foto: Alexandre Pellaes / Unsplash"
-imageCreditUrl: https://unsplash.com/photos/speaker-on-stage-addressing-large-audience-6vAjp0pscX0
+image: https://images.unsplash.com/photo-1582192730841-2a682d7375f9?w=1600&q=75&auto=format&fit=crop
+imageAlt: Un panel de charla en el escenario de un gran auditorio con público
+imageCredit: "Foto: Product School / Unsplash"
+imageCreditUrl: https://unsplash.com/photos/panel-discussion-in-large-auditorium-dJICd7b_LlE
 sources: CriptoNoticias | https://www.criptonoticias.com/comunidad/eventos/labitconf-cierra-etapa-pasa-antorcha/
 ---
 
@@ -26,4 +26,4 @@ Este año también pasó por el escenario el economista Saifedean Ammous, que [d
 
 En su despedida, Andragnes volvió a su idea de siempre: que bitcoin es el único activo con certeza de escasez.
 
-Todavía no se sabe quién tomará la posta ni dónde será la próxima edición.
+Por ahora no se anunció quién tomará la posta.
