@@ -6,7 +6,6 @@ date: 2026-11-02T05:20:00-03:00
 author: redaccion
 section: seguridad
 featured: true
-tapa: 2026-11-02
 coins: BTC
 tags: btcpay server, bitcoin, comercios, hackeo, billeteras calientes, lightning
 image: https://images.unsplash.com/photo-1714846201670-1c5721196c7a?w=1600&q=75&auto=format&fit=crop

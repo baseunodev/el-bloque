@@ -1,18 +1,30 @@
 ---
-title: "Mercado Bitcoin, el mayor exchange de Brasil, frena depósitos y retiros por un incidente de seguridad"
-description: La plataforma dice que detectó y contuvo el problema en uno de sus sistemas, que no hubo perjuicio para los clientes ni filtración de datos, y que investiga con la policía.
+title: "Hackeo en Brasil: vaciaron billeteras de Mercado Bitcoin en 10 redes y se llevaron más de US$ 40 millones"
+description: El mayor exchange de Brasil frenó depósitos y retiros. Empresas de seguridad calculan pérdidas de más de US$ 40 millones. La empresa dice que los clientes no se verán perjudicados.
 kicker: ÚLTIMO MOMENTO
 date: 2026-11-02T11:50:00-03:00
 author: redaccion
 section: latam
+featured: true
+tapa: 2026-11-02
 coins: BTC
 tags: mercado bitcoin, brasil, exchanges, seguridad, hackeo
 image: https://images.unsplash.com/photo-1723596807374-5cfbe183a820?w=1600&q=75&auto=format&fit=crop
 imageAlt: Avenida Paulista en São Paulo, con tráfico y edificios altos
 imageCredit: "Foto: Vitor Mendes Stafusa / Unsplash"
 imageCreditUrl: https://unsplash.com/photos/a-city-street-filled-with-lots-of-traffic-next-to-tall-buildings-o3jiiES00cI
-sources: CriptoNoticias | https://www.criptonoticias.com/seguridad-bitcoin/mercado-bitcoin-confirma-incidente-seguridad/
+sources: CoinDesk | https://www.coindesk.com/business/2026/11/02/brazil-s-mercado-bitcoin-halts-withdrawals-after-usd40-million-drained-across-10-chains ; CriptoNoticias | https://www.criptonoticias.com/seguridad-bitcoin/mercado-bitcoin-confirma-incidente-seguridad/
 ---
+
+## Actualización (13:00 de Argentina): más de US$ 40 millones robados
+
+Según empresas de seguridad, el ataque **vació billeteras de Mercado Bitcoin en al menos 10 blockchains**, con pérdidas estimadas en **más de US$ 40 millones**. Las salidas más grandes se dieron entre las 3:19 y las 3:53 de la madrugada de Argentina.
+
+- El atacante tendría unos **2.852 ETH, 106 BTC, 10.700 SOL, 6,7 millones de XLM y 77.000 AVAX**, además de más de 200 tokens.
+- No fue una falla de un contrato inteligente: fueron transferencias comunes, así que el atacante **consiguió de alguna forma la capacidad de firmar** desde las billeteras del exchange. Todavía no se sabe cómo.
+- Tether **congeló US$ 4,5 millones en USDT** vinculados al robo.
+- No hay atribución y, por ahora, **nada lo vincula con el hackeo a Binance**.
+- El exchange publicó las direcciones de destino del dinero robado en varias redes.
 
 **Mercado Bitcoin**, el exchange de criptomonedas más grande de Brasil, informó este lunes temprano que **identificó y contuvo un incidente de seguridad** en uno de sus sistemas. Como precaución, **suspendió temporalmente todos los depósitos y retiros**.
 
