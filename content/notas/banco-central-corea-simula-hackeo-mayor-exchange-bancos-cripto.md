@@ -5,7 +5,6 @@ kicker: REGULACIÓN
 date: 2026-11-02T01:20:00-03:00
 author: redaccion
 section: regulacion
-tapa: 2026-11-02
 tags: corea del sur, banco central, bancos, riesgo, hackeo, exchanges
 image: https://images.unsplash.com/photo-1782849206621-29623b359224?w=1600&q=75&auto=format&fit=crop
 imageAlt: Manos que sostienen una pila gruesa de billetes de dólar
