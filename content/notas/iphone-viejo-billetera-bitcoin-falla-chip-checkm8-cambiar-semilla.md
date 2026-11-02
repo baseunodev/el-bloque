@@ -14,7 +14,7 @@ imageCreditUrl: https://unsplash.com/photos/black-iphone-5-on-yellow-textile-DoW
 sources: CriptoNoticias | https://www.criptonoticias.com/seguridad-bitcoin/cuidado-viejo-iphone-hardware-wallet-bitcoin/
 ---
 
-Usar un iPhone viejo, sin chip SIM y en modo avión, como "billetera fría" para guardar bitcoin es un truco bastante común. Pero puede salir caro. **Yishi Wang**, fundador de la marca de billeteras físicas OneKey, advirtió que los modelos **desde el iPhone 4S hasta el iPhone 11** tienen fallas en el chip de arranque (conocidas como checkm8 y usbliter8) que **Apple no puede corregir con ninguna actualización**.
+Hay quienes usan un iPhone viejo en modo avión como "billetera fría" para guardar bitcoin. Puede salir caro. **Yishi Wang**, fundador de la marca de billeteras físicas OneKey, advirtió que los modelos **desde el iPhone 4S hasta el iPhone 11** tienen fallas en el chip de arranque (conocidas como checkm8 y usbliter8) que **Apple no puede corregir con ninguna actualización**.
 
 «Si es un iPhone 11 o más antiguo, el problema vive en el chip», resumió Wang.
 
