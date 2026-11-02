@@ -28,5 +28,3 @@ Corea del Norte respondió. **Kim Yo-jong**, hermana del líder norcoreano Kim J
 ## Mientras tanto, en Binance
 
 El exchange publicó este lunes su **primera prueba de reservas** después del hackeo y aseguró que **repuso cerca del 95%** de los activos afectados con fondos propios.
-
-Que un gobierno niegue estas acusaciones no es nuevo: Corea del Norte nunca reconoció su participación en los grandes robos cripto que se le atribuyen.
