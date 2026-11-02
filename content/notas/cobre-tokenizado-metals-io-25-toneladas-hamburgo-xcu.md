@@ -13,7 +13,7 @@ imageCreditUrl: https://unsplash.com/photos/a-coil-of-copper-wire-on-a-table-Tqu
 sources: CoinDesk | https://www.coindesk.com/markets/2026/11/02/metals-io-issues-tokens-backed-by-25-tonnes-of-physical-copper-stored-in-germany
 ---
 
-Después del oro, la plata y hasta el uranio, le llegó el turno al cobre. La plataforma **Metals.io** emitió **25.000 tokens xCu**, cada uno respaldado por **un kilo de cobre refinado** guardado en un depósito de **Hamburgo, Alemania**. El primer lote vale unos **US$ 366.000**.
+Después del oro y hasta el uranio, le llegó el turno al cobre. La plataforma **Metals.io** emitió **25.000 tokens xCu**, cada uno respaldado por **un kilo de cobre refinado** guardado en un depósito de **Hamburgo, Alemania**. El primer lote vale unos **US$ 366.000**.
 
 ## Cómo funciona
 
@@ -25,6 +25,6 @@ Ben Elvidge, que dirige Metals.io, aclaró que se trata de cobre real y refinado
 
 ## Un mercado todavía diminuto
 
-Los metales tokenizados fuera del oro son un nicho: el uranio tokenizado suma unos US$ 9,2 millones de capitalización. La tokenización de activos reales sigue sumando casos, como [los fondos tokenizados que lanzaron BlackRock y SBI en Japón](/mercado/blackrock-sbi-fondos-tokenizados-stablecoin-yen-jpysc).
+Los metales tokenizados fuera del oro son un nicho: el uranio tokenizado suma unos US$ 9,2 millones de capitalización. La tokenización de activos reales sigue sumando casos, como [los fondos tokenizados que lanzaron BlackRock y SBI en Japón](/regulacion/blackrock-sbi-fondos-tokenizados-stablecoin-yen-jpysc).
 
 **Ojo:** un token respaldado por un activo físico depende de quien custodia ese activo. Antes de comprar, revisá quién guarda el metal, quién audita y qué condiciones hay para canjearlo.
