@@ -22,7 +22,7 @@ Es una **iniciativa**, no una ley aprobada.
 
 - **De 5 a 12 años de prisión.**
 - Multas de **1.000 a 3.000 veces** el valor diario de la Unidad de Medida y Actualización (UMA).
-- Las penas podrían **aumentar hasta la mitad** si hay conexión directa a líneas de media o alta tensión, o si la operación es clandestina, como las granjas de minería ocultas.
+- Las penas podrían **aumentar hasta la mitad** si hay conexión directa a líneas de media o alta tensión, o si la operación es clandestina.
 
 ## Cuánta luz se roba
 

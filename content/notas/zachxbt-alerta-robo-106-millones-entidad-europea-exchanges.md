@@ -29,4 +29,4 @@ La semana de los hackeos suma otro capítulo. El investigador on-chain **ZachXBT
 
 ZachXBT dijo estar muy seguro de que **no se trata del grupo Lazarus**, de Corea del Norte, por varios indicios en la forma de lavar el dinero. Es una diferencia clave con el [robo récord a Binance, atribuido por el FBI a hackers norcoreanos](/seguridad/fbi-confirma-corea-del-norte-hackeo-binance-pide-bloquear-direcciones).
 
-El caso llega el mismo día en que [Mercado Bitcoin confirmó un robo de más de US$ 40 millones](/latam/mercado-bitcoin-incidente-seguridad-suspende-depositos-retiros-brasil).
+El caso llega el mismo día en que [Mercado Bitcoin sufrió un robo que empresas de seguridad estiman en más de US$ 40 millones](/latam/mercado-bitcoin-incidente-seguridad-suspende-depositos-retiros-brasil).
