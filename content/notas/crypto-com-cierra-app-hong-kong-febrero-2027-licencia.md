@@ -25,6 +25,6 @@ sources: Cointelegraph | https://cointelegraph.com/news/crypto-com-hong-kong-app
 - Según el registro del regulador local (SFC), sigue con un estatus **transitorio**, es decir, todavía sin la licencia definitiva.
 - La empresa dijo que seguirá buscando la aprobación para su exchange **institucional**.
 
-Hong Kong viene apostando fuerte a la tokenización y a los bancos tradicionales, como en [el caso de Standard Chartered](/regulacion/standard-chartered-depositos-tokenizados-hong-kong-ensembletx-24-horas).
+Mientras algunos exchanges se van, en Hong Kong avanzan los bancos tradicionales, como en [el caso de Standard Chartered](/regulacion/standard-chartered-depositos-tokenizados-hong-kong-ensembletx-24-horas).
 
 **Ojo:** si usás Crypto.com desde Hong Kong, tenés hasta fines de enero para mover tus fondos. Esperá el aviso oficial de la empresa con los pasos a seguir.

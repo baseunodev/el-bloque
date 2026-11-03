@@ -31,4 +31,4 @@ En abril, el mismo consejo ya había movido **30.766 ETH** (unos US$ 71 millones
 
 El FBI atribuyó el hackeo a Binance al grupo norcoreano **TraderTraitor**. El atacante viene repartiendo y cambiando el dinero robado, como contamos en [esta nota](/seguridad/hacker-binance-reparte-18270-bitcoin-19-billeteras-imposible-congelar).
 
-**Ojo:** que una red pueda mover fondos sin la clave del dueño reabre el debate sobre cuán descentralizadas son algunas blockchains. Sirve contra un hacker, pero es un poder que existe para cualquier dirección de la red.
+**Ojo:** este caso muestra que en algunas redes un grupo reducido tiene poderes de emergencia para mover fondos. Antes de usar una red, conviene saber quién la controla.
