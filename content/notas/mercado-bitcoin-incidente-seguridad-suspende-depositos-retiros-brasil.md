@@ -13,8 +13,14 @@ image: https://images.unsplash.com/photo-1723596807374-5cfbe183a820?w=1600&q=75&
 imageAlt: Avenida Paulista en São Paulo, con tráfico y edificios altos
 imageCredit: "Foto: Vitor Mendes Stafusa / Unsplash"
 imageCreditUrl: https://unsplash.com/photos/a-city-street-filled-with-lots-of-traffic-next-to-tall-buildings-o3jiiES00cI
-sources: The Block | https://www.theblock.co/news/defi/2026-11-02-mercado-bitcoin-hack-46-million-brazil-exchange-432333 ; Cointelegraph | https://cointelegraph.com/news/mercado-bitcoin-hack ; CoinDesk | https://www.coindesk.com/business/2026/11/02/brazil-s-mercado-bitcoin-halts-withdrawals-after-usd40-million-drained-across-10-chains ; CriptoNoticias | https://www.criptonoticias.com/seguridad-bitcoin/mercado-bitcoin-confirma-incidente-seguridad/
+sources: CoinDesk | https://www.coindesk.com/business/2026/11/03/mercado-bitcoin-pledges-to-cover-all-user-losses-after-near-usd40-million-hack ; The Block | https://www.theblock.co/news/defi/2026-11-02-mercado-bitcoin-hack-46-million-brazil-exchange-432333 ; Cointelegraph | https://cointelegraph.com/news/mercado-bitcoin-hack ; CoinDesk | https://www.coindesk.com/business/2026/11/02/brazil-s-mercado-bitcoin-halts-withdrawals-after-usd40-million-drained-across-10-chains ; CriptoNoticias | https://www.criptonoticias.com/seguridad-bitcoin/mercado-bitcoin-confirma-incidente-seguridad/
 ---
+
+## Actualización (3 de noviembre, 06:10): Mercado Bitcoin promete cubrir todo
+
+- El exchange se comprometió a **cubrir las pérdidas**, que estima en unos **US$ 38 a 40 millones**, para que **ningún cliente pierda fondos**.
+- **Tether, Circle y Chainalysis** ayudaron a **congelar US$ 11 millones** de lo robado.
+- La empresa insiste en que no se filtraron datos de clientes. El acceso a la plataforma sigue suspendido como precaución.
 
 ## Actualización (18:10 de Argentina): el robo llega a US$ 46 millones
 
