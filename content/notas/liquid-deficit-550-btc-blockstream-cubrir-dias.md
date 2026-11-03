@@ -1,5 +1,5 @@
 ---
-title: Liquid ya repuso parte del agujero: le faltan unos 550 bitcoin y Blockstream promete cubrirlos en días
+title: "Liquid tapó el agujero: vuelve a tener todos sus bitcoin respaldados tras el robo de US$ 320 millones"
 description: Tras el exploit de septiembre, la red de Bitcoin tiene un respaldo del 87% de sus L-BTC. Samson Mow dice que el déficit se cierra "en los próximos días".
 kicker: SEGURIDAD
 date: 2026-10-28T22:15:00-03:00
@@ -11,8 +11,16 @@ image: https://images.unsplash.com/photo-1614064641938-3bbee52942c7?w=1600&q=75&
 imageAlt: Un candado rojo sobre un teclado de computadora negro
 imageCredit: Foto: FlyD / Unsplash
 imageCreditUrl: https://unsplash.com/photos/mT7lXZPjk7U
-sources: CriptoNoticias | https://www.criptonoticias.com/seguridad-bitcoin/liquid-busca-cerrar-dias-deficit-600-btc-tras/
+sources: The Block | https://www.theblock.co/news/ecosystems/2026-11-03-liquid-network-restores-full-bitcoin-backing-following-exploit-432387 ; CriptoNoticias | https://www.criptonoticias.com/seguridad-bitcoin/liquid-busca-cerrar-dias-deficit-600-btc-tras/
 ---
+
+## Actualización (3 de noviembre, 10:15): respaldo completo
+
+La Federación de Liquid anunció que sus reservas volvieron a respaldar **1 a 1** todos los LBTC. Samson Mow informó depósitos de **50 BTC** el 28 de octubre, y de **300 BTC** y **250 BTC** este lunes, y señaló a **Blockstream** como origen de los fondos.
+
+> «We extend our sincere appreciation to the Bitcoin community, Liquid users, and ecosystem partners for their patience» («Agradecemos sinceramente a la comunidad de Bitcoin, a los usuarios de Liquid y a los socios del ecosistema por su paciencia»).
+
+La Federación todavía no aclaró si levantó las restricciones que quedan para sacar bitcoin de la red.
 
 **Liquid**, la red lateral de Bitcoin que usan exchanges y traders para mover BTC más rápido, está cerca de tapar el agujero que le dejó el ataque de septiembre. **Samson Mow**, CEO de JAN3, dijo el 27 de octubre que el déficit de bitcoin se cubriría **"en los próximos días"**.
 
