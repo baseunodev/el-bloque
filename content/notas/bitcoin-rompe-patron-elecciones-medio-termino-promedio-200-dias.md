@@ -1,5 +1,5 @@
 ---
-title: "Bitcoin rompe un patrón que venía desde 2014: por primera vez llega a una elección de medio término por encima de su promedio de 200 días"
+title: "Bitcoin rompe un patrón que venía desde 2014: esta vez llega a la elección de medio término por encima de su promedio de 200 días"
 description: "En 2014, 2018 y 2022 bitcoin votaba muy golpeado. Hoy está cerca de 5% arriba de esa media clave, aunque los analistas esperan meses movidos."
 kicker: MERCADO
 date: 2026-11-03T10:25:00-03:00
@@ -26,11 +26,10 @@ El día de la elección, bitcoin estaba por debajo de su promedio de 200 días:
 - **2018:** cerca de 9% abajo.
 - **2022:** cerca de 22% abajo.
 
-El promedio de 200 días es una referencia que muchos operadores usan para medir si la tendencia de fondo es alcista o bajista.
 
 ## Qué esperan
 
-**Martin Lee**, analista de DWF Labs, cree que los primeros meses después de una elección de medio término suelen ser **movidos y algo bajistas**. Además, el índice de volatilidad de bitcoin rompió una figura técnica que suele anticipar movimientos fuertes.
+**Martin Lee**, analista de DWF Labs, cree que los primeros meses después de una elección de medio término suelen ser **movidos y algo bajistas**. Además, el índice de volatilidad de bitcoin salió de una figura técnica conocida como triángulo descendente.
 
 **Importante:** son lecturas de analistas, no predicciones de esta redacción. No es una recomendación de El Bloque.
 
