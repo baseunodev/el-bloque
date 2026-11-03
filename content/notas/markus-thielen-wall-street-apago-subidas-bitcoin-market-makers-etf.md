@@ -22,7 +22,7 @@ En una entrevista publicada este martes, Thielen estimó que los **market makers
 
 Si esa lectura es correcta, una porción grande de la plata que entró a los ETF no sería de inversores apostando a que bitcoin sube, sino de operadores profesionales que compran el ETF como parte de estrategias de cobertura o arbitraje. Esa clase de flujo no empuja el precio con la misma fuerza que una compra con convicción.
 
-El contexto acompaña: bitcoin cayó el viernes hasta cerca de **US$ 76.100** y va por su [quinta semana seguida en rojo](/notas/bitcoin-quinta-semana-caidas-seguidas-elecciones-75000). Además, el ETF más seguido, el de BlackRock, acaba de registrar [su mayor salida desde junio](/notas/blackrock-ibit-salida-405-millones-mayor-desde-junio-etf-bitcoin).
+El contexto acompaña: bitcoin cayó el viernes hasta cerca de **US$ 76.100** y va por su [quinta semana seguida en rojo](/notas/bitcoin-quinta-semana-caidas-seguidas-elecciones-75000). Además, el ETF de BlackRock (IBIT) acaba de registrar [su mayor salida desde junio](/notas/blackrock-ibit-salida-405-millones-mayor-desde-junio-etf-bitcoin).
 
 ## Igual ve una suba
 
