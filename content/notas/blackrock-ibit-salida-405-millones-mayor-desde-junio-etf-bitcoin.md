@@ -27,4 +27,4 @@ Mal arranque de mes para los fondos de bitcoin. El **IBIT de BlackRock**, perdi�
 
 En medio de las ventas, bitcoin llegó a caer por debajo de **US$ 76.400**, su nivel más bajo desde agosto. En la madrugada de este martes [volvió a perder los US$ 77.000 en Asia](/mercado/bitcoin-debajo-77000-asia-caida-chips-nasdaq-correccion-elecciones).
 
-La racha negativa viene de la semana pasada, cuando los ETF tuvieron [su peor día desde junio](/mercado/etf-bitcoin-salidas-643-millones-peor-dia-desde-junio) tras el hackeo a Binance.
+La racha negativa viene de la semana pasada, cuando los ETF tuvieron [su peor día desde junio](/mercado/etf-bitcoin-salidas-643-millones-peor-dia-desde-junio).
