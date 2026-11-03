@@ -13,12 +13,20 @@ image: https://images.unsplash.com/photo-1720128401402-81c9dc339870?w=1600&q=75&
 imageAlt: Un poste con un cartel que indica un centro de votación
 imageCredit: "Foto: Phil Hearing / Unsplash"
 imageCreditUrl: https://unsplash.com/photos/a-pole-with-a-sign-that-says-polling-station-bu27Y0xg7dk
-sources: CoinDesk | https://www.coindesk.com/policy/2026/11/01/the-key-races-to-watch-for-the-2026-election ; Cointelegraph | https://cointelegraph.com/markets/btc-price-script-midterms-three-things-bitcoin-week
+sources: Cointelegraph | https://cointelegraph.com/news/us-midterms-2026-stake-crypto-election-day ; CoinDesk | https://www.coindesk.com/policy/2026/11/01/the-key-races-to-watch-for-the-2026-election ; Cointelegraph | https://cointelegraph.com/markets/btc-price-script-midterms-three-things-bitcoin-week
 ---
 
 Llegó el día. Este martes 3 de noviembre Estados Unidos elige a buena parte de su Congreso en las **elecciones de medio término**, y la industria cripto sigue el resultado con lupa: de quién gane depende el ritmo de las leyes que esperan los exchanges, las stablecoins y los inversores.
 
 > «While crypto isn't a major issue in the 2026 election, the industry will be shaped by who takes office in January» («Aunque cripto no es un tema central de la elección, la industria quedará marcada por quién asuma en enero»).
+
+## Actualización (11:15): qué pasa con la ley CLARITY
+
+- Se renuevan las **435 bancas** de la Cámara y **35** del Senado.
+- Los grupos cripto gastaron unos **US$ 176 millones** en más de 100 carreras.
+- La ley **CLARITY**, que ordena la regulación del mercado cripto, quedó trabada el 15 de septiembre en una votación del Senado: sacó 49 votos contra 50 y necesitaba 60.
+
+> «A change in control of Congress would most likely reset the timetable for the CLARITY Act» («Un cambio en el control del Congreso probablemente reiniciaría los plazos de la ley CLARITY»).
 
 ## Qué dicen las apuestas
 
