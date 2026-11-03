@@ -1,6 +1,6 @@
 ---
-title: "BlackRock, sobre las elecciones: «Not really» cambian su plan cripto, y bitcoin «ya tiene casi todo lo que necesita»"
-description: "Robert Mitchnick, jefe de activos digitales del mayor gestor de fondos, dijo que el resultado del Congreso no mueve su estrategia. BlackRock maneja unos US$ 75.000 millones en ETF cripto."
+title: "BlackRock, sobre las elecciones: no cambian su plan cripto y bitcoin «ya tiene mucho de lo que necesita»"
+description: "Robert Mitchnick, jefe de activos digitales de BlackRock, dijo que el resultado del Congreso no mueve su estrategia. BlackRock maneja unos US$ 75.000 millones en ETF cripto."
 kicker: MERCADO
 date: 2026-11-03T16:20:00-03:00
 author: redaccion
