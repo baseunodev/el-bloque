@@ -14,7 +14,7 @@ imageCreditUrl: https://unsplash.com/photos/desk-with-calculator-charts-and-bind
 sources: Cointelegraph | https://cointelegraph.com/markets/blackrocks-ibit-biggest-bitcoin-etf-outflow-june
 ---
 
-Mal arranque de mes para los fondos de bitcoin. El **IBIT de BlackRock**, el ETF de bitcoin más grande del mundo, perdió **US$ 405,3 millones** el lunes 2 de noviembre, su **mayor salida desde el 26 de junio**, cuando se fueron US$ 444,5 millones.
+Mal arranque de mes para los fondos de bitcoin. El **IBIT de BlackRock**, perdió **US$ 405,3 millones** el lunes 2 de noviembre, su **mayor salida desde el 26 de junio**, cuando se fueron US$ 444,5 millones.
 
 ## Los números del lunes
 
