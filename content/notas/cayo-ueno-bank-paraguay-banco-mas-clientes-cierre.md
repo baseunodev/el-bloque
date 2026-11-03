@@ -13,7 +13,7 @@ imageCreditUrl: https://unsplash.com/photos/person-pressing-metallic-atm-keypad-
 sources: CriptoNoticias | https://www.criptonoticias.com/sucesos/cayo-ueno-bank-banco-paraguay/
 ---
 
-Paraguay amaneció con un golpe fuerte a su sistema financiero: el **Banco Central de Paraguay (BCP)** ordenó el **cierre de Ueno Bank**, el banco con más clientes del país. Son unos **3 millones de usuarios**, cerca del **60% de la población adulta** paraguaya.
+Paraguay recibió este martes un golpe fuerte a su sistema financiero: el **Banco Central de Paraguay (BCP)** ordenó el **cierre de Ueno Bank**, el banco con más clientes del país. Son unos **3 millones de usuarios**, cerca del **60% de la población adulta** paraguaya.
 
 La medida fue inmediata. Desde el BCP lo explicaron así:
 
