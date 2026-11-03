@@ -13,12 +13,20 @@ image: https://images.unsplash.com/photo-1720128401402-81c9dc339870?w=1600&q=75&
 imageAlt: Un poste con un cartel que indica un centro de votación
 imageCredit: "Foto: Phil Hearing / Unsplash"
 imageCreditUrl: https://unsplash.com/photos/a-pole-with-a-sign-that-says-polling-station-bu27Y0xg7dk
-sources: The Block | https://www.theblock.co/news/regulation/2026-11-03-midterm-election-odds-polymarket-kalshi-democrats-432461 ; Cointelegraph | https://cointelegraph.com/news/us-midterms-2026-stake-crypto-election-day ; CoinDesk | https://www.coindesk.com/policy/2026/11/01/the-key-races-to-watch-for-the-2026-election ; Cointelegraph | https://cointelegraph.com/markets/btc-price-script-midterms-three-things-bitcoin-week
+sources: Cointelegraph | https://cointelegraph.com/news/us-midterms-2026-live-results-and-what-they-mean-for-crypto ; The Block | https://www.theblock.co/news/regulation/2026-11-03-midterm-election-odds-polymarket-kalshi-democrats-432461 ; Cointelegraph | https://cointelegraph.com/news/us-midterms-2026-stake-crypto-election-day ; CoinDesk | https://www.coindesk.com/policy/2026/11/01/the-key-races-to-watch-for-the-2026-election ; Cointelegraph | https://cointelegraph.com/markets/btc-price-script-midterms-three-things-bitcoin-week
 ---
 
 Llegó el día. Este martes 3 de noviembre Estados Unidos elige a buena parte de su Congreso en las **elecciones de medio término**, y la industria cripto sigue el resultado con lupa: de quién gane depende el ritmo de las leyes que esperan los exchanges, las stablecoins y los inversores.
 
 > «While crypto isn't a major issue in the 2026 election, the industry will be shaped by who takes office in January» («Aunque cripto no es un tema central de la elección, la industria quedará marcada por quién asuma en enero»).
+
+## Actualización (20:15): empiezan a cerrar las urnas
+
+La votación entra en su tramo final y los primeros resultados se esperan en las próximas horas. Hasta el lunes ya se habían emitido más de **57 millones de votos** anticipados.
+
+Las cuentas que hay que seguir: hoy los republicanos tienen **53 bancas** en el Senado, contra **45 demócratas** y **2 independientes**. Para dar vuelta el control, los demócratas necesitan ganar **4 bancas netas en el Senado** y **3 en la Cámara**.
+
+La industria cripto puso mucha plata en juego: grupos del sector gastaron unos **US$ 176 millones** en más de **100 carreras**. Solo en **Ohio**, donde compite Sherrod Brown, fueron unos **US$ 63 millones**, y en **Nebraska** se gastaron unos **US$ 13,5 millones** en la carrera de Osborn.
 
 ## Actualización (16:15): las apuestas ya ven a los demócratas con las dos cámaras
 
