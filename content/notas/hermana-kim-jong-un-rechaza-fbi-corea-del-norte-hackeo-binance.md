@@ -11,12 +11,16 @@ image: https://images.unsplash.com/photo-1765445666155-49363ba0043b?w=1600&q=75&
 imageAlt: Imagen digital abstracta con efecto de falla de pantalla
 imageCredit: "Foto: Egor Komarov / Unsplash"
 imageCreditUrl: https://unsplash.com/photos/u7DYpCqtZJc
-sources: The Block | https://www.theblock.co/news/regulation/2026-11-02-kim-jong-un-sister-rejects-fbi-claims-linking-north-korea-binance-hack-432344
+sources: The Block | https://www.theblock.co/news/regulation/2026-11-02-kim-jong-un-sister-rejects-fbi-claims-linking-north-korea-binance-hack-432344 ; CriptoNoticias | https://www.criptonoticias.com/seguridad-bitcoin/quien-robo-binance-corea-del-norte-responde-al-fbi/
 ---
 
 Corea del Norte respondió. **Kim Yo-jong**, hermana del líder norcoreano Kim Jong-un, **rechazó la acusación del FBI** que señala a su país como responsable del robo récord a **Binance**, según informó la agencia surcoreana Yonhap.
 
 > «The FBI is trying to brand the DPRK as a 'cyber criminal state'» («El FBI intenta tildar a la RPDC de "Estado cibercriminal"»), dijo en su declaración.
+
+## Actualización (22:10): advertencia a Washington
+
+Kim Yo-jong calificó las acusaciones de **«retórica absurda»** y advirtió que Pyongyang tiene **«asuntos que reconsiderar»** en su relación con Estados Unidos. La respuesta llega mientras Donald Trump busca reactivar las conversaciones con Corea del Norte.
 
 ## Qué dice la acusación
 
