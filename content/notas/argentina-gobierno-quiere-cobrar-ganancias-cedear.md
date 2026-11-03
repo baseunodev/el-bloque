@@ -23,7 +23,7 @@ El Poder Ejecutivo argentino envió al Congreso un proyecto para que la **venta 
 
 ## Las críticas
 
-La medida generó ruido porque el propio Milei suele llamar a Ganancias un «impuesto inmundo». El contador Marcos Zocaro, especialista en impuestos cripto, fue duro: dijo que el Gobierno «se tira un tiro en el pie (o varios a menos de un año de las elecciones)».
+La medida generó ruido porque el propio Milei llamó a Ganancias un «impuesto inmundo». El contador Marcos Zocaro fue duro: dijo que el Gobierno «se tira un tiro en el pie (o varios a menos de un año de las elecciones)».
 
 Para los ahorristas, el tema importa porque los CEDEAR son una de las formas de invertir en dólares desde Argentina, igual que las stablecoins y las cripto. Y según un relevamiento reciente, [tres de cada cuatro inversores argentinos ya tienen cripto](/notas/argentina-74-por-ciento-inversores-tienen-cripto-impuestos).
 
