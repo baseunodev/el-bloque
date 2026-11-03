@@ -20,7 +20,7 @@ La postura quedó por escrito en una **carta de no acción** publicada este mart
 
 ## Por qué importa
 
-Canton es una de las redes que eligen los grandes bancos y entidades financieras para mover activos tokenizados. Entre ellos está la DTCC, que [lanzó la tokenización de US$ 30 billones en acciones y bonos](/notas/dtcc-tokenizacion-30-billones-wall-street-canton). Tener claridad legal sobre el token de la red le saca un riesgo de encima a ese ecosistema.
+Canton es una red pensada para mover activos tokenizados entre entidades financieras, y es la que usa la DTCC, que [lanzó la tokenización de US$ 30 billones en acciones y bonos](/notas/dtcc-tokenizacion-30-billones-wall-street-canton). Tener claridad legal sobre el token de la red le saca un riesgo de encima a ese ecosistema.
 
 La lectura en la industria fue rápida. Miles Jennings, del fondo a16z, lo resumió en redes:
 
