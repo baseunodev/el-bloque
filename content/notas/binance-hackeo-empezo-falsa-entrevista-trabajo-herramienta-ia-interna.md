@@ -14,7 +14,7 @@ imageCreditUrl: https://unsplash.com/photos/guy-fawkes-mask-on-black-background-
 sources: CoinDesk | https://www.coindesk.com/business/2026/11/03/binance-s-usd6-3-billion-hack-began-with-a-fake-job-interview-exchange-says ; The Block | https://www.theblock.co/news/business/2026-11-03-binance-hack-incident-report-north-korea-fake-job-interview-ai-tool-432406
 ---
 
-**Binance** contó cómo fue por dentro el robo más grande de la historia cripto. Según su informe, no fue un descuido de un día: los atacantes **trabajaron durante meses** para meterse en el exchange.
+**Binance** contó cómo fue por dentro el robo récord que sufrió. Según su informe, no fue un descuido de un día: los atacantes **trabajaron durante meses** para meterse en el exchange.
 
 > «This wasn't one mistake or one breach — it was a months-long campaign» («No fue un solo error ni una sola brecha: fue una campaña de meses»), dijo el CEO, **Richard Teng**.
 
