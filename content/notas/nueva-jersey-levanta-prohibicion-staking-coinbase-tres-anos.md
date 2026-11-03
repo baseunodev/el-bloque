@@ -24,6 +24,6 @@ Buena noticia para los usuarios de **Coinbase** en **Nueva Jersey**. El estado *
 
 ## Qué es el staking
 
-Es bloquear criptomonedas de redes como Ethereum o Solana para ayudar a validar transacciones, a cambio de una recompensa periódica. Varios reguladores estatales de EE.UU. lo cuestionaron por considerar que el servicio de los exchanges funcionaba como un producto de inversión.
+Es bloquear criptomonedas de redes como Ethereum o Solana para ayudar a validar transacciones, a cambio de una recompensa periódica.
 
 **Ojo:** el staking tiene riesgos. Los fondos pueden quedar bloqueados un tiempo y las recompensas no están garantizadas.
