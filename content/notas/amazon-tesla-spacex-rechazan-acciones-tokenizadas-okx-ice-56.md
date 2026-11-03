@@ -27,8 +27,8 @@ La lista de empresas que no quieren ver sus acciones convertidas en tokens no pa
 
 Este martes 3 de noviembre vence el plazo de 30 días que fija la SEC para responder a los avisos enviados el 4 de octubre.
 
-Desde OKX-ICE, el copresidente **Andrew Cuomo** le bajó el tono:
+Desde OKX-ICE, el copresidente **Andrew Cuomo** respondió:
 
 > «We are at the very beginning of the rollout of fundamentally different market structure» («Estamos en el comienzo del despliegue de una estructura de mercado fundamentalmente distinta»).
 
-El viernes ya habían dicho que no [Nvidia, Nike y Costco](/regulacion/nvidia-nike-costco-rechazan-acciones-tokenizadas-okx-ice-50-empresas).
+Antes ya habían dicho que no [Nvidia, Nike y Costco](/regulacion/nvidia-nike-costco-rechazan-acciones-tokenizadas-okx-ice-50-empresas).
