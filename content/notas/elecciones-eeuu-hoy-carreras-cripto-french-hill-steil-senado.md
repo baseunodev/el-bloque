@@ -9,10 +9,10 @@ featured: true
 tapa: 2026-11-03
 coins: BTC
 tags: elecciones, estados unidos, congreso, kalshi, fairshake, regulacion
-image: https://images.unsplash.com/photo-1534293230397-c067fc201ab8?w=1600&q=75&auto=format&fit=crop
-imageAlt: Una mano sostiene un botón rojo con la frase "I vote"
-imageCredit: "Foto: Parker Johnson / Unsplash"
-imageCreditUrl: https://unsplash.com/photos/a-hand-holding-a-red-button-that-says-i-vote-v0OWc_skg0g
+image: https://images.unsplash.com/photo-1720128401402-81c9dc339870?w=1600&q=75&auto=format&fit=crop
+imageAlt: Un poste con un cartel que indica un centro de votación
+imageCredit: "Foto: Phil Hearing / Unsplash"
+imageCreditUrl: https://unsplash.com/photos/a-pole-with-a-sign-that-says-polling-station-bu27Y0xg7dk
 sources: CoinDesk | https://www.coindesk.com/policy/2026/11/01/the-key-races-to-watch-for-the-2026-election ; Cointelegraph | https://cointelegraph.com/markets/btc-price-script-midterms-three-things-bitcoin-week
 ---
 
