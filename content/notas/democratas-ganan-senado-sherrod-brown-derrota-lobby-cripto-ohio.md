@@ -22,6 +22,14 @@ Es oficial: los **demócratas ganaron el control del Senado** de Estados Unidos,
 
 En la **Cámara de Representantes**, la consultora Decision Desk HQ también proyectó una **mayoría demócrata**. Así, el partido se encamina a controlar las dos cámaras desde enero, justo cuando la industria espera leyes clave como la de estructura de mercado.
 
+## Actualización (06:10): Fairshake gana Nebraska y Trump promete llevarse bien
+
+En **Nebraska**, el senador republicano **Pete Ricketts** le ganó al independiente **Dan Osborn**. Fue una de las victorias de la noche para el lobby cripto: Fairshake habría gastado cerca de **US$ 11 millones** a favor de Ricketts, y otro comité, Defend American Jobs, unos **US$ 13,5 millones** en contra de Osborn.
+
+> «Republican Sen. Pete Ricketts has defeated independent challenger Dan Osborn in Nebraska» («El senador republicano Pete Ricketts derrotó al candidato independiente Dan Osborn en Nebraska»).
+
+Trump, por su parte, bajó el tono: «I think we'll work with the Democrats, and we'll get along very well with them» («Creo que vamos a trabajar con los demócratas y nos vamos a llevar muy bien»). En el mercado, la caída de bitcoin hasta **US$ 75.618** dejó unos **US$ 288 millones** en liquidaciones de posiciones compradas en 24 horas, antes del rebote.
+
 ## Actualización (05:10): qué cambia para la agenda cripto
 
 Con las dos cámaras en manos demócratas desde enero de 2027, los comités del Congreso pasan a su control, con poder para investigar al gobierno de Trump. El propio Trump, al felicitar a los ganadores, dijo que la guerra con Irán y la inflación que trajo golpearon a los republicanos.
@@ -74,4 +82,4 @@ Después de perforar los US$ 76.000, **bitcoin** volvió a la zona de los **US$ 
 
 Qué significa un Congreso demócrata para las leyes cripto lo explicamos en [esta nota sobre Elizabeth Warren](/notas/elecciones-eeuu-congreso-cripto-warren-clarity).
 
-**Importante:** algunas carreras siguen abiertas, como Arkansas-2 (French Hill), Nebraska y Maine. No es una recomendación de El Bloque.
+**Importante:** algunas carreras siguen abiertas, como Arkansas-2 (French Hill) y Misisipi. No es una recomendación de El Bloque.
