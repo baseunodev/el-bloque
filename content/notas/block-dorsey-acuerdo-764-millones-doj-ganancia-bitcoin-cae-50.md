@@ -20,7 +20,7 @@ Golpe doble para **Block**, la empresa de pagos de **Jack Dorsey** y dueña de *
 
 - La multa es de **US$ 764 millones**, más que la ganancia de **US$ 566 millones** que Block tuvo en el tercer trimestre.
 - El monto bruto rondaba los **US$ 964 millones**, pero se redujo por créditos de acuerdos anteriores.
-- Según el texto del acuerdo, se **posterga por tres años un cargo penal** vinculado a no haber tenido un programa contra el lavado efectivo.
+- El acuerdo **postergaría por tres años un cargo penal** vinculado a no haber tenido un programa contra el lavado efectivo.
 - La empresa ya había reservado esa cifra, según su presentación ante la SEC del 3 de noviembre.
 
 ## Bitcoin, a la mitad
