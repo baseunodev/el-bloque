@@ -1,6 +1,6 @@
 ---
-title: "Los demócratas ganan el Senado y Sherrod Brown vence al lobby cripto en Ohio pese a US$ 63 millones en contra"
-description: "Según la AP, los demócratas llegaron a 51 bancas con la victoria en Iowa. En Texas ganaron el Senado y la gobernación. Fairshake festeja en Alabama, pero pierde en Ohio, donde puso US$ 56 millones."
+title: "Barrido demócrata: ganan el Senado y la Cámara, y Sherrod Brown vence al lobby cripto en Ohio pese a US$ 63 millones en contra"
+description: "Según la AP, los demócratas se quedan con las dos cámaras del Congreso. Cayó Susan Collins en Maine. En Texas ganaron el Senado y la gobernación. Fairshake festeja en Alabama, pero pierde en Ohio, donde puso US$ 56 millones."
 kicker: ÚLTIMO MOMENTO
 date: 2026-11-04T02:10:00-03:00
 author: redaccion
@@ -21,6 +21,19 @@ Es oficial: los **demócratas ganaron el control del Senado** de Estados Unidos,
 > «Democrats have won control of the US Senate, according to the Associated Press» («Los demócratas ganaron el control del Senado de EE.UU., según la Associated Press»).
 
 En la **Cámara de Representantes**, la consultora Decision Desk HQ también proyectó una **mayoría demócrata**. Así, el partido se encamina a controlar las dos cámaras desde enero, justo cuando la industria espera leyes clave como la de estructura de mercado.
+
+## Actualización (04:10): también ganan la Cámara
+
+Ya es un barrido. Según la **Associated Press**, los demócratas también ganaron el control de la **Cámara de Representantes**, y **Hakeem Jeffries** quedaría como presidente de la cámara. Con eso, controlarán las dos cámaras desde enero.
+
+> «Democrats have won control of the US House of Representatives, according to the Associated Press» («Los demócratas ganaron el control de la Cámara de Representantes de EE.UU., según la Associated Press»).
+
+Otras novedades de la madrugada:
+
+- **Maine:** el demócrata **Troy Jackson** le ganó a la senadora republicana **Susan Collins**, según la AP. Jackson apoya una legislación cripto clara.
+- **Misisipi:** sorpresa total. La carrera por el Senado entre Colom (demócrata) y la senadora Hyde-Smith (republicana) está empatada en **48,9%** con el **96,6%** de los votos esperados contados.
+
+Qué significa para la ley CLARITY, que sigue frenada: el resultado cambia el panorama, y en la industria advierten que sin apoyo de los dos partidos no va a salir nada. Mientras tanto, bitcoin [ya rebotó hasta casi US$ 78.000](/notas/bitcoin-rebota-78000-forma-v-barrido-democrata).
 
 ## Actualización (03:10): Trump felicita a los demócratas y el lobby cripto hace cuentas
 
