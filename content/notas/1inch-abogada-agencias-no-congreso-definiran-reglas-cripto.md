@@ -1,5 +1,5 @@
 ---
-title: "Gane quien gane, las reglas cripto las van a escribir la SEC y la CFTC, no el Congreso, según una abogada de 1inch"
+title: "Las reglas cripto las van a escribir la SEC y la CFTC, no el Congreso, según una abogada de 1inch"
 description: "Con la ley CLARITY frenada, Maylea Ma espera que las agencias federales lleven la próxima etapa. El problema: lo que hace una agencia, otro gobierno lo puede deshacer."
 kicker: REGULACIÓN
 date: 2026-11-03T23:20:00-03:00
@@ -13,7 +13,7 @@ imageCreditUrl: https://unsplash.com/photos/person-holding-white-and-red-box--LC
 sources: Cointelegraph | https://cointelegraph.com/news/1inch-lawyer-sees-agencies-driving-us-crypto-regulation-as-midterms-unfold
 ---
 
-Mientras se cuentan los votos de las elecciones de medio término, hay quienes creen que el resultado no cambia tanto el rumbo de las reglas cripto en EE.UU. Una de ellas es **Maylea Ma**, abogada general adjunta de **1inch**.
+Mientras se cuentan los votos de las elecciones de medio término, una voz de la industria pone el foco en otro lado: **Maylea Ma**, abogada general adjunta de **1inch**.
 
 Su lectura: con la **ley CLARITY** de estructura de mercado todavía parada, la próxima etapa de la regulación la van a llevar las **agencias federales**, como la **SEC**, la **CFTC** y el **Tesoro**, y no el Congreso.
 

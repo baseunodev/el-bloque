@@ -22,7 +22,7 @@ La noche electoral en Estados Unidos empieza a tomar color, y es azul. Con los p
 
 - **Bitcoin** quedó apenas **por debajo de los US$ 77.000**.
 - Los **futuros del Nasdaq 100** caían **1,5%** y los del **S&P 500**, **0,7%**.
-- En **Polymarket** y **Kalshi**, la probabilidad de que los demócratas tomen el **Senado** trepó a **98%**, y la de la **Cámara**, a **100%**. A la mañana estaban cerca del 75% para el Senado.
+- En **Polymarket** y **Kalshi**, la probabilidad de que los demócratas tomen el **Senado** trepó a **98%**, y la de la **Cámara**, a **100%**. Por la tarde, el Senado cotizaba cerca del 75%.
 
 ## Los resultados que movieron la aguja
 
