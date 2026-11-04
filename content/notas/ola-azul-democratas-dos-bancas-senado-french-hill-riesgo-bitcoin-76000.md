@@ -5,8 +5,6 @@ kicker: ÚLTIMO MOMENTO
 date: 2026-11-04T00:15:00-03:00
 author: redaccion
 section: regulacion
-featured: true
-tapa: 2026-11-04
 coins: BTC, ETH
 tags: elecciones, estados-unidos, senado, camara, french-hill, bitcoin, polymarket, kalshi
 image: https://images.unsplash.com/photo-1543372654-b45dd90eeee5?w=1600&q=75&auto=format&fit=crop
