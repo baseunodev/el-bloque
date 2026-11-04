@@ -11,10 +11,18 @@ image: https://images.unsplash.com/photo-1762427354051-a9bdb181ae3b?w=1600&q=75&
 imageAlt: Un escritorio con una calculadora, gráficos y carpetas
 imageCredit: "Foto: Cht Gsml / Unsplash"
 imageCreditUrl: https://unsplash.com/photos/desk-with-calculator-charts-and-binders-FVwy7PBiSUo
-sources: Cointelegraph | https://cointelegraph.com/markets/blackrocks-ibit-biggest-bitcoin-etf-outflow-june
+sources: Cointelegraph | https://cointelegraph.com/markets/bitcoin-etf-shed-1-16-billion-bitwise-short-term-risk-off ; Cointelegraph | https://cointelegraph.com/markets/blackrocks-ibit-biggest-bitcoin-etf-outflow-june
 ---
 
 Mal arranque de mes para los fondos de bitcoin. El **IBIT de BlackRock**, perdió **US$ 405,3 millones** el lunes 2 de noviembre, su **mayor salida desde el 26 de junio**, cuando se fueron US$ 444,5 millones.
+
+## Actualización (4 de noviembre, 07:10): ya son US$ 1.160 millones en tres días
+
+La sangría siguió el martes, aunque más chica: los ETF de bitcoin al contado perdieron **US$ 116 millones**. Sumados al lunes (**US$ 399 millones**) y al viernes (**US$ 643 millones**), son **US$ 1.160 millones** en tres sesiones. En lo que va de 2026, el flujo neto ya es negativo, cerca de **-US$ 153 millones**.
+
+Para André Dragosch, de Bitwise, no es una huida definitiva. Según él, los fondos de cobertura son los que venden, mientras que la mayoría de los inversores institucionales mantuvo sus posiciones:
+
+> «I do think it's related to a short-term risk-off environment rather than a structural change» («Creo que tiene que ver con un clima de aversión al riesgo de corto plazo, no con un cambio estructural»).
 
 ## Los números del lunes
 

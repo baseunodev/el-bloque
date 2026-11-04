@@ -11,12 +11,16 @@ image: https://images.unsplash.com/photo-1508345228704-935cc84bf5e2?w=1600&q=75&
 imageAlt: Una cadena de acero gris con candado sobre un portón
 imageCredit: "Foto: John Salvino / Unsplash"
 imageCreditUrl: https://unsplash.com/photos/gray-steel-chain-locked-on-gate-bqGBbLq_yfc
-sources: CriptoNoticias | https://www.criptonoticias.com/seguridad-bitcoin/hackers-repartieron-fondos-binance-wallets-robo/
+sources: Cointelegraph | https://cointelegraph.com/news/binance-hackers-move-81-stolen-solana-route-thorchain ; CriptoNoticias | https://www.criptonoticias.com/seguridad-bitcoin/hackers-repartieron-fondos-binance-wallets-robo/
 ---
 
 Los autores del robo a Binance están trabajando a toda velocidad para borrar sus huellas. Según la firma de análisis blockchain **Elliptic**, en apenas **cuatro días** repartieron los fondos entre unas **12.000 billeteras** con más de **40.000 transacciones**.
 
 El ritmo es impresionante: según el informe del 2 de noviembre, aparecía **una dirección nueva cada 25 segundos**, con transferencias repetidas para cortar el rastro.
+
+## Actualización (4 de noviembre, 07:10): ahora mueven los SOL robados
+
+Los atacantes ya movieron el **81%** de los **970.522 SOL** que se llevaron de Binance. Según los rastreos, quedan unos **182.443 SOL** (cerca de **US$ 16,9 millones**) en las billeteras originales. El circuito es claro: venden SOL por USDC, lo pasan a Ethereum y después cambian ETH por bitcoin a través de **THORChain**, un protocolo para intercambiar monedas entre redes distintas.
 
 ## Mezcladores en marcha
 
