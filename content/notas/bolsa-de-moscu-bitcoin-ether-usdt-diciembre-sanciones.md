@@ -22,9 +22,9 @@ Rusia da un paso grande en su relación con las cripto. La **Bolsa de Moscú**, 
 
 - La sesión irá de **06:50 a 23:50**, hora de Moscú.
 - Los **inversores comunes** tendrán un tope de **300.000 rublos al año** (unos **US$ 3.700**) por bróker. Los **calificados**, sin límite.
-- Según la bolsa, el volumen podría llegar a **4 billones de rublos** (unos **US$ 49.000 millones**) en el primer año.
+- Según un directivo de la bolsa, el volumen podría llegar a **4 billones de rublos** (unos **US$ 49.000 millones**) en el primer año.
 
-Para dimensionar: funcionarios rusos estimaron a principios de año que en el país se mueven unos **50.000 millones de rublos por día** en cripto, casi todo por fuera del sistema formal. Rusia ya venía armando el terreno, con planes de [billeteras propias para pagos internacionales](/notas/rusia-billeteras-propias-pagos-internacionales-chistyukhin).
+Para dimensionar: en febrero, un funcionario ruso estimó que en el país se mueven unos **50.000 millones de rublos por día** en cripto. Rusia ya venía armando el terreno, con planes de [billeteras propias para pagos internacionales](/notas/rusia-billeteras-propias-pagos-internacionales-chistyukhin).
 
 ## El problema de las sanciones
 

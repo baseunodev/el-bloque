@@ -28,9 +28,9 @@ El presidente **Donald Trump** reconoció la derrota en el Senado:
 
 > «My message is congratulations to the Democrats, and I look forward to working with you for the good of our country» («Mi mensaje es felicitaciones a los demócratas, y espero trabajar con ustedes por el bien del país»).
 
-Para los comités de acción política cripto fue una **noche mixta**: unos **US$ 75 millones** se fueron en dos carreras que la industria perdió. Además del golpe en Ohio, el comité Digital Freedom Fund había dado **US$ 400.000** a **Ashley Hinson**, que perdió en Iowa. En **Nebraska**, el republicano Pete Ricketts y el independiente **Dan Osborn** estaban empatados con poco más de la mitad de los votos contados.
+Para los comités de acción política cripto fue una **noche mixta**: unos **US$ 75 millones** se fueron en dos carreras que la industria perdió. Además del golpe en Ohio, el comité Digital Freedom Fund había dado **US$ 400.000** a **Ashley Hinson**, que perdió en Iowa. En **Nebraska**, el republicano Ricketts y el independiente **Dan Osborn** estaban empatados con poco más de la mitad de los votos contados.
 
-Bitcoin, mientras tanto, rebotó a la zona de los **US$ 77.400**. En el after-hours, **Tesla** y **SpaceX** cayeron más de **6%**: según Jefferies, Texas concentra cerca del **26%** de los proyectos de centros de datos planeados en EE.UU., y el giro político en ese estado pone en duda el negocio de la IA.
+Bitcoin, mientras tanto, rebotó a la zona de los **US$ 77.400**. En el after-hours, **Tesla** y **SpaceX** cayeron más de **6%**: según Jefferies, Texas concentra cerca del **26%** de los proyectos de centros de datos planeados en EE.UU., por eso las apuestas a la IA y las empresas de Musk podrían salir perdiendo con el giro en ese estado.
 
 ## Ohio: un golpe para el lobby cripto
 
