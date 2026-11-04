@@ -1,5 +1,5 @@
 ---
-title: "Grayscale ve la luz al final del hackeo: «un traspié temporal» que podría dejar a la industria más segura"
+title: "Grayscale ve la luz al final del hackeo de Binance: sería un traspié temporal que podría dejar a la industria más segura"
 description: "Zach Pandl, de Grayscale, dice que el golpe de US$ 6.300 millones a Binance puede dañar la confianza por un tiempo, pero empujar mejores prácticas. Destaca la custodia de los ETF y el mercado rebota 2%."
 kicker: ANÁLISIS
 date: 2026-11-04T09:20:00-03:00
