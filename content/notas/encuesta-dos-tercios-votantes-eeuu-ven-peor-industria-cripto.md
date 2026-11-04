@@ -24,10 +24,10 @@ El sondeo se hizo en **abril** entre **1.000 votantes registrados**. De las **84
 - **533** dijeron tener una visión **menos favorable** de la industria cripto.
 - **316** dijeron tener una visión **más favorable**.
 
-La brecha es mucho mayor entre los **demócratas** (233 contra 88) que entre los **independientes** (88 contra 54). Entre las frases que más se repitieron, una resume el clima:
+La brecha es mucho mayor entre los **demócratas** (233 contra 88) que entre los **independientes** (88 contra 54). Una de las respuestas resume el clima:
 
 > «Cryptocurrency is volatile and unregulated» («Las criptomonedas son volátiles y no están reguladas»).
 
 ## Por qué importa
 
-Si los demócratas ganan el Congreso, como anticipan [los mercados de predicción](/notas/polymarket-recesion-35-por-ciento-si-democratas-barren-congreso), los legisladores van a tener de su lado a un electorado que desconfía del sector. Eso puede pesar en cómo se escriban las próximas leyes cripto.
+Si los demócratas ganan el Congreso, como anticipan [los mercados de predicción](/notas/polymarket-recesion-35-por-ciento-si-democratas-barren-congreso), el partido que tomaría el control es justamente aquel cuyos votantes muestran más desconfianza hacia el sector, según esta encuesta.

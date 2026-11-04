@@ -22,7 +22,7 @@ Llegó el día. Este martes 3 de noviembre Estados Unidos elige a buena parte de
 
 ## Actualización (21:10): cerraron las primeras urnas
 
-A las 21 de Argentina cerraron los primeros centros de votación en el este de EE.UU. Según las encuestas, se espera que los demócratas den vuelta la Cámara, mientras que el Senado sigue abierto. Todavía no hay carreras definidas y puede que no se conozcan todos los resultados esta noche:
+A las 21 de Argentina cerraron los primeros centros de votación de EE.UU. Según las encuestas, se espera que los demócratas den vuelta la Cámara, mientras que el Senado sigue abierto. Todavía no hay carreras definidas y puede que no se conozcan todos los resultados esta noche:
 
 > «it's not certain that all races will be called Tuesday night or Wednesday morning» («no es seguro que todas las carreras se definan el martes a la noche o el miércoles a la mañana»).
 
