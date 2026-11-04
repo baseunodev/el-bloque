@@ -1,5 +1,5 @@
 ---
-title: "Elecciones en EE.UU.: los demócratas retienen Virginia y Georgia en el Senado y crece la espera por las carreras cripto"
+title: "Elecciones en EE.UU.: los demócratas dan vuelta Carolina del Norte y las apuestas ya les dan el Senado al 98%"
 description: "Los mercados de predicción dan a los demócratas como favoritos para quedarse con la Cámara de Representantes. Qué bancas mira la industria, qué dicen las apuestas y qué pasó con bitcoin en otros años electorales."
 kicker: ÚLTIMO MOMENTO
 date: 2026-11-03T00:40:00-03:00
@@ -19,6 +19,10 @@ sources: CoinDesk | https://www.coindesk.com/tech/2026/11/03/election-2026-coind
 Llegó el día. Este martes 3 de noviembre Estados Unidos elige a buena parte de su Congreso en las **elecciones de medio término**, y la industria cripto sigue el resultado con lupa: de quién gane depende el ritmo de las leyes que esperan los exchanges, las stablecoins y los inversores.
 
 > «While crypto isn't a major issue in the 2026 election, the industry will be shaped by who takes office in January» («Aunque cripto no es un tema central de la elección, la industria quedará marcada por quién asuma en enero»).
+
+## Actualización (23:15): los demócratas dan vuelta Carolina del Norte
+
+Primer cambio de partido en el Senado: el demócrata **Roy Cooper** gana la banca que deja el republicano Thom Tillis en **Carolina del Norte**, según las proyecciones. Los republicanos sumaron sus primeras victorias con **Ashley Moody** en Florida y **Shelley Moore Capito** en Virginia Occidental. Las apuestas ya dan **98%** al control demócrata del Senado y **100%** a la Cámara. Cómo reaccionaron bitcoin y Wall Street, en [esta nota](/notas/ola-azul-bitcoin-debajo-77000-nasdaq-futuros-caen-apuestas-98-senado).
 
 ## Actualización (22:10): primeros resultados, dos bancas para los demócratas
 
