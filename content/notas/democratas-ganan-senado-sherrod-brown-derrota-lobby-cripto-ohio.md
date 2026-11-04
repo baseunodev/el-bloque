@@ -1,6 +1,6 @@
 ---
 title: "Los demócratas ganan el Senado y Sherrod Brown vence al lobby cripto en Ohio pese a US$ 63 millones en contra"
-description: "Según la AP, los demócratas llegaron a 51 bancas con la victoria en Iowa. En Texas ganaron el Senado y la gobernación. Fairshake festeja en Alabama, pero pierde su carrera más cara."
+description: "Según la AP, los demócratas llegaron a 51 bancas con la victoria en Iowa. En Texas ganaron el Senado y la gobernación. Fairshake festeja en Alabama, pero pierde en Ohio, donde puso US$ 56 millones."
 kicker: ÚLTIMO MOMENTO
 date: 2026-11-04T02:10:00-03:00
 author: redaccion
@@ -22,9 +22,9 @@ Es oficial: los **demócratas ganaron el control del Senado** de Estados Unidos,
 
 En la **Cámara de Representantes**, la consultora Decision Desk HQ también proyectó una **mayoría demócrata**. Así, el partido se encamina a controlar las dos cámaras desde enero, justo cuando la industria espera leyes clave como la de estructura de mercado.
 
-## Ohio: la derrota más cara del lobby cripto
+## Ohio: un golpe para el lobby cripto
 
-El resultado que más duele en el sector llegó desde **Ohio**. El exsenador **Sherrod Brown**, uno de los críticos más duros de la industria, le ganó al senador republicano **Jon Husted** y recuperó la banca.
+El resultado que más resuena en el sector llegó desde **Ohio**. El exsenador **Sherrod Brown**, a quien el lobby cripto apuntó con todo, le ganó al senador republicano **Jon Husted** y recuperó la banca.
 
 Contra Brown se gastaron unos **US$ 63 millones** de comités cripto: unos **US$ 56 millones** del supercomité **Fairshake** y **US$ 7 millones** de Digital Freedom Fund. No alcanzó.
 
