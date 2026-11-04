@@ -25,10 +25,10 @@ El resultado en **Texas** no solo cambió el mapa político: también golpea a l
 
 La demócrata **Gina Hinojosa**, que le ganó la gobernación a Greg Abbott, propone una **moratoria a los nuevos centros de datos**. Y Texas pesa mucho: según Jefferies, concentra cerca del **26%** de los proyectos de centros de datos planeados en EE.UU. Ya el martes a la noche, Tesla y SpaceX habían caído más de 6% fuera de horario por el mismo motivo, como contamos en [nuestra cobertura del barrido demócrata](/notas/democratas-ganan-senado-sherrod-brown-derrota-lobby-cripto-ohio).
 
-Elon Musk lo tomó con humor (o no tanto):
+Elon Musk reaccionó en redes:
 
 > «Data centers in space looking pretty appealing right now» («Los centros de datos en el espacio se ven bastante atractivos en este momento»).
 
-Muchas mineras de bitcoin se reconvirtieron en los últimos meses para alquilar su capacidad a la IA, como muestra [el caso de Luxor](/notas/luxor-recauda-16-millones-mineros-bitcoin-ia). Un freno en Texas les pega de lleno a ese plan.
+Varias mineras de bitcoin apuestan a usar su capacidad para la IA, como muestra [el caso de Luxor](/notas/luxor-recauda-16-millones-mineros-bitcoin-ia). Un freno en Texas complica ese plan.
 
 **Importante:** una propuesta de campaña no es una ley; la moratoria todavía tendría que aprobarse. No es una recomendación de El Bloque.

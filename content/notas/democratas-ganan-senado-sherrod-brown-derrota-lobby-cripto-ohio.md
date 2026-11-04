@@ -28,7 +28,7 @@ En **Nebraska**, el senador republicano **Pete Ricketts** le ganó al independie
 
 > «Republican Sen. Pete Ricketts has defeated independent challenger Dan Osborn in Nebraska» («El senador republicano Pete Ricketts derrotó al candidato independiente Dan Osborn en Nebraska»).
 
-Trump, por su parte, bajó el tono: «I think we'll work with the Democrats, and we'll get along very well with them» («Creo que vamos a trabajar con los demócratas y nos vamos a llevar muy bien»). En el mercado, la caída de bitcoin hasta **US$ 75.618** dejó unos **US$ 288 millones** en liquidaciones de posiciones compradas en 24 horas, antes del rebote.
+Trump, por su parte, dijo: «I think we'll work with the Democrats, and we'll get along very well with them» («Creo que vamos a trabajar con los demócratas y nos vamos a llevar muy bien»). En el mercado, la caída de bitcoin hasta **US$ 75.618** dejó unos **US$ 288 millones** en liquidaciones de posiciones compradas en 24 horas, antes del rebote.
 
 ## Actualización (05:10): qué cambia para la agenda cripto
 
