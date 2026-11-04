@@ -1,5 +1,5 @@
 ---
-title: "Hoy vota Estados Unidos: las apuestas ya dan a los demócratas la Cámara (94%) y el Senado (76%)"
+title: "Elecciones en EE.UU.: los demócratas retienen Virginia y Georgia en el Senado y crece la espera por las carreras cripto"
 description: "Los mercados de predicción dan a los demócratas como favoritos para quedarse con la Cámara de Representantes. Qué bancas mira la industria, qué dicen las apuestas y qué pasó con bitcoin en otros años electorales."
 kicker: ÚLTIMO MOMENTO
 date: 2026-11-03T00:40:00-03:00
@@ -13,12 +13,23 @@ image: https://images.unsplash.com/photo-1720128401402-81c9dc339870?w=1600&q=75&
 imageAlt: Un poste con un cartel que indica un centro de votación
 imageCredit: "Foto: Phil Hearing / Unsplash"
 imageCreditUrl: https://unsplash.com/photos/a-pole-with-a-sign-that-says-polling-station-bu27Y0xg7dk
-sources: CoinDesk | https://www.coindesk.com/tech/2026/11/03/election-2026-coindesk-live-blog ; Cointelegraph | https://cointelegraph.com/news/us-midterms-2026-live-results-and-what-they-mean-for-crypto ; The Block | https://www.theblock.co/news/regulation/2026-11-03-midterm-election-odds-polymarket-kalshi-democrats-432461 ; Cointelegraph | https://cointelegraph.com/news/us-midterms-2026-stake-crypto-election-day ; CoinDesk | https://www.coindesk.com/policy/2026/11/01/the-key-races-to-watch-for-the-2026-election ; Cointelegraph | https://cointelegraph.com/markets/btc-price-script-midterms-three-things-bitcoin-week
+sources: CoinDesk | https://www.coindesk.com/tech/2026/11/03/election-2026-coindesk-live-blog ; Cointelegraph | https://cointelegraph.com/news/us-midterms-2026-live-results-and-what-they-mean-for-crypto ; Cointelegraph | https://cointelegraph.com/news/us-midterms-2026-live-results-and-what-they-mean-for-crypto ; The Block | https://www.theblock.co/news/regulation/2026-11-03-midterm-election-odds-polymarket-kalshi-democrats-432461 ; Cointelegraph | https://cointelegraph.com/news/us-midterms-2026-stake-crypto-election-day ; CoinDesk | https://www.coindesk.com/policy/2026/11/01/the-key-races-to-watch-for-the-2026-election ; Cointelegraph | https://cointelegraph.com/markets/btc-price-script-midterms-three-things-bitcoin-week
 ---
 
 Llegó el día. Este martes 3 de noviembre Estados Unidos elige a buena parte de su Congreso en las **elecciones de medio término**, y la industria cripto sigue el resultado con lupa: de quién gane depende el ritmo de las leyes que esperan los exchanges, las stablecoins y los inversores.
 
 > «While crypto isn't a major issue in the 2026 election, the industry will be shaped by who takes office in January» («Aunque cripto no es un tema central de la elección, la industria quedará marcada por quién asuma en enero»).
+
+## Actualización (22:10): primeros resultados, dos bancas para los demócratas
+
+Llegaron las primeras proyecciones del Senado y las dos fueron para los demócratas, que buscan llegar a 51 bancas para recuperar la cámara alta:
+
+- **Virginia:** el senador **Mark Warner** fue reelecto y le ganó al republicano Bert Mizusawa. Era el gran favorito.
+- **Georgia:** el senador **Jon Ossoff** retuvo su banca, en la primera carrera más competitiva que se definió en la noche, según la proyección de NBC.
+
+> «they put Democrats on the board as being the first winners called» («ponen a los demócratas en el tablero como los primeros ganadores proyectados»).
+
+Las carreras que más mira la industria cripto, como Ohio (Sherrod Brown contra Jon Husted) y Nebraska, todavía no tienen resultado. Bitcoin, mientras tanto, se mantiene cerca de los **US$ 77.000**.
 
 ## Actualización (21:10): cerraron las primeras urnas
 
