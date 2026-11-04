@@ -13,12 +13,18 @@ image: https://images.unsplash.com/photo-1720128401402-81c9dc339870?w=1600&q=75&
 imageAlt: Un poste con un cartel que indica un centro de votación
 imageCredit: "Foto: Phil Hearing / Unsplash"
 imageCreditUrl: https://unsplash.com/photos/a-pole-with-a-sign-that-says-polling-station-bu27Y0xg7dk
-sources: Cointelegraph | https://cointelegraph.com/news/us-midterms-2026-live-results-and-what-they-mean-for-crypto ; The Block | https://www.theblock.co/news/regulation/2026-11-03-midterm-election-odds-polymarket-kalshi-democrats-432461 ; Cointelegraph | https://cointelegraph.com/news/us-midterms-2026-stake-crypto-election-day ; CoinDesk | https://www.coindesk.com/policy/2026/11/01/the-key-races-to-watch-for-the-2026-election ; Cointelegraph | https://cointelegraph.com/markets/btc-price-script-midterms-three-things-bitcoin-week
+sources: CoinDesk | https://www.coindesk.com/tech/2026/11/03/election-2026-coindesk-live-blog ; Cointelegraph | https://cointelegraph.com/news/us-midterms-2026-live-results-and-what-they-mean-for-crypto ; The Block | https://www.theblock.co/news/regulation/2026-11-03-midterm-election-odds-polymarket-kalshi-democrats-432461 ; Cointelegraph | https://cointelegraph.com/news/us-midterms-2026-stake-crypto-election-day ; CoinDesk | https://www.coindesk.com/policy/2026/11/01/the-key-races-to-watch-for-the-2026-election ; Cointelegraph | https://cointelegraph.com/markets/btc-price-script-midterms-three-things-bitcoin-week
 ---
 
 Llegó el día. Este martes 3 de noviembre Estados Unidos elige a buena parte de su Congreso en las **elecciones de medio término**, y la industria cripto sigue el resultado con lupa: de quién gane depende el ritmo de las leyes que esperan los exchanges, las stablecoins y los inversores.
 
 > «While crypto isn't a major issue in the 2026 election, the industry will be shaped by who takes office in January» («Aunque cripto no es un tema central de la elección, la industria quedará marcada por quién asuma en enero»).
+
+## Actualización (21:10): cerraron las primeras urnas
+
+A las 21 de Argentina cerraron los primeros centros de votación en el este de EE.UU. Según las encuestas, se espera que los demócratas den vuelta la Cámara, mientras que el Senado sigue abierto. Todavía no hay carreras definidas y puede que no se conozcan todos los resultados esta noche:
+
+> «it's not certain that all races will be called Tuesday night or Wednesday morning» («no es seguro que todas las carreras se definan el martes a la noche o el miércoles a la mañana»).
 
 ## Actualización (20:15): empiezan a cerrar las urnas
 
