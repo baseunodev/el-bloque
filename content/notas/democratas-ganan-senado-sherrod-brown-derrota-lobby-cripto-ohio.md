@@ -22,6 +22,14 @@ Es oficial: los **demócratas ganaron el control del Senado** de Estados Unidos,
 
 En la **Cámara de Representantes**, la consultora Decision Desk HQ también proyectó una **mayoría demócrata**. Así, el partido se encamina a controlar las dos cámaras desde enero, justo cuando la industria espera leyes clave como la de estructura de mercado.
 
+## Actualización (05:10): qué cambia para la agenda cripto
+
+Con las dos cámaras en manos demócratas desde enero de 2027, los comités del Congreso pasan a su control, con poder para investigar al gobierno de Trump. El propio Trump, al felicitar a los ganadores, dijo que la guerra con Irán y la inflación que trajo golpearon a los republicanos.
+
+Para la industria, la pregunta es qué pasa con las leyes pendientes. Tim Sun, de HashKey, cree que el cambio frena pero no da vuelta el rumbo:
+
+> «it does not mean that the current policy direction will immediately reverse» («no significa que la dirección actual de la política se vaya a revertir de inmediato»).
+
 ## Actualización (04:10): también ganan la Cámara
 
 Ya es un barrido. Según la **Associated Press**, los demócratas también ganaron el control de la **Cámara de Representantes**, y **Hakeem Jeffries** quedaría como presidente de la cámara. Con eso, controlarán las dos cámaras desde enero.
