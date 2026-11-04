@@ -1,5 +1,5 @@
 ---
-title: "Ola azul: los demócratas quedan a dos bancas del Senado, el impulsor de las leyes cripto en la Cámara está en peligro y bitcoin cae a US$ 76.000"
+title: "Ola azul: los demócratas quedan a dos bancas del Senado, el impulsor de las leyes cripto en la Cámara está en peligro y bitcoin perfora los US$ 76.000"
 description: "French Hill, presidente del comité que impulsó las leyes cripto en la Cámara, va perdiendo en Arkansas. Los demócratas ya dieron vuelta Carolina del Norte y Carolina del Sur, y las apuestas dan el Congreso casi por definido."
 kicker: ÚLTIMO MOMENTO
 date: 2026-11-04T00:15:00-03:00
@@ -19,6 +19,12 @@ sources: CoinDesk | https://www.coindesk.com/tech/2026/11/03/election-2026-coind
 La noche electoral en Estados Unidos va dejando un resultado cada vez más claro: los **demócratas** avanzan en las dos cámaras del Congreso y la industria cripto empieza a mirar con preocupación algunas de sus bancas clave.
 
 > «Democrats just need to flip two more Senate seats to win the body» («A los demócratas solo les falta dar vuelta dos bancas más del Senado para quedarse con la cámara»).
+
+## Actualización (01:10): bitcoin perfora los US$ 76.000
+
+Con más resultados, la tendencia se mantiene. En la Cámara, a las 0:30 de Argentina los demócratas ya tenían **116 bancas** (con cuatro dadas vuelta) contra **66** republicanas; en el Senado, el conteo iba **45 a 36**. En **Texas**, la demócrata **Gina Hinojosa** lideraba la carrera por la gobernación con 13 puntos de ventaja sobre Greg Abbott. Todavía no hay una proyección oficial de quién controla cada cámara.
+
+**Bitcoin** llegó a caer por debajo de los **US$ 76.000**, su nivel más bajo desde el 15 de septiembre, y los futuros del **Nasdaq** se hundían más de **2%**, a su mínimo desde el 31 de julio.
 
 ## El Senado, a un paso
 

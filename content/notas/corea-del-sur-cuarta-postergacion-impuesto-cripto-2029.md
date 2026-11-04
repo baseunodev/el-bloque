@@ -1,5 +1,5 @@
 ---
-title: Corea del Sur va por la cuarta postergación de su impuesto cripto: ahora apunta a 2029
+title: "Corea del Sur ya lo propuso formalmente: el oficialismo pide postergar por cuarta vez el impuesto cripto"
 description: El impuesto del 22% sobre las ganancias con cripto debía empezar en 2027. La presidencia analiza moverlo a 2029 para esperar los datos de EE.UU. Ya se postergó tres veces desde que se creó en 2020.
 kicker: IMPUESTOS
 date: 2026-10-26T17:25:00-03:00
@@ -11,10 +11,16 @@ image: https://images.unsplash.com/photo-1760000843601-2070baed2478?w=1600&q=75&
 imageAlt: Rascacielos y un puente sobre el río Han en Seúl
 imageCredit: Foto: JIWON KANG / Unsplash
 imageCreditUrl: https://unsplash.com/photos/modern-cityscape-with-a-tall-skyscraper-and-bridge-over-river-2csH9SjutAM
-sources: The Block | https://www.theblock.co/news/regulation/2026-10-26-south-korea-weighs-fourth-delay-crypto-tax-431649
+sources: The Block | https://www.theblock.co/news/regulation/2026-11-03-south-koreas-ruling-party-proposes-deferral-crypto-income-tax-432580 ; The Block | https://www.theblock.co/news/regulation/2026-10-26-south-korea-weighs-fourth-delay-crypto-tax-431649
 ---
 
 Corea del Sur tiene uno de los mercados cripto más activos del mundo y un impuesto que nunca llega. La oficina presidencial está analizando **postergar por cuarta vez** el impuesto a las ganancias con criptomonedas, que debía arrancar el **1 de enero de 2027**. La nueva fecha propuesta es el **1 de enero de 2029**.
+
+## Actualización (4 de noviembre, 01:10): el partido de gobierno lo pidió formalmente
+
+Lo que era un análisis ya es una propuesta. **Kim Min-seok**, líder del **Partido Democrático**, propuso formalmente postergar el impuesto en una reunión de la conducción del partido en la Asamblea Nacional. Su argumento: antes de cobrar, el país debería aprobar la **Ley Básica de Activos Digitales**, un marco legal integral para las cripto.
+
+El impuesto sigue siendo de **22%** (con el componente local) sobre las ganancias anuales por vender o prestar cripto, por encima de una deducción de **2,5 millones de wones** (unos US$ 1.870). Si se aprueba, sería la **cuarta postergación** desde que se creó en 2020. La propuesta no fija todavía hasta cuándo.
 
 ## Cómo sería el impuesto
 
