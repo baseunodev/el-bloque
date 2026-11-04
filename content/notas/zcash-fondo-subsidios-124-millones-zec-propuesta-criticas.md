@@ -11,7 +11,7 @@ image: https://images.unsplash.com/photo-1765816589173-d87bf0c38e71?w=1600&q=75&
 imageAlt: Patrón geométrico abstracto de luces encendidas
 imageCredit: Foto: Julia Taubitz / Unsplash
 imageCreditUrl: https://unsplash.com/photos/fYOCiHbHLQ8
-sources: CoinDesk | https://www.coindesk.com/markets/2026/11/04/zcash-grants-committee-drops-plan-to-redirect-98-000-zec-to-future-mining-rewards ; Cointelegraph | https://cointelegraph.com/news/zcash-grants-46m-proposal-governance-backlash
+sources: CoinDesk | https://www.coindesk.com/tech/2026/11/03/election-2026-coindesk-live-blog ; CoinDesk | https://www.coindesk.com/markets/2026/11/04/zcash-grants-committee-drops-plan-to-redirect-98-000-zec-to-future-mining-rewards ; Cointelegraph | https://cointelegraph.com/news/zcash-grants-46m-proposal-governance-backlash
 ---
 
 En **Zcash**, una de las criptomonedas de privacidad más conocidas, hay una discusión fuerte sobre quién se queda con la plata de la red. **Zcash Community Grants (ZCG)**, el fondo que reparte subsidios a proyectos, presentó una propuesta para ceder parte de sus recursos.
@@ -23,6 +23,8 @@ Después de las críticas de la comunidad, **Zcash Community Grants** dio marcha
 > «We've decided not to take this proposal forward» («Decidimos no seguir adelante con esta propuesta»).
 
 El fondo sigue recibiendo el **8% de todos los ZEC nuevos**, unas **144 monedas por día**. Las propuestas alternativas de otros referentes del proyecto, como la del cofundador que pidió [apagar directamente el fondo](/notas/zcash-cofundador-propone-cortar-fondo-de-subsidios), todavía no fueron adoptadas.
+
+En el mercado, **ZEC** encabezó el rebote cripto de la mañana: pasó de unos **US$ 1.150** en Asia a **US$ 1.285**.
 
 ## Qué propone
 
