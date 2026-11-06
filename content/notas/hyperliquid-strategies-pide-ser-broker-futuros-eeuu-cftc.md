@@ -21,7 +21,7 @@ sources: Decrypt | https://decrypt.co/382754/why-hyperliquid-treasury-wants-us-f
 - Desplegó **US$ 802 millones**, sobre todo en HYPE.
 - A fines de septiembre tenía unos **38,5 millones de HYPE**, valuados en cerca de **US$ 3.500 millones**.
 - Reportó una **ganancia neta de US$ 620,6 millones**, casi toda explicada por **US$ 803 millones en ganancias no realizadas**: el HYPE pasó de unos US$ 65 a unos US$ 91 en el período.
-- La compañía está presidida por **Bob Diamond**, ex CEO de Barclays.
+- La compañía está presidida por **Bob Diamond**.
 
 Su CEO, **David Schamis**, lo resumió así: «We deployed $802 million this quarter and filed an application to become a futures commission merchant» («Desplegamos US$ 802 millones este trimestre y presentamos una solicitud para ser un FCM»).
 
