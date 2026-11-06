@@ -11,12 +11,21 @@ image: https://images.unsplash.com/photo-1508345228704-935cc84bf5e2?w=1600&q=75&
 imageAlt: Una cadena de acero gris con candado sobre un portón
 imageCredit: "Foto: John Salvino / Unsplash"
 imageCreditUrl: https://unsplash.com/photos/gray-steel-chain-locked-on-gate-bqGBbLq_yfc
-sources: Cointelegraph | https://cointelegraph.com/news/binance-hackers-move-81-stolen-solana-route-thorchain ; CriptoNoticias | https://www.criptonoticias.com/seguridad-bitcoin/hackers-repartieron-fondos-binance-wallets-robo/
+sources: The Block | https://www.theblock.co/news/markets/2026-11-06-binance-hackers-swap-stolen-tokens-124-million-bitcoin-exchange-plans-withdrawal-reopenings-435930 ; Cointelegraph | https://cointelegraph.com/news/binance-hackers-move-81-stolen-solana-route-thorchain ; CriptoNoticias | https://www.criptonoticias.com/seguridad-bitcoin/hackers-repartieron-fondos-binance-wallets-robo/
 ---
 
 Los autores del robo a Binance están trabajando a toda velocidad para borrar sus huellas. Según la firma de análisis blockchain **Elliptic**, en apenas **cuatro días** repartieron los fondos entre unas **12.000 billeteras** con más de **40.000 transacciones**.
 
 El ritmo es impresionante: según el informe del 2 de noviembre, aparecía **una dirección nueva cada 25 segundos**, con transferencias repetidas para cortar el rastro.
+
+## Actualización (6 de noviembre, 18:10): ya cambiaron US$ 124 millones a bitcoin
+
+Según la firma de análisis Elliptic, los hackers **cambiaron unos US$ 124 millones en altcoins por bitcoin**. La operación ya abarca **más de 20.000 billeteras, 16 blockchains y 65.000 transacciones**, aunque Elliptic cree que todavía **se convirtió poco a efectivo**.
+
+- Del robo total de US$ 6.430 millones, unos **US$ 1.480 millones eran bitcoin**.
+- Hay **US$ 2.850 millones congelados**.
+- «The laundering is clearly automated, but nothing we have seen shows an AI agent making decisions» (El lavado está claramente automatizado, pero nada de lo que vimos muestra a un agente de IA tomando decisiones), dijeron desde Elliptic.
+- Binance planea **reabrir más retiros**.
 
 ## Actualización (4 de noviembre, 07:10): ahora mueven los SOL robados
 
