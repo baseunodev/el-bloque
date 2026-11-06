@@ -26,4 +26,4 @@ Ese día, bitcoin cayó **5,6%** y ether **7,8%**, en plena [ola de liquidacione
 
 ## La semana
 
-Con este retiro, los principales ETF cripto de EE.UU. ya acumulan **salidas por más de US$ 1.100 millones en lo que va de la semana**. La racha venía de antes: el martes, [el IBIT de BlackRock había tenido su mayor salida desde junio](/notas/blackrock-ibit-salida-405-millones-mayor-desde-junio-etf-bitcoin).
+Con este retiro, los principales ETF cripto de EE.UU. ya acumulan **salidas por más de US$ 1.100 millones en lo que va de la semana**. La racha venía de antes: [el IBIT de BlackRock había tenido su mayor salida desde junio](/notas/blackrock-ibit-salida-405-millones-mayor-desde-junio-etf-bitcoin).
