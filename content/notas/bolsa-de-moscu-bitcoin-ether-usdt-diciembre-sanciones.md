@@ -11,12 +11,22 @@ image: https://images.unsplash.com/photo-1652342532673-59a848be8a0a?w=1600&q=75&
 imageAlt: El Kremlin de Moscú junto al río, con un barco navegando
 imageCredit: "Foto: Viktor SOLOMONIK / Unsplash"
 imageCreditUrl: https://unsplash.com/photos/moscow-kremlin-over-a-river-with-a-boat-on-it-and-a-large-building-in-the-background-iRLZWPATf-w
-sources: CoinDesk | https://www.coindesk.com/markets/2026/11/04/u-s-sanctioned-moscow-exchange-to-list-bitcoin-and-tether-s-usdt-in-december
+sources: Cointelegraph | https://cointelegraph.com/news/russia-finalizes-crypto-trading-rules-november-rollout ; CoinDesk | https://www.coindesk.com/markets/2026/11/04/u-s-sanctioned-moscow-exchange-to-list-bitcoin-and-tether-s-usdt-in-december
 ---
 
 Rusia da un paso grande en su relación con las cripto. La **Bolsa de Moscú**, la más grande del país, va a habilitar desde el **1 de diciembre** la compra y venta de **bitcoin**, **ether** y la stablecoin **USDT**.
 
 > «Russia's largest stock exchange is going after the offshore crypto market» («La bolsa más grande de Rusia va por el mercado cripto que hoy opera afuera del país»).
+
+## Actualización (6 de noviembre)
+
+El **Banco de Rusia** terminó de definir las reglas. Lo nuevo:
+
+- Los exchanges podrán ofrecer **bitcoin, ether y USDT** a inversores comunes desde el **17 de noviembre**.
+- El tope para no calificados sigue en **300.000 rublos al año por intermediario**, y **todos** los inversores, calificados o no, deberán aprobar una **prueba obligatoria**.
+- La Bolsa de Moscú arrancaría el 1 de diciembre con **operaciones piloto** de los tres activos.
+- La venta directa entre personas (P2P) quedará **prohibida desde el 1 de julio de 2027**.
+- La ley la firmó Putin el 4 de agosto, rige desde el 1 de septiembre, y en octubre el banco central ya había habilitado a **Sberbank**.
 
 ## Cómo va a funcionar
 
