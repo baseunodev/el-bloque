@@ -11,10 +11,19 @@ image: https://images.unsplash.com/photo-1639327380086-f13b8fef4211?w=1600&q=75&
 imageAlt: Una moneda de ether iluminada por un foco
 imageCredit: Foto: Shubham Dhage / Unsplash
 imageCreditUrl: https://unsplash.com/photos/RNDX5XmZjWo
-sources: Ethereum Foundation | https://blog.ethereum.org/2026/10/22/glamsterdam-hoodi-delay ; crypto.news | https://crypto.news/ethereum-glamsterdam-hoodi-upgrade-postponed/ ; DiarioBitcoin | https://www.diariobitcoin.com/blockchain/ethereum-probara-glamsterdam-en-hoodi-el-26-de-octubre/
+sources: Cointelegraph | https://cointelegraph.com/news/ethereum-devs-fork-glamsterdam-hoodi-smart-contract-risks ; Ethereum Foundation | https://blog.ethereum.org/2026/10/22/glamsterdam-hoodi-delay ; crypto.news | https://crypto.news/ethereum-glamsterdam-hoodi-upgrade-postponed/ ; DiarioBitcoin | https://www.diariobitcoin.com/blockchain/ethereum-probara-glamsterdam-en-hoodi-el-26-de-octubre/
 ---
 
 Hoy, **26 de octubre a las 14:42 de Argentina**, Ethereum tenía que dar un paso clave: activar **Glamsterdam**, su gran actualización del año, en la red de pruebas **Hoodi**. No va a pasar. Los desarrolladores la suspendieron y, por ahora, **no hay fecha nueva**.
+
+## Actualización (6 de noviembre)
+
+Los desarrolladores confirmaron que **Glamsterdam no se va a activar en la red de prueba Hoodi** hasta resolver las dudas sobre **ocho invariantes** de contratos inteligentes.
+
+- El problema está en las **EIP-8037 y EIP-8038**, que cambian cómo se cobra el gas de ciertas operaciones.
+- Según la **Ethereum Foundation**, algunos proyectos asumen costos de gas fijos que estos cambios dejarían sin efecto.
+- Un informe de **ChainSecurity** del 13 de octubre ya había advertido que las dos propuestas podían romper contratos que dependen de esos supuestos cuando fallan llamadas externas.
+- Glamsterdam se había activado en la red de prueba **Sepolia** el 6 de octubre.
 
 ## Qué encontraron
 
