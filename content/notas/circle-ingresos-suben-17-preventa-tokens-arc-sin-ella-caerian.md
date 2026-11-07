@@ -28,6 +28,6 @@ Owen Lau, analista de Clear Street, lo resumió en una nota: «Stablecoins remai
 
 ## A Coinbase le pasa algo parecido
 
-Su socio **Coinbase** muestra la misma tensión entre crecer y ganar plata: sus ingresos por transacciones **cayeron 23% interanual, a US$ 590 millones**, aunque los ingresos totales rondaron los **US$ 1.220 millones** y el EBITDA ajustado subió 60% contra el trimestre anterior, a **US$ 333 millones**. Ya contamos [los resultados completos de Coinbase](/notas/coinbase-resultados-q3-2026-ganancia-719-millones-predicciones).
+**Coinbase** muestra la misma tensión entre crecer y ganar plata: sus ingresos por transacciones **cayeron 23% interanual, a US$ 590 millones**, aunque los ingresos totales rondaron los **US$ 1.220 millones** y el EBITDA ajustado subió 60% contra el trimestre anterior, a **US$ 333 millones**. Ya contamos [los resultados completos de Coinbase](/notas/coinbase-resultados-q3-2026-ganancia-719-millones-predicciones).
 
 Para entender de dónde salen esos tokens, mirá cómo [Arc juntó US$ 1.000 millones en USDC en sus primeras seis semanas](/notas/circle-arc-1000-millones-usdc-seis-semanas).
