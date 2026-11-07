@@ -1,5 +1,5 @@
 ---
-title: "¿Tenías bitcoin el 29 de octubre? Te tocaron monedas eCash: qué son y el error que no tenés que cometer"
+title: "¿Tenés bitcoin en tu propia billetera? Puede que te hayan tocado monedas eCash: qué son y el error que no tenés que cometer"
 description: "Un fork de Bitcoin impulsado por Paul Sztorc les dio a los tenedores un saldo igual en ECX. Antes de tocar nada, conviene entender el riesgo de repetición de transacciones."
 kicker: GUÍA
 date: 2026-11-07T11:10:00-03:00
@@ -14,11 +14,11 @@ imageCreditUrl: https://unsplash.com/photos/gold-padlock-on-white-surface-sLFP7U
 sources: Cointelegraph | https://cointelegraph.com/magazine/bitcoin-holders-have-received-ecash-what-can-you-with-it
 ---
 
-Si el **29 de octubre** tenías bitcoin en una billetera donde vos controlás las claves, tenés algo más: un saldo equivalente en **ECX**, la moneda de **eCash**, un fork de Bitcoin desarrollado por **LayerTwo Labs**, la empresa de **Paul Sztorc**.
+Si tenías bitcoin en una billetera donde vos controlás las claves al momento del fork, tenés algo más: un saldo equivalente en **ECX**, la moneda de **eCash**, un fork de Bitcoin desarrollado por **LayerTwo Labs**, la empresa de **Paul Sztorc**.
 
 ## Qué es eCash
 
-- Es un **fork separado de Bitcoin** que se activó en el **bloque 973.728**.
+- Es un **fork separado de Bitcoin** que se activó en el **bloque 973.728** y se lanzó el **29 de octubre**.
 - Quien tenía el control de sus BTC en ese bloque recibió **la misma cantidad en ECX**.
 - Junto con la red principal arrancaron **cinco cadenas laterales** (sidechains): BitNames, BitAssets, Thunder, Truthcoin y zSide. Faltan Photon y CoinShift.
 
