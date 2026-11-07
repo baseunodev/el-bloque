@@ -25,4 +25,4 @@ Las autoridades chinas frenaron **Solana Accelerate**, el evento que la red **So
 
 ## Por qué importa
 
-China mantiene prohibido el trading cripto y vigila de cerca cualquier promoción del sector, aun cuando se trata de eventos para desarrolladores. Mientras tanto, en otros mercados Solana sigue sumando terreno, como con [las acciones tokenizadas que ya tienen 1,5 millones de tenedores](/notas/solana-acciones-tokenizadas-1-5-millones-tenedores).
+El caso muestra lo difícil que sigue siendo para los proyectos cripto hacer pie en China continental. Mientras tanto, en otros mercados Solana sigue sumando terreno, como con [las acciones tokenizadas que ya tienen 1,5 millones de tenedores](/notas/solana-acciones-tokenizadas-1-5-millones-tenedores).

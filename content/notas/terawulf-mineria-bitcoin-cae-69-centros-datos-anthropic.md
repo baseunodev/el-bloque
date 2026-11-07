@@ -14,7 +14,7 @@ imageCreditUrl: https://unsplash.com/photos/gray-concrete-towers-under-white-clo
 sources: The Block | https://www.theblock.co/news/business/2026-11-06-terawulfs-bitcoin-mining-revenue-falls-69-as-hpc-leasing-surges-amid-anthropic-buildout-435885
 ---
 
-La minera **TeraWulf** confirma una tendencia que se repite en el sector: el bitcoin ya no es su negocio principal. En el tercer trimestre, sus ingresos por minar se desplomaron mientras crecía el alquiler de infraestructura para inteligencia artificial.
+Para la minera **TeraWulf**, el bitcoin ya no es el negocio principal. En el tercer trimestre, sus ingresos por minar se desplomaron mientras crecía el alquiler de infraestructura para inteligencia artificial.
 
 ## Los números
 
@@ -28,4 +28,4 @@ Su presidente y CEO, **Paul Prager**, se refirió a uno de sus proyectos: «Musk
 
 **Ojo:** la ganancia neta es mayormente contable. El negocio operativo todavía da pérdida.
 
-El giro de las mineras hacia los centros de datos también tiene sus frenos: en Texas [crecen las trabas para estas instalaciones](/notas/mineras-bitcoin-centros-datos-caen-texas-hinojosa-moratoria).
+Sobre el cruce entre mineras y centros de datos, mirá también [lo que pasa en Texas](/notas/mineras-bitcoin-centros-datos-caen-texas-hinojosa-moratoria).
