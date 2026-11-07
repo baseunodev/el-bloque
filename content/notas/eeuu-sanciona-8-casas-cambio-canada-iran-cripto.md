@@ -5,7 +5,6 @@ kicker: SANCIONES
 date: 2026-11-07T09:10:00-03:00
 author: redaccion
 section: regulacion
-coins: USDT
 tags: sanciones, ofac, tesoro, iran, canada, fintrac, irgc, casas de cambio
 image: https://images.unsplash.com/photo-1701690544250-f7cb95c934aa?w=1600&q=75&auto=format&fit=crop
 imageAlt: La cúpula del Capitolio de Estados Unidos iluminada de noche
@@ -28,4 +27,4 @@ El secretario del Tesoro, **Scott Bessent**, advirtió: «Treasury will pursue a
 
 ## Una semana dura con Irán
 
-Es la segunda movida fuerte del Tesoro en pocos días: el jueves [le cortó el acceso al sistema financiero de EE. UU. a MEXC por fondos ligados a Irán, Corea del Norte y Rusia](/notas/eeuu-tesoro-corta-mexc-16000-millones-iran-corea-del-norte-rusia).
+Es otra movida fuerte del Tesoro esta semana: también [le cortó el acceso al sistema financiero de EE. UU. a MEXC por fondos ligados a Irán, Corea del Norte y Rusia](/notas/eeuu-tesoro-corta-mexc-16000-millones-iran-corea-del-norte-rusia).
