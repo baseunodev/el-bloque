@@ -5,7 +5,7 @@ kicker: ALERTA
 date: 2026-11-07T07:10:00-03:00
 author: redaccion
 section: regulacion
-coins: POL
+coins: USDC
 tags: polymarket, kalshi, mercados de prediccion, informacion privilegiada, elecciones, encuestas, vanderbilt
 image: https://images.unsplash.com/photo-1791909867713-aa7ec3149960?w=1600&q=75&auto=format&fit=crop
 imageAlt: Dados blancos sobre una superficie de madera
@@ -30,6 +30,6 @@ Brett Goldstein, de ese instituto, opinó: «There's a series of circumstances h
 
 **Polymarket** dijo que detectó las operaciones y que las está investigando. **Kalshi** no quiso hacer comentarios.
 
-**Ojo:** en los mercados de predicción, quien apuesta contra alguien con información anticipada tiene las de perder. Es uno de los riesgos menos visibles de estas plataformas.
+**Ojo:** si operás en mercados de predicción, tené en cuenta que del otro lado puede haber alguien con información que vos no tenés.
 
 No es el primer caso: Polymarket ya había [investigado decenas de apuestas sospechosas antes de las elecciones](/notas/polymarket-investiga-apuestas-elecciones-eeuu-informacion-privilegiada), y la SEC [advirtió sobre la manipulación con información privilegiada en estos mercados](/notas/sec-advierte-manipulacion-informacion-privilegiada-mercados-prediccion).
