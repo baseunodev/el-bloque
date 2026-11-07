@@ -29,4 +29,4 @@ Su CEO, **Stani Kulechov**, dijo: «The Avon team have spent time working on som
 
 ## Por qué importa
 
-En DeFi casi todos los préstamos son a **tasa variable**: el interés cambia según la demanda. Una tasa fija daría previsibilidad, algo clave para atraer a usuarios e instituciones más conservadores. Aave viene de semanas movidas: tuvo que [reabrir mercados que había congelado tras el hackeo a Binance](/notas/aave-reabre-mercados-congelados-hackeo-binance-sin-nuevos-prestamos).
+En los préstamos a **tasa variable**, el interés cambia según la demanda. Una tasa fija daría previsibilidad, algo clave para atraer a usuarios e instituciones más conservadores. Aave viene de semanas movidas: tuvo que [reabrir mercados que había congelado tras el hackeo a Binance](/notas/aave-reabre-mercados-congelados-hackeo-binance-sin-nuevos-prestamos).

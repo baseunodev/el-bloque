@@ -14,7 +14,7 @@ imageCreditUrl: https://unsplash.com/photos/boats-navigate-a-wide-river-beside-a
 sources: The Block | https://www.theblock.co/news/regulation/2026-11-06-nigerias-central-bank-introduces-stablecoin-licensing-rules-bans-algorithmic-versions-435867
 ---
 
-Uno de los mercados cripto más grandes de África ya tiene reglas para las stablecoins. El **Banco Central de Nigeria** publicó una regulación de activos virtuales que **rige desde el 5 de noviembre**.
+Nigeria ya tiene reglas para las stablecoins. El **Banco Central de Nigeria** publicó una regulación de activos virtuales que **rige desde el 5 de noviembre**.
 
 ## Qué cambia
 
@@ -27,4 +27,4 @@ Uno de los mercados cripto más grandes de África ya tiene reglas para las stab
 
 ## Por qué importa
 
-Nigeria es uno de los países donde más se usan las stablecoins para protegerse de la devaluación, algo que en América Latina conocemos bien. México también discute [su propio marco para stablecoins en pesos](/notas/mexico-stablecoins-peso-proyecto-senado). Curiosamente, la exigencia de la regla de viaje llega justo cuando [EE. UU. dio marcha atrás con endurecerla](/notas/eeuu-retira-regla-de-viaje-250-dolares-cripto).
+Las stablecoins se volvieron una herramienta de uso diario en economías con monedas débiles, y los reguladores empiezan a ponerles reglas propias. México también discute [su propio marco para stablecoins en pesos](/notas/mexico-stablecoins-peso-proyecto-senado). Curiosamente, la exigencia de la regla de viaje llega justo cuando [EE. UU. dio marcha atrás con endurecerla](/notas/eeuu-retira-regla-de-viaje-250-dolares-cripto).
